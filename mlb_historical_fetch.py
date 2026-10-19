@@ -36,9 +36,7 @@ def fetch_json(url, retries=MAX_RETRIES):
         except json.JSONDecodeError as e:
             last_err = e
         wait = RETRY_BACKOFF ** attempt
-        print(f"    retry {attempt+1}/{retries} for {url} ({last_err}) — waiting {wait:.0f}s", file=sys.stderr)
         time.sleep(wait)
-    print(f"    GAVE UP on {url}: {last_err}", file=sys.stderr)
     return None
 def save_json(path: Path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -82,7 +80,6 @@ class Coverage:
             w = csv.DictWriter(f, fieldnames=["year", "field", "total_checked", "had_data", "pct_available"])
             w.writeheader()
             w.writerows(out)
-        print(f"\nCoverage report written: {json_path} / {csv_path} ({len(out)} rows)")
 def get_season_game_pks(year, limit=None):
     url = (f"{BASE}/schedule?sportId={SPORT_ID}&season={year}"
            f"&gameType=R,F,D,L,W,C,P,A"
@@ -211,63 +208,34 @@ def get_date_games_with_status(date_str):
     return games
 def poll_live_games(coverage):
     today = time.strftime("%Y-%m-%d", time.gmtime())
-    print(f"=== live poll: {today} (UTC) ===")
     games = get_date_games_with_status(today)
     live = [g for g in games if g["abstractGameState"] == "Live"]
-    print(f"  {len(games)} game(s) on today's schedule, {len(live)} currently Live")
     year = int(today[:4])
     for g in live:
-        print(f"  refreshing gamePk {g['gamePk']} ({g['detailedState']})...")
         fetch_game_data(year, g["gamePk"], skip_existing=False, coverage=coverage, include_feed=True)
-    print(f"  live poll complete: {len(live)} game(s) refreshed.\n")
 def fetch_single_date(date_str, coverage, games_only=False):
     year = int(date_str[:4])
-    print(f"=== {date_str} (year {year}) ===")
     if not games_only:
-        print("  draft (cheap, always refreshed)...")
         fetch_draft(year, skip_existing=False, coverage=coverage)
-        print("  transactions (always refreshed)...")
         fetch_transactions(year, skip_existing=False, coverage=coverage)
-        print("  standings splits (always refreshed)...")
         fetch_standings_splits(year, skip_existing=False, coverage=coverage)
-        print("  rosters (always refreshed)...")
         team_ids = fetch_team_ids()
         fetch_rosters(year, team_ids, skip_existing=False, coverage=coverage)
-    else:
-        print("  games-only mode: skipping draft/transactions/standings/rosters...")
     game_pks = get_date_game_pks(date_str)
-    print(f"  {len(game_pks)} games scheduled on {date_str}...")
     for pk in game_pks:
         fetch_game_data(year, pk, skip_existing=False, coverage=coverage)
-    print(f"  {date_str} complete.\n")
 def main():
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--start", type=int, default=START_YEAR)
     parser.add_argument("--end", type=int, default=END_YEAR)
-    parser.add_argument("--only-years", type=int, nargs="*", default=None,
-                         help="Only process these specific years (overrides --start/--end)")
-    parser.add_argument("--date", type=str, default=None,
-                         help="YYYY-MM-DD: incremental daily mode — only this date's games, "
-                              "plus force-refreshed standings/transactions/roster/draft for "
-                              "its year. Overrides --start/--end/--only-years.")
-    parser.add_argument("--games-only", action="store_true", default=False,
-                         help="With --date: skip draft/transactions/standings/roster and only "
-                              "fetch that date's games. Used for every day in a multi-day "
-                              "catch-up except the last.")
-    parser.add_argument("--live-poll", action="store_true", default=False,
-                         help="Check today's schedule, force-refresh only games currently "
-                              "Live (including the full feed/live payload for those games). "
-                              "Designed to run on a short cron, e.g. every 5 minutes. "
-                              "Overrides --date/--start/--end/--only-years.")
-    parser.add_argument("--games-per-year-limit", type=int, default=None,
-                         help="Cap games processed per year — useful for a quick smoke test")
-    parser.add_argument("--skip-existing", action="store_true", default=True,
-                         help="Skip files already on disk (default: on)")
-    parser.add_argument("--no-skip-existing", dest="skip_existing", action="store_false",
-                         help="Re-download even if the file already exists")
-    parser.add_argument("--output-dir", type=str, default="data",
-                         help="Where to write data/ — e.g. an absolute path so multiple "
-                              "terminals can all point at the same shared folder")
+    parser.add_argument("--only-years", type=int, nargs="*", default=None)
+    parser.add_argument("--date", type=str, default=None)
+    parser.add_argument("--games-only", action="store_true", default=False)
+    parser.add_argument("--live-poll", action="store_true", default=False)
+    parser.add_argument("--games-per-year-limit", type=int, default=None)
+    parser.add_argument("--skip-existing", action="store_true", default=True)
+    parser.add_argument("--no-skip-existing", dest="skip_existing", action="store_false")
+    parser.add_argument("--output-dir", type=str, default="data")
     args = parser.parse_args()
     global DATA_DIR, COVERAGE_SUFFIX
     DATA_DIR = Path(args.output_dir)
@@ -275,47 +243,28 @@ def main():
     if args.live_poll:
         COVERAGE_SUFFIX = "_live"
         coverage = Coverage()
-        print(f"Output directory: {DATA_DIR.resolve()}")
         poll_live_games(coverage)
         coverage.write()
-        print("Live poll processed.")
         return
     if args.date:
         COVERAGE_SUFFIX = f"_{args.date}"
         coverage = Coverage()
-        print(f"Output directory: {DATA_DIR.resolve()}")
         fetch_single_date(args.date, coverage, games_only=args.games_only)
         coverage.write()
-        print("Date processed.")
         return
     years = args.only_years if args.only_years else list(range(args.start, args.end + 1))
     COVERAGE_SUFFIX = f"_{min(years)}-{max(years)}"
     coverage = Coverage()
-    print(f"Output directory: {DATA_DIR.resolve()}")
-    print(f"Years this run: {min(years)}–{max(years)} ({len(years)} years)\n")
-    print("Fetching team list (shared across all years)...")
     team_ids = fetch_team_ids()
-    print(f"  {len(team_ids)} teams found.\n")
     for year in years:
-        print(f"=== {year} ===")
-        print("  draft...")
         fetch_draft(year, args.skip_existing, coverage)
-        print("  transactions...")
         fetch_transactions(year, args.skip_existing, coverage)
-        print("  standings splits...")
         fetch_standings_splits(year, args.skip_existing, coverage)
-        print(f"  rosters ({len(team_ids)} teams)...")
         fetch_rosters(year, team_ids, args.skip_existing, coverage)
-        print("  schedule...")
         game_pks = get_season_game_pks(year, limit=args.games_per_year_limit)
-        print(f"  {len(game_pks)} games to process...")
         for i, pk in enumerate(game_pks, 1):
             fetch_game_data(year, pk, args.skip_existing, coverage)
-            if i % 50 == 0:
-                print(f"    ...{i}/{len(game_pks)} games done")
-        print(f"  {year} complete.\n")
         coverage.write()
-    print("All years processed.")
     coverage.write()
 if __name__ == "__main__":
     main()
