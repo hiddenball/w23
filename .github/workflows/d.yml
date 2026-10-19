@@ -36,10 +36,6 @@ jobs:
             return 1
           }
           through=$(date -u -d "yesterday" +%F)
-          if [ "${through:0:4}" -gt "2030" ]; then
-            echo "Past 2030 - nothing to do, this repo's job is done."
-            exit 0
-          fi
           if [ -f data/last_updated.txt ]; then
             last=$(cat data/last_updated.txt)
           else
@@ -70,5 +66,8 @@ jobs:
             n=$((n + 1))
             if [ $((n % 7)) -eq 0 ]; then commit_and_push || exit 1; fi
           done
+          year=$(date -u -d "$through" +%Y)
+          echo "--- rebuilding monthly transaction files for $year ---"
+          python3 rebuild_monthly_tx.py --year "$year" --root data || true
           commit_and_push || exit 1
           exit $failed
