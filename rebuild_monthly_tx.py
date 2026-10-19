@@ -42,7 +42,6 @@ def build(year, root="."):
         out_path = os.path.join(out_dir, f"{month}.json")
         with open(out_path, "w") as f:
             json.dump(payload, f, separators=(",", ":"))
-        print(f"{out_path}: {len(rows)} tx")
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--year", type=int, required=True)
