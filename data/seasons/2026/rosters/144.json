@@ -465,8 +465,8 @@
         "abbreviation": "CF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "MIN",
+        "description": "Minor League Contract"
       }
     },
     {
@@ -1059,8 +1059,8 @@
         "abbreviation": "SS"
       },
       "status": {
-        "code": "DES",
-        "description": "Designated for Assignment"
+        "code": "MIN",
+        "description": "Minor League Contract"
       }
     },
     {
