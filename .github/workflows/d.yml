@@ -27,10 +27,9 @@ jobs:
           commit_and_push() {
             git add data
             if git diff --cached --quiet; then return 0; fi
-            git commit -q -m "Daily update through $(cat data/last_updated.txt 2>/dev/null || echo partial)"
+            git commit -q -m "$(date -u +%s)$RANDOM$RANDOM"
             for i in 1 2 3 4 5; do
               if git pull -q --rebase origin "$BRANCH" && git push -q origin "$BRANCH"; then return 0; fi
-              echo "push failed, retry $i..."
               sleep $((RANDOM % 15 + 5))
             done
             return 1
@@ -41,22 +40,19 @@ jobs:
           else
             last=$(date -u -d "2026-01-01 - 1 day" +%F)
           fi
-          echo "Last updated: $last  |  Fetching through: $through"
           failed=0
           if [ "$(date -u -d "$last" +%s)" -ge "$(date -u -d "$through" +%s)" ]; then
-            echo "Already up to date."
+            :
           else
             cursor=$(date -u -d "$last + 1 day" +%F)
             n=0
             while [ "$(date -u -d "$cursor" +%s)" -le "$(date -u -d "$through" +%s)" ]; do
-              echo "--- fetching $cursor ---"
               if [ "$cursor" = "$through" ]; then
                 python3 mlb_historical_fetch.py --date "$cursor" --output-dir data && ok=1 || ok=0
               else
                 python3 mlb_historical_fetch.py --date "$cursor" --games-only --output-dir data && ok=1 || ok=0
               fi
               if [ "$ok" -ne 1 ]; then
-                echo "Requests failed on $cursor - not marking it done; it will be retried next run."
                 failed=1
                 break
               fi
@@ -67,7 +63,12 @@ jobs:
             done
           fi
           year=$(date -u -d "$through" +%Y)
-          echo "--- rebuilding monthly transaction files for $year ---"
           python3 rebuild_monthly_tx.py --year "$year" --root . || true
           commit_and_push || exit 1
+          curl -s "https://purge.jsdelivr.net/gh/hiddenball/w23@main/data/last_updated.txt" > /dev/null
+          for m in 01 02 03 04 05 06 07 08 09 10 11 12; do
+            curl -s "https://purge.jsdelivr.net/gh/hiddenball/w23@main/data/seasons/$year/transactions/$m.json" > /dev/null
+          done
+          curl -s "https://purge.jsdelivr.net/gh/hiddenball/w23@main/data/seasons/$year/transactions.json" > /dev/null
+          curl -s "https://purge.jsdelivr.net/gh/hiddenball/w23@main/data/seasons/$year/standings-splits.json" > /dev/null
           exit $failed
