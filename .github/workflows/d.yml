@@ -68,6 +68,6 @@ jobs:
           done
           year=$(date -u -d "$through" +%Y)
           echo "--- rebuilding monthly transaction files for $year ---"
-          python3 rebuild_monthly_tx.py --year "$year" --root data || true
+          python3 rebuild_monthly_tx.py --year "$year" --root . || true
           commit_and_push || exit 1
           exit $failed
