@@ -51,8 +51,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "MIN",
+        "description": "Minor League Contract"
       }
     },
     {
@@ -483,8 +483,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "MIN",
+        "description": "Minor League Contract"
       }
     },
     {
@@ -627,8 +627,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "MIN",
+        "description": "Minor League Contract"
       }
     },
     {
@@ -825,8 +825,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "MIN",
+        "description": "Minor League Contract"
       }
     },
     {
