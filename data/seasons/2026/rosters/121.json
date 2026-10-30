@@ -591,8 +591,8 @@
         "abbreviation": "OF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "DES",
+        "description": "Designated for Assignment"
       }
     },
     {

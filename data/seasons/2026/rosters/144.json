@@ -213,8 +213,8 @@
         "abbreviation": "LF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -267,8 +267,8 @@
         "abbreviation": "DH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -411,8 +411,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -501,8 +501,8 @@
         "abbreviation": "SS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -591,8 +591,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -753,8 +753,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -825,8 +825,8 @@
         "abbreviation": "DH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -933,8 +933,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -951,8 +951,8 @@
         "abbreviation": "1B"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -987,8 +987,8 @@
         "abbreviation": "LF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -1023,8 +1023,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {

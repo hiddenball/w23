@@ -393,8 +393,8 @@
         "abbreviation": "2B"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -447,8 +447,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -573,8 +573,8 @@
         "abbreviation": "C"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -789,8 +789,8 @@
         "abbreviation": "3B"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {

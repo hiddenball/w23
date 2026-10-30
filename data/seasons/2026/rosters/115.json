@@ -321,8 +321,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -717,8 +717,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -753,8 +753,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -843,8 +843,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {

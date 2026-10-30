@@ -15,8 +15,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -267,8 +267,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -627,8 +627,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -933,8 +933,8 @@
         "abbreviation": "CF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -951,8 +951,8 @@
         "abbreviation": "C"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -987,8 +987,8 @@
         "abbreviation": "LF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
