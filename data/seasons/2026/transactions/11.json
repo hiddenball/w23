@@ -1,1 +1,1 @@
-{"v":1,"year":2026,"month":"11","types":{},"tx":[]}
+{"v":1,"year":2026,"month":"11","types":{"DES":"Designated for Assignment","TR":"Trade"},"tx":[["2026-11-01","DES",663992,"Richard Lovelady",null,120,"Washington Nationals designated LHP Richard Lovelady for assignment."],["2026-11-01","TR",801501,"Nate Furman",137,120,"San Francisco Giants traded 2B Nate Furman to Washington Nationals for LHP Tony Neubeck."],["2026-11-01","TR",801967,"Tony Neubeck",120,137,"San Francisco Giants traded 2B Nate Furman to Washington Nationals for LHP Tony Neubeck."]]}
