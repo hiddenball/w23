@@ -5,7 +5,8 @@
       "person": {
         "id": 682634,
         "fullName": "Kevin Alcántara",
-        "link": "/api/v1/people/682634"
+        "link": "/api/v1/people/682634",
+        "nameSlug": "kevin-alcantara-682634"
       },
       "jerseyNumber": "13",
       "position": {
@@ -23,7 +24,8 @@
       "person": {
         "id": 665804,
         "fullName": "Miguel Amaya",
-        "link": "/api/v1/people/665804"
+        "link": "/api/v1/people/665804",
+        "nameSlug": "miguel-amaya-665804"
       },
       "jerseyNumber": "9",
       "position": {
@@ -41,7 +43,8 @@
       "person": {
         "id": 672356,
         "fullName": "Gabriel Arias",
-        "link": "/api/v1/people/672356"
+        "link": "/api/v1/people/672356",
+        "nameSlug": "gabriel-arias-672356"
       },
       "jerseyNumber": "43",
       "position": {
@@ -59,7 +62,8 @@
       "person": {
         "id": 665871,
         "fullName": "Javier Assad",
-        "link": "/api/v1/people/665871"
+        "link": "/api/v1/people/665871",
+        "nameSlug": "javier-assad-665871"
       },
       "jerseyNumber": "72",
       "position": {
@@ -77,7 +81,8 @@
       "person": {
         "id": 694208,
         "fullName": "Moisés Ballesteros",
-        "link": "/api/v1/people/694208"
+        "link": "/api/v1/people/694208",
+        "nameSlug": "moises-ballesteros-694208"
       },
       "jerseyNumber": "25",
       "position": {
@@ -95,7 +100,8 @@
       "person": {
         "id": 656212,
         "fullName": "Charlie Barnes",
-        "link": "/api/v1/people/656212"
+        "link": "/api/v1/people/656212",
+        "nameSlug": "charlie-barnes-656212"
       },
       "jerseyNumber": "58",
       "position": {
@@ -113,7 +119,8 @@
       "person": {
         "id": 621389,
         "fullName": "Ty Blach",
-        "link": "/api/v1/people/621389"
+        "link": "/api/v1/people/621389",
+        "nameSlug": "ty-blach-621389"
       },
       "jerseyNumber": "",
       "position": {
@@ -131,7 +138,8 @@
       "person": {
         "id": 571510,
         "fullName": "Matthew Boyd",
-        "link": "/api/v1/people/571510"
+        "link": "/api/v1/people/571510",
+        "nameSlug": "matthew-boyd-571510"
       },
       "jerseyNumber": "16",
       "position": {
@@ -149,7 +157,8 @@
       "person": {
         "id": 608324,
         "fullName": "Alex Bregman",
-        "link": "/api/v1/people/608324"
+        "link": "/api/v1/people/608324",
+        "nameSlug": "alex-bregman-608324"
       },
       "jerseyNumber": "3",
       "position": {
@@ -167,7 +176,8 @@
       "person": {
         "id": 676962,
         "fullName": "Ben Brown",
-        "link": "/api/v1/people/676962"
+        "link": "/api/v1/people/676962",
+        "nameSlug": "ben-brown-676962"
       },
       "jerseyNumber": "32",
       "position": {
@@ -185,7 +195,8 @@
       "person": {
         "id": 683737,
         "fullName": "Michael Busch",
-        "link": "/api/v1/people/683737"
+        "link": "/api/v1/people/683737",
+        "nameSlug": "michael-busch-683737"
       },
       "jerseyNumber": "29",
       "position": {
@@ -203,7 +214,8 @@
       "person": {
         "id": 665795,
         "fullName": "Edward Cabrera",
-        "link": "/api/v1/people/665795"
+        "link": "/api/v1/people/665795",
+        "nameSlug": "edward-cabrera-665795"
       },
       "jerseyNumber": "30",
       "position": {
@@ -221,7 +233,8 @@
       "person": {
         "id": 666185,
         "fullName": "Dylan Carlson",
-        "link": "/api/v1/people/666185"
+        "link": "/api/v1/people/666185",
+        "nameSlug": "dylan-carlson-666185"
       },
       "jerseyNumber": "",
       "position": {
@@ -239,7 +252,8 @@
       "person": {
         "id": 650644,
         "fullName": "Aaron Civale",
-        "link": "/api/v1/people/650644"
+        "link": "/api/v1/people/650644",
+        "nameSlug": "aaron-civale-650644"
       },
       "jerseyNumber": "38",
       "position": {
@@ -257,7 +271,8 @@
       "person": {
         "id": 624424,
         "fullName": "Michael Conforto",
-        "link": "/api/v1/people/624424"
+        "link": "/api/v1/people/624424",
+        "nameSlug": "michael-conforto-624424"
       },
       "jerseyNumber": "20",
       "position": {
@@ -275,7 +290,8 @@
       "person": {
         "id": 691718,
         "fullName": "Pete Crow-Armstrong",
-        "link": "/api/v1/people/691718"
+        "link": "/api/v1/people/691718",
+        "nameSlug": "pete-crow-armstrong-691718"
       },
       "jerseyNumber": "4",
       "position": {
@@ -293,7 +309,8 @@
       "person": {
         "id": 681909,
         "fullName": "Justin Dean",
-        "link": "/api/v1/people/681909"
+        "link": "/api/v1/people/681909",
+        "nameSlug": "justin-dean-681909"
       },
       "jerseyNumber": "1",
       "position": {
@@ -311,7 +328,8 @@
       "person": {
         "id": 621053,
         "fullName": "Tyler Ferguson",
-        "link": "/api/v1/people/621053"
+        "link": "/api/v1/people/621053",
+        "nameSlug": "tyler-ferguson-621053"
       },
       "jerseyNumber": "64",
       "position": {
@@ -329,7 +347,8 @@
       "person": {
         "id": 666129,
         "fullName": "Braxton Garrett",
-        "link": "/api/v1/people/666129"
+        "link": "/api/v1/people/666129",
+        "nameSlug": "braxton-garrett-666129"
       },
       "jerseyNumber": "60",
       "position": {
@@ -347,7 +366,8 @@
       "person": {
         "id": 592332,
         "fullName": "Kevin Gausman",
-        "link": "/api/v1/people/592332"
+        "link": "/api/v1/people/592332",
+        "nameSlug": "kevin-gausman-592332"
       },
       "jerseyNumber": "12",
       "position": {
@@ -365,7 +385,8 @@
       "person": {
         "id": 664023,
         "fullName": "Ian Happ",
-        "link": "/api/v1/people/664023"
+        "link": "/api/v1/people/664023",
+        "nameSlug": "ian-happ-664023"
       },
       "jerseyNumber": "8",
       "position": {
@@ -383,7 +404,8 @@
       "person": {
         "id": 640451,
         "fullName": "Hunter Harvey",
-        "link": "/api/v1/people/640451"
+        "link": "/api/v1/people/640451",
+        "nameSlug": "hunter-harvey-640451"
       },
       "jerseyNumber": "45",
       "position": {
@@ -401,7 +423,8 @@
       "person": {
         "id": 663538,
         "fullName": "Nico Hoerner",
-        "link": "/api/v1/people/663538"
+        "link": "/api/v1/people/663538",
+        "nameSlug": "nico-hoerner-663538"
       },
       "jerseyNumber": "2",
       "position": {
@@ -419,7 +442,8 @@
       "person": {
         "id": 668970,
         "fullName": "Gavin Hollowell",
-        "link": "/api/v1/people/668970"
+        "link": "/api/v1/people/668970",
+        "nameSlug": "gavin-hollowell-668970"
       },
       "jerseyNumber": "46",
       "position": {
@@ -437,7 +461,8 @@
       "person": {
         "id": 605280,
         "fullName": "Clay Holmes",
-        "link": "/api/v1/people/605280"
+        "link": "/api/v1/people/605280",
+        "nameSlug": "clay-holmes-605280"
       },
       "jerseyNumber": "25",
       "position": {
@@ -455,7 +480,8 @@
       "person": {
         "id": 690990,
         "fullName": "Cade Horton",
-        "link": "/api/v1/people/690990"
+        "link": "/api/v1/people/690990",
+        "nameSlug": "cade-horton-690990"
       },
       "jerseyNumber": "22",
       "position": {
@@ -473,7 +499,8 @@
       "person": {
         "id": 684007,
         "fullName": "Shota Imanaga",
-        "link": "/api/v1/people/684007"
+        "link": "/api/v1/people/684007",
+        "nameSlug": "shota-imanaga-684007"
       },
       "jerseyNumber": "18",
       "position": {
@@ -491,7 +518,8 @@
       "person": {
         "id": 681520,
         "fullName": "Antoine Kelly",
-        "link": "/api/v1/people/681520"
+        "link": "/api/v1/people/681520",
+        "nameSlug": "antoine-kelly-681520"
       },
       "jerseyNumber": "62",
       "position": {
@@ -509,7 +537,8 @@
       "person": {
         "id": 608348,
         "fullName": "Carson Kelly",
-        "link": "/api/v1/people/608348"
+        "link": "/api/v1/people/608348",
+        "nameSlug": "carson-kelly-608348"
       },
       "jerseyNumber": "15",
       "position": {
@@ -527,7 +556,8 @@
       "person": {
         "id": 664068,
         "fullName": "Scott Kingery",
-        "link": "/api/v1/people/664068"
+        "link": "/api/v1/people/664068",
+        "nameSlug": "scott-kingery-664068"
       },
       "jerseyNumber": "12",
       "position": {
@@ -545,7 +575,8 @@
       "person": {
         "id": 681432,
         "fullName": "Luke Little",
-        "link": "/api/v1/people/681432"
+        "link": "/api/v1/people/681432",
+        "nameSlug": "luke-little-681432"
       },
       "jerseyNumber": "43",
       "position": {
@@ -563,7 +594,8 @@
       "person": {
         "id": 670032,
         "fullName": "Nicky Lopez",
-        "link": "/api/v1/people/670032"
+        "link": "/api/v1/people/670032",
+        "nameSlug": "nicky-lopez-670032"
       },
       "jerseyNumber": "5",
       "position": {
@@ -581,7 +613,8 @@
       "person": {
         "id": 656686,
         "fullName": "Corbin Martin",
-        "link": "/api/v1/people/656686"
+        "link": "/api/v1/people/656686",
+        "nameSlug": "corbin-martin-656686"
       },
       "jerseyNumber": "38",
       "position": {
@@ -599,7 +632,8 @@
       "person": {
         "id": 702303,
         "fullName": "Riley Martin",
-        "link": "/api/v1/people/702303"
+        "link": "/api/v1/people/702303",
+        "nameSlug": "riley-martin-702303"
       },
       "jerseyNumber": "51",
       "position": {
@@ -617,7 +651,8 @@
       "person": {
         "id": 664208,
         "fullName": "Phil Maton",
-        "link": "/api/v1/people/664208"
+        "link": "/api/v1/people/664208",
+        "nameSlug": "phil-maton-664208"
       },
       "jerseyNumber": "88",
       "position": {
@@ -635,7 +670,8 @@
       "person": {
         "id": 680911,
         "fullName": "Owen Miller",
-        "link": "/api/v1/people/680911"
+        "link": "/api/v1/people/680911",
+        "nameSlug": "owen-miller-680911"
       },
       "jerseyNumber": "66",
       "position": {
@@ -653,7 +689,8 @@
       "person": {
         "id": 571948,
         "fullName": "Hoby Milner",
-        "link": "/api/v1/people/571948"
+        "link": "/api/v1/people/571948",
+        "nameSlug": "hoby-milner-571948"
       },
       "jerseyNumber": "41",
       "position": {
@@ -671,7 +708,8 @@
       "person": {
         "id": 681230,
         "fullName": "BJ Murray Jr.",
-        "link": "/api/v1/people/681230"
+        "link": "/api/v1/people/681230",
+        "nameSlug": "bj-murray-jr-681230"
       },
       "jerseyNumber": "83",
       "position": {
@@ -689,7 +727,8 @@
       "person": {
         "id": 681151,
         "fullName": "Jayden Murray",
-        "link": "/api/v1/people/681151"
+        "link": "/api/v1/people/681151",
+        "nameSlug": "jayden-murray-681151"
       },
       "jerseyNumber": "70",
       "position": {
@@ -707,7 +746,8 @@
       "person": {
         "id": 694037,
         "fullName": "Daniel Palencia",
-        "link": "/api/v1/people/694037"
+        "link": "/api/v1/people/694037",
+        "nameSlug": "daniel-palencia-694037"
       },
       "jerseyNumber": "48",
       "position": {
@@ -725,7 +765,8 @@
       "person": {
         "id": 656849,
         "fullName": "David Peterson",
-        "link": "/api/v1/people/656849"
+        "link": "/api/v1/people/656849",
+        "nameSlug": "david-peterson-656849"
       },
       "jerseyNumber": "19",
       "position": {
@@ -743,7 +784,8 @@
       "person": {
         "id": 519141,
         "fullName": "Drew Pomeranz",
-        "link": "/api/v1/people/519141"
+        "link": "/api/v1/people/519141",
+        "nameSlug": "drew-pomeranz-519141"
       },
       "jerseyNumber": "47",
       "position": {
@@ -761,7 +803,8 @@
       "person": {
         "id": 699393,
         "fullName": "Pedro Ramírez",
-        "link": "/api/v1/people/699393"
+        "link": "/api/v1/people/699393",
+        "nameSlug": "pedro-ramirez-699393"
       },
       "jerseyNumber": "75",
       "position": {
@@ -779,7 +822,8 @@
       "person": {
         "id": 607067,
         "fullName": "Colin Rea",
-        "link": "/api/v1/people/607067"
+        "link": "/api/v1/people/607067",
+        "nameSlug": "colin-rea-607067"
       },
       "jerseyNumber": "53",
       "position": {
@@ -797,7 +841,8 @@
       "person": {
         "id": 605441,
         "fullName": "Yacksel Ríos",
-        "link": "/api/v1/people/605441"
+        "link": "/api/v1/people/605441",
+        "nameSlug": "yacksel-rios-605441"
       },
       "jerseyNumber": "",
       "position": {
@@ -815,7 +860,8 @@
       "person": {
         "id": 681799,
         "fullName": "Ethan Roberts",
-        "link": "/api/v1/people/681799"
+        "link": "/api/v1/people/681799",
+        "nameSlug": "ethan-roberts-681799"
       },
       "jerseyNumber": "39",
       "position": {
@@ -833,7 +879,8 @@
       "person": {
         "id": 669020,
         "fullName": "Ryan Rolison",
-        "link": "/api/v1/people/669020"
+        "link": "/api/v1/people/669020",
+        "nameSlug": "ryan-rolison-669020"
       },
       "jerseyNumber": "33",
       "position": {
@@ -851,7 +898,8 @@
       "person": {
         "id": 807713,
         "fullName": "Matt Shaw",
-        "link": "/api/v1/people/807713"
+        "link": "/api/v1/people/807713",
+        "nameSlug": "matt-shaw-807713"
       },
       "jerseyNumber": "6",
       "position": {
@@ -869,7 +917,8 @@
       "person": {
         "id": 673548,
         "fullName": "Seiya Suzuki",
-        "link": "/api/v1/people/673548"
+        "link": "/api/v1/people/673548",
+        "nameSlug": "seiya-suzuki-673548"
       },
       "jerseyNumber": "27",
       "position": {
@@ -887,7 +936,8 @@
       "person": {
         "id": 621020,
         "fullName": "Dansby Swanson",
-        "link": "/api/v1/people/621020"
+        "link": "/api/v1/people/621020",
+        "nameSlug": "dansby-swanson-621020"
       },
       "jerseyNumber": "7",
       "position": {
@@ -905,7 +955,8 @@
       "person": {
         "id": 592791,
         "fullName": "Jameson Taillon",
-        "link": "/api/v1/people/592791"
+        "link": "/api/v1/people/592791",
+        "nameSlug": "jameson-taillon-592791"
       },
       "jerseyNumber": "50",
       "position": {
@@ -923,7 +974,8 @@
       "person": {
         "id": 621438,
         "fullName": "Tyrone Taylor",
-        "link": "/api/v1/people/621438"
+        "link": "/api/v1/people/621438",
+        "nameSlug": "tyrone-taylor-621438"
       },
       "jerseyNumber": "55",
       "position": {
@@ -941,7 +993,8 @@
       "person": {
         "id": 573204,
         "fullName": "Caleb Thielbar",
-        "link": "/api/v1/people/573204"
+        "link": "/api/v1/people/573204",
+        "nameSlug": "caleb-thielbar-573204"
       },
       "jerseyNumber": "24",
       "position": {
@@ -959,7 +1012,8 @@
       "person": {
         "id": 663423,
         "fullName": "Trent Thornton",
-        "link": "/api/v1/people/663423"
+        "link": "/api/v1/people/663423",
+        "nameSlug": "trent-thornton-663423"
       },
       "jerseyNumber": "49",
       "position": {
@@ -977,7 +1031,8 @@
       "person": {
         "id": 701649,
         "fullName": "James Triantos",
-        "link": "/api/v1/people/701649"
+        "link": "/api/v1/people/701649",
+        "nameSlug": "james-triantos-701649"
       },
       "jerseyNumber": "5",
       "position": {
@@ -995,7 +1050,8 @@
       "person": {
         "id": 592826,
         "fullName": "Vince Velasquez",
-        "link": "/api/v1/people/592826"
+        "link": "/api/v1/people/592826",
+        "nameSlug": "vince-velasquez-592826"
       },
       "jerseyNumber": "56",
       "position": {
@@ -1013,7 +1069,8 @@
       "person": {
         "id": 681806,
         "fullName": "Andrew Wantz",
-        "link": "/api/v1/people/681806"
+        "link": "/api/v1/people/681806",
+        "nameSlug": "andrew-wantz-681806"
       },
       "jerseyNumber": "",
       "position": {
@@ -1031,7 +1088,8 @@
       "person": {
         "id": 657097,
         "fullName": "Jacob Webb",
-        "link": "/api/v1/people/657097"
+        "link": "/api/v1/people/657097",
+        "nameSlug": "jacob-webb-657097"
       },
       "jerseyNumber": "71",
       "position": {
@@ -1049,7 +1107,8 @@
       "person": {
         "id": 696136,
         "fullName": "Jordan Wicks",
-        "link": "/api/v1/people/696136"
+        "link": "/api/v1/people/696136",
+        "nameSlug": "jordan-wicks-696136"
       },
       "jerseyNumber": "36",
       "position": {
@@ -1067,7 +1126,8 @@
       "person": {
         "id": 669060,
         "fullName": "Bryse Wilson",
-        "link": "/api/v1/people/669060"
+        "link": "/api/v1/people/669060",
+        "nameSlug": "bryse-wilson-669060"
       },
       "jerseyNumber": "55",
       "position": {
@@ -1085,7 +1145,8 @@
       "person": {
         "id": 663765,
         "fullName": "Jake Woodford",
-        "link": "/api/v1/people/663765"
+        "link": "/api/v1/people/663765",
+        "nameSlug": "jake-woodford-663765"
       },
       "jerseyNumber": "40",
       "position": {
@@ -1103,7 +1164,8 @@
       "person": {
         "id": 666171,
         "fullName": "Ryan Zeferjahn",
-        "link": "/api/v1/people/666171"
+        "link": "/api/v1/people/666171",
+        "nameSlug": "ryan-zeferjahn-666171"
       },
       "jerseyNumber": "56",
       "position": {

@@ -5,7 +5,8 @@
       "person": {
         "id": 666176,
         "fullName": "Jo Adell",
-        "link": "/api/v1/people/666176"
+        "link": "/api/v1/people/666176",
+        "nameSlug": "jo-adell-666176"
       },
       "jerseyNumber": "7",
       "position": {
@@ -23,7 +24,8 @@
       "person": {
         "id": 691951,
         "fullName": "Sam Aldegheri",
-        "link": "/api/v1/people/691951"
+        "link": "/api/v1/people/691951",
+        "nameSlug": "sam-aldegheri-691951"
       },
       "jerseyNumber": "61",
       "position": {
@@ -41,7 +43,8 @@
       "person": {
         "id": 641312,
         "fullName": "Shaun Anderson",
-        "link": "/api/v1/people/641312"
+        "link": "/api/v1/people/641312",
+        "nameSlug": "shaun-anderson-641312"
       },
       "jerseyNumber": "",
       "position": {
@@ -59,7 +62,8 @@
       "person": {
         "id": 696147,
         "fullName": "Sam Bachman",
-        "link": "/api/v1/people/696147"
+        "link": "/api/v1/people/696147",
+        "nameSlug": "sam-bachman-696147"
       },
       "jerseyNumber": "40",
       "position": {
@@ -77,7 +81,8 @@
       "person": {
         "id": 694208,
         "fullName": "Moisés Ballesteros",
-        "link": "/api/v1/people/694208"
+        "link": "/api/v1/people/694208",
+        "nameSlug": "moises-ballesteros-694208"
       },
       "jerseyNumber": "13",
       "position": {
@@ -95,7 +100,8 @@
       "person": {
         "id": 672569,
         "fullName": "Gustavo Campero",
-        "link": "/api/v1/people/672569"
+        "link": "/api/v1/people/672569",
+        "nameSlug": "gustavo-campero-672569"
       },
       "jerseyNumber": "51",
       "position": {
@@ -113,7 +119,8 @@
       "person": {
         "id": 600869,
         "fullName": "Jeimer Candelario",
-        "link": "/api/v1/people/600869"
+        "link": "/api/v1/people/600869",
+        "nameSlug": "jeimer-candelario-600869"
       },
       "jerseyNumber": "46",
       "position": {
@@ -131,7 +138,8 @@
       "person": {
         "id": 672282,
         "fullName": "Reid Detmers",
-        "link": "/api/v1/people/672282"
+        "link": "/api/v1/people/672282",
+        "nameSlug": "reid-detmers-672282"
       },
       "jerseyNumber": "48",
       "position": {
@@ -149,7 +157,8 @@
       "person": {
         "id": 815083,
         "fullName": "Mitch Farris",
-        "link": "/api/v1/people/815083"
+        "link": "/api/v1/people/815083",
+        "nameSlug": "mitch-farris-815083"
       },
       "jerseyNumber": "70",
       "position": {
@@ -167,7 +176,8 @@
       "person": {
         "id": 820862,
         "fullName": "José Fermin",
-        "link": "/api/v1/people/820862"
+        "link": "/api/v1/people/820862",
+        "nameSlug": "jose-fermin-820862"
       },
       "jerseyNumber": "65",
       "position": {
@@ -185,7 +195,8 @@
       "person": {
         "id": 624428,
         "fullName": "Adam Frazier",
-        "link": "/api/v1/people/624428"
+        "link": "/api/v1/people/624428",
+        "nameSlug": "adam-frazier-624428"
       },
       "jerseyNumber": "20",
       "position": {
@@ -203,7 +214,8 @@
       "person": {
         "id": 605242,
         "fullName": "Michael Fulmer",
-        "link": "/api/v1/people/605242"
+        "link": "/api/v1/people/605242",
+        "nameSlug": "michael-fulmer-605242"
       },
       "jerseyNumber": "49",
       "position": {
@@ -221,7 +233,8 @@
       "person": {
         "id": 687093,
         "fullName": "Vaughn Grissom",
-        "link": "/api/v1/people/687093"
+        "link": "/api/v1/people/687093",
+        "nameSlug": "vaughn-grissom-687093"
       },
       "jerseyNumber": "5",
       "position": {
@@ -239,7 +252,8 @@
       "person": {
         "id": 694203,
         "fullName": "Denzer Guzman",
-        "link": "/api/v1/people/694203"
+        "link": "/api/v1/people/694203",
+        "nameSlug": "denzer-guzman-694203"
       },
       "jerseyNumber": "23",
       "position": {
@@ -257,7 +271,8 @@
       "person": {
         "id": 623168,
         "fullName": "Tyler Heineman",
-        "link": "/api/v1/people/623168"
+        "link": "/api/v1/people/623168",
+        "nameSlug": "tyler-heineman-623168"
       },
       "jerseyNumber": "31",
       "position": {
@@ -275,7 +290,8 @@
       "person": {
         "id": 696270,
         "fullName": "Ryan Johnson",
-        "link": "/api/v1/people/696270"
+        "link": "/api/v1/people/696270",
+        "nameSlug": "ryan-johnson-696270"
       },
       "jerseyNumber": "32",
       "position": {
@@ -293,7 +309,8 @@
       "person": {
         "id": 690829,
         "fullName": "Ben Joyce",
-        "link": "/api/v1/people/690829"
+        "link": "/api/v1/people/690829",
+        "nameSlug": "ben-joyce-690829"
       },
       "jerseyNumber": "44",
       "position": {
@@ -311,7 +328,8 @@
       "person": {
         "id": 695049,
         "fullName": "Brett Kerry",
-        "link": "/api/v1/people/695049"
+        "link": "/api/v1/people/695049",
+        "nameSlug": "brett-kerry-695049"
       },
       "jerseyNumber": "71",
       "position": {
@@ -329,7 +347,8 @@
       "person": {
         "id": 579328,
         "fullName": "Yusei Kikuchi",
-        "link": "/api/v1/people/579328"
+        "link": "/api/v1/people/579328",
+        "nameSlug": "yusei-kikuchi-579328"
       },
       "jerseyNumber": "16",
       "position": {
@@ -347,7 +366,8 @@
       "person": {
         "id": 691946,
         "fullName": "George Klassen",
-        "link": "/api/v1/people/691946"
+        "link": "/api/v1/people/691946",
+        "nameSlug": "george-klassen-691946"
       },
       "jerseyNumber": "58",
       "position": {
@@ -365,7 +385,8 @@
       "person": {
         "id": 686799,
         "fullName": "Jack Kochanowicz",
-        "link": "/api/v1/people/686799"
+        "link": "/api/v1/people/686799",
+        "nameSlug": "jack-kochanowicz-686799"
       },
       "jerseyNumber": "41",
       "position": {
@@ -383,7 +404,8 @@
       "person": {
         "id": 666139,
         "fullName": "Josh Lowe",
-        "link": "/api/v1/people/666139"
+        "link": "/api/v1/people/666139",
+        "nameSlug": "josh-lowe-666139"
       },
       "jerseyNumber": "3",
       "position": {
@@ -401,7 +423,8 @@
       "person": {
         "id": 664192,
         "fullName": "Joey Lucchesi",
-        "link": "/api/v1/people/664192"
+        "link": "/api/v1/people/664192",
+        "nameSlug": "joey-lucchesi-664192"
       },
       "jerseyNumber": "",
       "position": {
@@ -419,7 +442,8 @@
       "person": {
         "id": 663611,
         "fullName": "Nick Madrigal",
-        "link": "/api/v1/people/663611"
+        "link": "/api/v1/people/663611",
+        "nameSlug": "nick-madrigal-663611"
       },
       "jerseyNumber": "17",
       "position": {
@@ -437,7 +461,8 @@
       "person": {
         "id": 641820,
         "fullName": "Trey Mancini",
-        "link": "/api/v1/people/641820"
+        "link": "/api/v1/people/641820",
+        "nameSlug": "trey-mancini-641820"
       },
       "jerseyNumber": "34",
       "position": {
@@ -455,7 +480,8 @@
       "person": {
         "id": 666201,
         "fullName": "Alek Manoah",
-        "link": "/api/v1/people/666201"
+        "link": "/api/v1/people/666201",
+        "nameSlug": "alek-manoah-666201"
       },
       "jerseyNumber": "47",
       "position": {
@@ -473,7 +499,8 @@
       "person": {
         "id": 694680,
         "fullName": "Trevor Martin",
-        "link": "/api/v1/people/694680"
+        "link": "/api/v1/people/694680",
+        "nameSlug": "trevor-martin-694680"
       },
       "jerseyNumber": "54",
       "position": {
@@ -491,7 +518,8 @@
       "person": {
         "id": 683079,
         "fullName": "Omar Martinez",
-        "link": "/api/v1/people/683079"
+        "link": "/api/v1/people/683079",
+        "nameSlug": "omar-martinez-683079"
       },
       "jerseyNumber": "66",
       "position": {
@@ -509,7 +537,8 @@
       "person": {
         "id": 685133,
         "fullName": "Wade Meckler",
-        "link": "/api/v1/people/685133"
+        "link": "/api/v1/people/685133",
+        "nameSlug": "wade-meckler-685133"
       },
       "jerseyNumber": "53",
       "position": {
@@ -527,7 +556,8 @@
       "person": {
         "id": 660162,
         "fullName": "Yoán Moncada",
-        "link": "/api/v1/people/660162"
+        "link": "/api/v1/people/660162",
+        "nameSlug": "yoan-moncada-660162"
       },
       "jerseyNumber": "10",
       "position": {
@@ -545,7 +575,8 @@
       "person": {
         "id": 695681,
         "fullName": "Christian Moore",
-        "link": "/api/v1/people/695681"
+        "link": "/api/v1/people/695681",
+        "nameSlug": "christian-moore-695681"
       },
       "jerseyNumber": "4",
       "position": {
@@ -563,7 +594,8 @@
       "person": {
         "id": 684665,
         "fullName": "Luke Murphy",
-        "link": "/api/v1/people/684665"
+        "link": "/api/v1/people/684665",
+        "nameSlug": "luke-murphy-684665"
       },
       "jerseyNumber": "72",
       "position": {
@@ -581,7 +613,8 @@
       "person": {
         "id": 696519,
         "fullName": "Samy Natera Jr.",
-        "link": "/api/v1/people/696519"
+        "link": "/api/v1/people/696519",
+        "nameSlug": "samy-natera-jr-696519"
       },
       "jerseyNumber": "52",
       "position": {
@@ -599,7 +632,8 @@
       "person": {
         "id": 687263,
         "fullName": "Zach Neto",
-        "link": "/api/v1/people/687263"
+        "link": "/api/v1/people/687263",
+        "nameSlug": "zach-neto-687263"
       },
       "jerseyNumber": "9",
       "position": {
@@ -617,7 +651,8 @@
       "person": {
         "id": 681351,
         "fullName": "Logan O'Hoppe",
-        "link": "/api/v1/people/681351"
+        "link": "/api/v1/people/681351",
+        "nameSlug": "logan-o-hoppe-681351"
       },
       "jerseyNumber": "14",
       "position": {
@@ -635,7 +670,8 @@
       "person": {
         "id": 677347,
         "fullName": "Kyren Paris",
-        "link": "/api/v1/people/677347"
+        "link": "/api/v1/people/677347",
+        "nameSlug": "kyren-paris-677347"
       },
       "jerseyNumber": "19",
       "position": {
@@ -653,7 +689,8 @@
       "person": {
         "id": 671111,
         "fullName": "Sammy Peralta",
-        "link": "/api/v1/people/671111"
+        "link": "/api/v1/people/671111",
+        "nameSlug": "sammy-peralta-671111"
       },
       "jerseyNumber": "67",
       "position": {
@@ -671,7 +708,8 @@
       "person": {
         "id": 672724,
         "fullName": "Oswald Peraza",
-        "link": "/api/v1/people/672724"
+        "link": "/api/v1/people/672724",
+        "nameSlug": "oswald-peraza-672724"
       },
       "jerseyNumber": "2",
       "position": {
@@ -689,7 +727,8 @@
       "person": {
         "id": 519141,
         "fullName": "Drew Pomeranz",
-        "link": "/api/v1/people/519141"
+        "link": "/api/v1/people/519141",
+        "nameSlug": "drew-pomeranz-519141"
       },
       "jerseyNumber": "13",
       "position": {
@@ -707,7 +746,8 @@
       "person": {
         "id": 682515,
         "fullName": "Logan Porter",
-        "link": "/api/v1/people/682515"
+        "link": "/api/v1/people/682515",
+        "nameSlug": "logan-porter-682515"
       },
       "jerseyNumber": "33",
       "position": {
@@ -725,7 +765,8 @@
       "person": {
         "id": 665861,
         "fullName": "Sebastián Rivero",
-        "link": "/api/v1/people/665861"
+        "link": "/api/v1/people/665861",
+        "nameSlug": "sebastian-rivero-665861"
       },
       "jerseyNumber": "38",
       "position": {
@@ -743,7 +784,8 @@
       "person": {
         "id": 680570,
         "fullName": "Grayson Rodriguez",
-        "link": "/api/v1/people/680570"
+        "link": "/api/v1/people/680570",
+        "nameSlug": "grayson-rodriguez-680570"
       },
       "jerseyNumber": "21",
       "position": {
@@ -761,7 +803,8 @@
       "person": {
         "id": 605447,
         "fullName": "Jordan Romano",
-        "link": "/api/v1/people/605447"
+        "link": "/api/v1/people/605447",
+        "nameSlug": "jordan-romano-605447"
       },
       "jerseyNumber": "68",
       "position": {
@@ -779,7 +822,8 @@
       "person": {
         "id": 680704,
         "fullName": "Nick Sandlin",
-        "link": "/api/v1/people/680704"
+        "link": "/api/v1/people/680704",
+        "nameSlug": "nick-sandlin-680704"
       },
       "jerseyNumber": "52",
       "position": {
@@ -797,7 +841,8 @@
       "person": {
         "id": 642048,
         "fullName": "Tayler Saucedo",
-        "link": "/api/v1/people/642048"
+        "link": "/api/v1/people/642048",
+        "nameSlug": "tayler-saucedo-642048"
       },
       "jerseyNumber": "55",
       "position": {
@@ -815,7 +860,8 @@
       "person": {
         "id": 694384,
         "fullName": "Nolan Schanuel",
-        "link": "/api/v1/people/694384"
+        "link": "/api/v1/people/694384",
+        "nameSlug": "nolan-schanuel-694384"
       },
       "jerseyNumber": "18",
       "position": {
@@ -833,7 +879,8 @@
       "person": {
         "id": 681217,
         "fullName": "Chase Silseth",
-        "link": "/api/v1/people/681217"
+        "link": "/api/v1/people/681217",
+        "nameSlug": "chase-silseth-681217"
       },
       "jerseyNumber": "63",
       "position": {
@@ -851,7 +898,8 @@
       "person": {
         "id": 642350,
         "fullName": "Jose Siri",
-        "link": "/api/v1/people/642350"
+        "link": "/api/v1/people/642350",
+        "nameSlug": "jose-siri-642350"
       },
       "jerseyNumber": "28",
       "position": {
@@ -869,7 +917,8 @@
       "person": {
         "id": 624585,
         "fullName": "Jorge Soler",
-        "link": "/api/v1/people/624585"
+        "link": "/api/v1/people/624585",
+        "nameSlug": "jorge-soler-624585"
       },
       "jerseyNumber": "12",
       "position": {
@@ -887,7 +936,8 @@
       "person": {
         "id": 667755,
         "fullName": "José Soriano",
-        "link": "/api/v1/people/667755"
+        "link": "/api/v1/people/667755",
+        "nameSlug": "jose-soriano-667755"
       },
       "jerseyNumber": "59",
       "position": {
@@ -905,7 +955,8 @@
       "person": {
         "id": 608718,
         "fullName": "Brent Suter",
-        "link": "/api/v1/people/608718"
+        "link": "/api/v1/people/608718",
+        "nameSlug": "brent-suter-608718"
       },
       "jerseyNumber": "37",
       "position": {
@@ -923,7 +974,8 @@
       "person": {
         "id": 669326,
         "fullName": "Bryce Teodosio",
-        "link": "/api/v1/people/669326"
+        "link": "/api/v1/people/669326",
+        "nameSlug": "bryce-teodosio-669326"
       },
       "jerseyNumber": "22",
       "position": {
@@ -941,7 +993,8 @@
       "person": {
         "id": 545361,
         "fullName": "Mike Trout",
-        "link": "/api/v1/people/545361"
+        "link": "/api/v1/people/545361",
+        "nameSlug": "mike-trout-545361"
       },
       "jerseyNumber": "27",
       "position": {
@@ -959,7 +1012,8 @@
       "person": {
         "id": 700712,
         "fullName": "Walbert Ureña",
-        "link": "/api/v1/people/700712"
+        "link": "/api/v1/people/700712",
+        "nameSlug": "walbert-urena-700712"
       },
       "jerseyNumber": "57",
       "position": {
@@ -977,7 +1031,8 @@
       "person": {
         "id": 622268,
         "fullName": "Donovan Walton",
-        "link": "/api/v1/people/622268"
+        "link": "/api/v1/people/622268",
+        "nameSlug": "donovan-walton-622268"
       },
       "jerseyNumber": "35",
       "position": {
@@ -995,7 +1050,8 @@
       "person": {
         "id": 670245,
         "fullName": "Ryan Watson",
-        "link": "/api/v1/people/670245"
+        "link": "/api/v1/people/670245",
+        "nameSlug": "ryan-watson-670245"
       },
       "jerseyNumber": "56",
       "position": {
@@ -1013,7 +1069,8 @@
       "person": {
         "id": 676620,
         "fullName": "Blake Weiman",
-        "link": "/api/v1/people/676620"
+        "link": "/api/v1/people/676620",
+        "nameSlug": "blake-weiman-676620"
       },
       "jerseyNumber": "68",
       "position": {
@@ -1031,7 +1088,8 @@
       "person": {
         "id": 489446,
         "fullName": "Kirby Yates",
-        "link": "/api/v1/people/489446"
+        "link": "/api/v1/people/489446",
+        "nameSlug": "kirby-yates-489446"
       },
       "jerseyNumber": "39",
       "position": {
@@ -1049,7 +1107,8 @@
       "person": {
         "id": 666171,
         "fullName": "Ryan Zeferjahn",
-        "link": "/api/v1/people/666171"
+        "link": "/api/v1/people/666171",
+        "nameSlug": "ryan-zeferjahn-666171"
       },
       "jerseyNumber": "56",
       "position": {
@@ -1067,7 +1126,8 @@
       "person": {
         "id": 518595,
         "fullName": "Travis d'Arnaud",
-        "link": "/api/v1/people/518595"
+        "link": "/api/v1/people/518595",
+        "nameSlug": "travis-d-arnaud-518595"
       },
       "jerseyNumber": "25",
       "position": {
