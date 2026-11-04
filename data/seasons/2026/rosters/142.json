@@ -73,8 +73,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "CL",
+        "description": "Claimed"
       }
     },
     {
@@ -757,8 +757,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "CL",
+        "description": "Claimed"
       }
     },
     {
