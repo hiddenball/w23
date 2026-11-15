@@ -357866,30 +357866,6 @@
     {
       "id": 947637,
       "person": {
-        "id": 801967,
-        "fullName": "Tony Neubeck",
-        "link": "/api/v1/people/801967",
-        "nameSlug": "tony-neubeck-801967"
-      },
-      "fromTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-01",
-      "effectiveDate": "2026-11-01",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "San Francisco Giants traded 2B Nate Furman to Washington Nationals for LHP Tony Neubeck."
-    },
-    {
-      "id": 947637,
-      "person": {
         "id": 801501,
         "fullName": "Nate Furman",
         "link": "/api/v1/people/801501",
@@ -357904,6 +357880,30 @@
         "id": 120,
         "name": "Washington Nationals",
         "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-01",
+      "effectiveDate": "2026-11-01",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "San Francisco Giants traded 2B Nate Furman to Washington Nationals for LHP Tony Neubeck."
+    },
+    {
+      "id": 947637,
+      "person": {
+        "id": 801967,
+        "fullName": "Tony Neubeck",
+        "link": "/api/v1/people/801967",
+        "nameSlug": "tony-neubeck-801967"
+      },
+      "fromTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
       },
       "date": "2026-11-01",
       "effectiveDate": "2026-11-01",
@@ -362638,26 +362638,6 @@
       "description": "San Diego Padres signed free agent RHP Gerardo Salas to a minor league contract."
     },
     {
-      "id": 949807,
-      "person": {
-        "id": 677161,
-        "fullName": "Zack Kelly",
-        "link": "/api/v1/people/677161",
-        "nameSlug": "zack-kelly-677161"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-11-06",
-      "effectiveDate": "2026-11-06",
-      "resolutionDate": "2026-11-06",
-      "typeCode": "REL",
-      "typeDesc": "Released",
-      "description": "Boston Red Sox released RHP Zack Kelly."
-    },
-    {
       "id": 949790,
       "person": {
         "id": 693312,
@@ -362678,76 +362658,24 @@
       "description": "Washington Nationals designated RHP Kyle Nicolas for assignment."
     },
     {
-      "id": 949789,
+      "id": 949807,
       "person": {
-        "id": 665665,
-        "fullName": "Reiver Sanmartin",
-        "link": "/api/v1/people/665665",
-        "nameSlug": "reiver-sanmartin-665665"
-      },
-      "fromTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
+        "id": 677161,
+        "fullName": "Zack Kelly",
+        "link": "/api/v1/people/677161",
+        "nameSlug": "zack-kelly-677161"
       },
       "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
       },
       "date": "2026-11-06",
       "effectiveDate": "2026-11-06",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Washington Nationals traded RHP Robert Cranz to San Francisco Giants for LHP Reiver Sanmartin."
-    },
-    {
-      "id": 949808,
-      "person": {
-        "id": 677588,
-        "fullName": "José Tena",
-        "link": "/api/v1/people/677588",
-        "nameSlug": "jose-tena-677588"
-      },
-      "fromTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-11-06",
-      "effectiveDate": "2026-11-06",
-      "typeCode": "CLW",
-      "typeDesc": "Claimed Off Waivers",
-      "description": "Cleveland Guardians claimed DH José Tena off waivers from Washington Nationals."
-    },
-    {
-      "id": 949809,
-      "person": {
-        "id": 700270,
-        "fullName": "Yilber Díaz",
-        "link": "/api/v1/people/700270",
-        "nameSlug": "yilber-diaz-700270"
-      },
-      "fromTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "toTeam": {
-        "id": 512,
-        "name": "Toledo Mud Hens",
-        "link": "/api/v1/teams/512"
-      },
-      "date": "2026-11-06",
-      "effectiveDate": "2026-11-06",
-      "typeCode": "OUT",
-      "typeDesc": "Outrighted",
-      "description": "Detroit Tigers sent RHP Yilber Díaz outright to Toledo Mud Hens."
+      "resolutionDate": "2026-11-06",
+      "typeCode": "REL",
+      "typeDesc": "Released",
+      "description": "Boston Red Sox released RHP Zack Kelly."
     },
     {
       "id": 949789,
@@ -362774,6 +362702,78 @@
       "description": "Washington Nationals traded RHP Robert Cranz to San Francisco Giants for LHP Reiver Sanmartin."
     },
     {
+      "id": 949789,
+      "person": {
+        "id": 665665,
+        "fullName": "Reiver Sanmartin",
+        "link": "/api/v1/people/665665",
+        "nameSlug": "reiver-sanmartin-665665"
+      },
+      "fromTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-06",
+      "effectiveDate": "2026-11-06",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Washington Nationals traded RHP Robert Cranz to San Francisco Giants for LHP Reiver Sanmartin."
+    },
+    {
+      "id": 949809,
+      "person": {
+        "id": 700270,
+        "fullName": "Yilber Díaz",
+        "link": "/api/v1/people/700270",
+        "nameSlug": "yilber-diaz-700270"
+      },
+      "fromTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "toTeam": {
+        "id": 512,
+        "name": "Toledo Mud Hens",
+        "link": "/api/v1/teams/512"
+      },
+      "date": "2026-11-06",
+      "effectiveDate": "2026-11-06",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Detroit Tigers sent RHP Yilber Díaz outright to Toledo Mud Hens."
+    },
+    {
+      "id": 949808,
+      "person": {
+        "id": 677588,
+        "fullName": "José Tena",
+        "link": "/api/v1/people/677588",
+        "nameSlug": "jose-tena-677588"
+      },
+      "fromTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-11-06",
+      "effectiveDate": "2026-11-06",
+      "typeCode": "CLW",
+      "typeDesc": "Claimed Off Waivers",
+      "description": "Cleveland Guardians claimed DH José Tena off waivers from Washington Nationals."
+    },
+    {
       "id": 950100,
       "person": {
         "id": 665048,
@@ -362792,6 +362792,26 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "Kansas City Royals signed free agent RHP Hobie Harris to a minor league contract."
+    },
+    {
+      "id": 950009,
+      "person": {
+        "id": 845214,
+        "fullName": "Woo-jin Cho",
+        "link": "/api/v1/people/845214",
+        "nameSlug": "woo-jin-cho-845214"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-11-09",
+      "effectiveDate": "2026-11-09",
+      "resolutionDate": "2026-11-09",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Toronto Blue Jays signed free agent RHP Woo-jin Cho to a minor league contract."
     },
     {
       "id": 949904,
@@ -362832,26 +362852,6 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "Pittsburgh Pirates signed free agent RHP Enmanuel Nunez to a minor league contract."
-    },
-    {
-      "id": 950009,
-      "person": {
-        "id": 845214,
-        "fullName": "Woo-jin Cho",
-        "link": "/api/v1/people/845214",
-        "nameSlug": "woo-jin-cho-845214"
-      },
-      "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "date": "2026-11-09",
-      "effectiveDate": "2026-11-09",
-      "resolutionDate": "2026-11-09",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Toronto Blue Jays signed free agent RHP Woo-jin Cho to a minor league contract."
     },
     {
       "id": 949929,
@@ -363002,12 +363002,32 @@
       "description": "Toronto Blue Jays invited non-roster RHP Lazaro Estrada to spring training."
     },
     {
-      "id": 950047,
+      "id": 950041,
       "person": {
-        "id": 686844,
-        "fullName": "Ben Wereski",
-        "link": "/api/v1/people/686844",
-        "nameSlug": "ben-wereski-686844"
+        "id": 681673,
+        "fullName": "Kohl Franklin",
+        "link": "/api/v1/people/681673",
+        "nameSlug": "kohl-franklin-681673"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-11",
+      "effectiveDate": "2026-11-11",
+      "resolutionDate": "2026-11-11",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Arizona Diamondbacks signed free agent RHP Kohl Franklin to a minor league contract."
+    },
+    {
+      "id": 950043,
+      "person": {
+        "id": 805321,
+        "fullName": "Trevor Kuncl",
+        "link": "/api/v1/people/805321",
+        "nameSlug": "trevor-kuncl-805321"
       },
       "toTeam": {
         "id": 113,
@@ -363019,27 +363039,7 @@
       "resolutionDate": "2026-11-11",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Cincinnati Reds signed free agent LHP Ben Wereski to a minor league contract."
-    },
-    {
-      "id": 950057,
-      "person": {
-        "id": 694484,
-        "fullName": "Max Wagner",
-        "link": "/api/v1/people/694484",
-        "nameSlug": "max-wagner-694484"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-11-11",
-      "effectiveDate": "2026-11-11",
-      "resolutionDate": "2026-11-11",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Texas Rangers signed free agent 2B Max Wagner to a minor league contract."
+      "description": "Cincinnati Reds signed free agent RHP Trevor Kuncl to a minor league contract."
     },
     {
       "id": 950045,
@@ -363062,12 +363062,12 @@
       "description": "Cincinnati Reds signed free agent CF Shane Sasaki to a minor league contract."
     },
     {
-      "id": 950043,
+      "id": 950047,
       "person": {
-        "id": 805321,
-        "fullName": "Trevor Kuncl",
-        "link": "/api/v1/people/805321",
-        "nameSlug": "trevor-kuncl-805321"
+        "id": 686844,
+        "fullName": "Ben Wereski",
+        "link": "/api/v1/people/686844",
+        "nameSlug": "ben-wereski-686844"
       },
       "toTeam": {
         "id": 113,
@@ -363079,7 +363079,7 @@
       "resolutionDate": "2026-11-11",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Cincinnati Reds signed free agent RHP Trevor Kuncl to a minor league contract."
+      "description": "Cincinnati Reds signed free agent LHP Ben Wereski to a minor league contract."
     },
     {
       "id": 950049,
@@ -363122,24 +363122,24 @@
       "description": "Milwaukee Brewers signed free agent LHP Ben Moore to a minor league contract."
     },
     {
-      "id": 950041,
+      "id": 950057,
       "person": {
-        "id": 681673,
-        "fullName": "Kohl Franklin",
-        "link": "/api/v1/people/681673",
-        "nameSlug": "kohl-franklin-681673"
+        "id": 694484,
+        "fullName": "Max Wagner",
+        "link": "/api/v1/people/694484",
+        "nameSlug": "max-wagner-694484"
       },
       "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
       },
       "date": "2026-11-11",
       "effectiveDate": "2026-11-11",
       "resolutionDate": "2026-11-11",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Arizona Diamondbacks signed free agent RHP Kohl Franklin to a minor league contract."
+      "description": "Texas Rangers signed free agent 2B Max Wagner to a minor league contract."
     },
     {
       "id": 950098,
@@ -363182,26 +363182,6 @@
       "description": "Atlanta Braves signed free agent RHP Evan Phillips."
     },
     {
-      "id": 950208,
-      "person": {
-        "id": 800690,
-        "fullName": "John Armstrong",
-        "link": "/api/v1/people/800690",
-        "nameSlug": "john-armstrong-800690"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Texas Rangers signed free agent RHP John Armstrong to a minor league contract."
-    },
-    {
       "id": 950119,
       "person": {
         "id": 671111,
@@ -363220,26 +363200,6 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "Los Angeles Angels signed free agent LHP Sammy Peralta to a minor league contract and invited him to spring training."
-    },
-    {
-      "id": 950191,
-      "person": {
-        "id": 671289,
-        "fullName": "Tyler Freeman",
-        "link": "/api/v1/people/671289",
-        "nameSlug": "tyler-freeman-671289"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Atlanta Braves signed free agent RF Tyler Freeman to a minor league contract."
     },
     {
       "id": 950204,
@@ -363262,64 +363222,24 @@
       "description": "San Diego Padres signed free agent RHP Angel Hernandez to a minor league contract."
     },
     {
-      "id": 950188,
+      "id": 950195,
       "person": {
-        "id": 641386,
-        "fullName": "Ben Bowden",
-        "link": "/api/v1/people/641386",
-        "nameSlug": "ben-bowden-641386"
+        "id": 664129,
+        "fullName": "Geoff Hartlieb",
+        "link": "/api/v1/people/664129",
+        "nameSlug": "geoff-hartlieb-664129"
       },
       "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
       },
       "date": "2026-11-13",
       "effectiveDate": "2026-11-13",
       "resolutionDate": "2026-11-13",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Athletics signed free agent LHP Ben Bowden to a minor league contract."
-    },
-    {
-      "id": 950206,
-      "person": {
-        "id": 808220,
-        "fullName": "Raimundo De Los Santos",
-        "link": "/api/v1/people/808220",
-        "nameSlug": "raimundo-de-los-santos-808220"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Diego Padres signed free agent SS Raimundo De Los Santos to a minor league contract."
-    },
-    {
-      "id": 950199,
-      "person": {
-        "id": 691263,
-        "fullName": "Esmerlin Vinicio",
-        "link": "/api/v1/people/691263",
-        "nameSlug": "esmerlin-vinicio-691263"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Francisco Giants signed free agent LHP Esmerlin Vinicio to a minor league contract."
+      "description": "Philadelphia Phillies signed free agent RHP Geoff Hartlieb to a minor league contract."
     },
     {
       "id": 950197,
@@ -363362,24 +363282,104 @@
       "description": "Miami Marlins signed free agent LHP Luis Palacios to a minor league contract."
     },
     {
-      "id": 950195,
+      "id": 950206,
       "person": {
-        "id": 664129,
-        "fullName": "Geoff Hartlieb",
-        "link": "/api/v1/people/664129",
-        "nameSlug": "geoff-hartlieb-664129"
+        "id": 808220,
+        "fullName": "Raimundo De Los Santos",
+        "link": "/api/v1/people/808220",
+        "nameSlug": "raimundo-de-los-santos-808220"
       },
       "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-11-13",
       "effectiveDate": "2026-11-13",
       "resolutionDate": "2026-11-13",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent RHP Geoff Hartlieb to a minor league contract."
+      "description": "San Diego Padres signed free agent SS Raimundo De Los Santos to a minor league contract."
+    },
+    {
+      "id": 950208,
+      "person": {
+        "id": 800690,
+        "fullName": "John Armstrong",
+        "link": "/api/v1/people/800690",
+        "nameSlug": "john-armstrong-800690"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Texas Rangers signed free agent RHP John Armstrong to a minor league contract."
+    },
+    {
+      "id": 950188,
+      "person": {
+        "id": 641386,
+        "fullName": "Ben Bowden",
+        "link": "/api/v1/people/641386",
+        "nameSlug": "ben-bowden-641386"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Athletics signed free agent LHP Ben Bowden to a minor league contract."
+    },
+    {
+      "id": 950191,
+      "person": {
+        "id": 671289,
+        "fullName": "Tyler Freeman",
+        "link": "/api/v1/people/671289",
+        "nameSlug": "tyler-freeman-671289"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Atlanta Braves signed free agent RF Tyler Freeman to a minor league contract."
+    },
+    {
+      "id": 950199,
+      "person": {
+        "id": 691263,
+        "fullName": "Esmerlin Vinicio",
+        "link": "/api/v1/people/691263",
+        "nameSlug": "esmerlin-vinicio-691263"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Francisco Giants signed free agent LHP Esmerlin Vinicio to a minor league contract."
     }
   ]
 }
