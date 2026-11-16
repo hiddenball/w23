@@ -220041,269 +220041,29 @@
       "description": "Houston Astros recalled RHP Logan VanWey from Sugar Land Space Cowboys."
     },
     {
-      "id": 921322,
+      "id": 921537,
       "person": {
-        "id": 668881,
-        "fullName": "Hunter Greene",
-        "link": "/api/v1/people/668881",
-        "nameSlug": "hunter-greene-668881"
+        "id": 686668,
+        "fullName": "Brenton Doyle",
+        "link": "/api/v1/people/686668",
+        "nameSlug": "brenton-doyle-686668"
       },
       "fromTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
+        "id": 115,
+        "name": "Colorado Rockies",
+        "link": "/api/v1/teams/115"
       },
       "toTeam": {
-        "id": 416,
-        "name": "Louisville Bats",
-        "link": "/api/v1/teams/416"
+        "id": 342,
+        "name": "Albuquerque Isotopes",
+        "link": "/api/v1/teams/342"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
       "resolutionDate": "2026-06-23",
       "typeCode": "ASG",
       "typeDesc": "Assigned",
-      "description": "Cincinnati Reds sent RHP Hunter Greene on a rehab assignment to Louisville Bats."
-    },
-    {
-      "id": 921469,
-      "person": {
-        "id": 668800,
-        "fullName": "Andrew Knizner",
-        "link": "/api/v1/people/668800",
-        "nameSlug": "andrew-knizner-668800"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Boston Red Sox signed free agent C Andrew Knizner to a minor league contract."
-    },
-    {
-      "id": 921730,
-      "person": {
-        "id": 843413,
-        "fullName": "Yohali Geraldo",
-        "link": "/api/v1/people/843413",
-        "nameSlug": "yohali-geraldo-843413"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent SS Yohali Geraldo to a minor league contract."
-    },
-    {
-      "id": 921675,
-      "person": {
-        "id": 606192,
-        "fullName": "Teoscar Hernández",
-        "link": "/api/v1/people/606192",
-        "nameSlug": "teoscar-hernandez-606192"
-      },
-      "fromTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "toTeam": {
-        "id": 238,
-        "name": "Oklahoma City Comets",
-        "link": "/api/v1/teams/238"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Los Angeles Dodgers sent LF Teoscar Hernández on a rehab assignment to Oklahoma City Comets."
-    },
-    {
-      "id": 921525,
-      "person": {
-        "id": 668881,
-        "fullName": "Hunter Greene",
-        "link": "/api/v1/people/668881",
-        "nameSlug": "hunter-greene-668881"
-      },
-      "fromTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
-      },
-      "toTeam": {
-        "id": 416,
-        "name": "Louisville Bats",
-        "link": "/api/v1/teams/416"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Cincinnati Reds sent RHP Hunter Greene on a rehab assignment to Louisville Bats."
-    },
-    {
-      "id": 934128,
-      "person": {
-        "id": 672820,
-        "fullName": "Lenyn Sosa",
-        "link": "/api/v1/people/672820",
-        "nameSlug": "lenyn-sosa-672820"
-      },
-      "fromTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "toTeam": {
-        "id": 424,
-        "name": "Dunedin Blue Jays",
-        "link": "/api/v1/teams/424"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
-    },
-    {
-      "id": 921479,
-      "person": {
-        "id": 642851,
-        "fullName": "Austin Wynns",
-        "link": "/api/v1/people/642851",
-        "nameSlug": "austin-wynns-642851"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Texas Rangers signed free agent C Austin Wynns to a minor league contract."
-    },
-    {
-      "id": 921616,
-      "person": {
-        "id": 650859,
-        "fullName": "Luis Rengifo",
-        "link": "/api/v1/people/650859",
-        "nameSlug": "luis-rengifo-650859"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "REL",
-      "typeDesc": "Released",
-      "description": "Milwaukee Brewers released 3B Luis Rengifo."
-    },
-    {
-      "id": 921142,
-      "person": {
-        "id": 833264,
-        "fullName": "Josiel Veras",
-        "link": "/api/v1/people/833264",
-        "nameSlug": "josiel-veras-833264"
-      },
-      "toTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Chicago White Sox signed free agent C Josiel Veras to a minor league contract."
-    },
-    {
-      "id": 921466,
-      "person": {
-        "id": 663776,
-        "fullName": "Patrick Sandoval",
-        "link": "/api/v1/people/663776",
-        "nameSlug": "patrick-sandoval-663776"
-      },
-      "fromTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "toTeam": {
-        "id": 533,
-        "name": "Worcester Red Sox",
-        "link": "/api/v1/teams/533"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Boston Red Sox sent LHP Patrick Sandoval on a rehab assignment to Worcester Red Sox."
-    },
-    {
-      "id": 921320,
-      "person": {
-        "id": 682829,
-        "fullName": "Elly De La Cruz",
-        "link": "/api/v1/people/682829",
-        "nameSlug": "elly-de-la-cruz-682829"
-      },
-      "toTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cincinnati Reds activated SS Elly De La Cruz from the 10-day injured list."
-    },
-    {
-      "id": 921456,
-      "person": {
-        "id": 572143,
-        "fullName": "Burch Smith",
-        "link": "/api/v1/people/572143",
-        "nameSlug": "burch-smith-572143"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Detroit Tigers transferred RHP Burch Smith from the 15-day injured list to the 60-day injured list. Right shoulder inflammation."
+      "description": "Colorado Rockies sent CF Brenton Doyle on a rehab assignment to Albuquerque Isotopes."
     },
     {
       "id": 921728,
@@ -220330,114 +220090,44 @@
       "description": "Washington Nationals acquired RHP Blake Brown from the Gastonia Ghost Peppers of the Atlantic League."
     },
     {
-      "id": 921531,
+      "id": 921409,
       "person": {
-        "id": 843397,
-        "fullName": "Chien-Fan Lai",
-        "link": "/api/v1/people/843397",
-        "nameSlug": "chien-fan-lai-843397"
+        "id": 696522,
+        "fullName": "Hayden Juenger",
+        "link": "/api/v1/people/696522",
+        "nameSlug": "hayden-juenger-696522"
       },
       "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "New York Yankees signed free agent Chien-Fan Lai to a minor league contract."
-    },
-    {
-      "id": 921477,
-      "person": {
-        "id": 594835,
-        "fullName": "Marco Gonzales",
-        "link": "/api/v1/people/594835",
-        "nameSlug": "marco-gonzales-594835"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Texas Rangers signed free agent LHP Marco Gonzales to a minor league contract."
-    },
-    {
-      "id": 921725,
-      "person": {
-        "id": 843411,
-        "fullName": "Jeremi Rodriguez",
-        "link": "/api/v1/people/843411",
-        "nameSlug": "jeremi-rodriguez-843411"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Francisco Giants signed free agent SS Jeremi Rodriguez to a minor league contract."
-    },
-    {
-      "id": 934124,
-      "person": {
-        "id": 672820,
-        "fullName": "Lenyn Sosa",
-        "link": "/api/v1/people/672820",
-        "nameSlug": "lenyn-sosa-672820"
-      },
-      "fromTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
         "link": "/api/v1/teams/141"
       },
-      "toTeam": {
-        "id": 424,
-        "name": "Dunedin Blue Jays",
-        "link": "/api/v1/teams/424"
-      },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
       "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Toronto Blue Jays designated RHP Hayden Juenger for assignment."
     },
     {
-      "id": 921468,
+      "id": 921142,
       "person": {
-        "id": 663853,
-        "fullName": "Romy Gonzalez",
-        "link": "/api/v1/people/663853",
-        "nameSlug": "romy-gonzalez-663853"
-      },
-      "fromTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
+        "id": 833264,
+        "fullName": "Josiel Veras",
+        "link": "/api/v1/people/833264",
+        "nameSlug": "josiel-veras-833264"
       },
       "toTeam": {
-        "id": 533,
-        "name": "Worcester Red Sox",
-        "link": "/api/v1/teams/533"
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
       "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Boston Red Sox sent 1B Romy Gonzalez on a rehab assignment to Worcester Red Sox."
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Chicago White Sox signed free agent C Josiel Veras to a minor league contract."
     },
     {
       "id": 921461,
@@ -220458,136 +220148,6 @@
       "typeCode": "SC",
       "typeDesc": "Status Change",
       "description": "Seattle Mariners activated LF Randy Arozarena from the 10-day injured list."
-    },
-    {
-      "id": 921512,
-      "person": {
-        "id": 687637,
-        "fullName": "Dylan Beavers",
-        "link": "/api/v1/people/687637",
-        "nameSlug": "dylan-beavers-687637"
-      },
-      "fromTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "toTeam": {
-        "id": 568,
-        "name": "Norfolk Tides",
-        "link": "/api/v1/teams/568"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Baltimore Orioles sent RF Dylan Beavers on a rehab assignment to Norfolk Tides."
-    },
-    {
-      "id": 921463,
-      "person": {
-        "id": 672580,
-        "fullName": "Maikel Garcia",
-        "link": "/api/v1/people/672580",
-        "nameSlug": "maikel-garcia-672580"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Kansas City Royals placed 3B Maikel Garcia on the 10-day injured list. Left hand muscle strain."
-    },
-    {
-      "id": 921731,
-      "person": {
-        "id": 843414,
-        "fullName": "Ronieel Cabreja",
-        "link": "/api/v1/people/843414",
-        "nameSlug": "ronieel-cabreja-843414"
-      },
-      "toTeam": {
-        "id": 117,
-        "name": "Houston Astros",
-        "link": "/api/v1/teams/117"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Houston Astros signed free agent RHP Ronieel Cabreja to a minor league contract."
-    },
-    {
-      "id": 921672,
-      "person": {
-        "id": 666023,
-        "fullName": "Freddy Fermin",
-        "link": "/api/v1/people/666023",
-        "nameSlug": "freddy-fermin-666023"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "San Diego Padres activated C Freddy Fermin from the 7-day injured list."
-    },
-    {
-      "id": 921311,
-      "person": {
-        "id": 672820,
-        "fullName": "Lenyn Sosa",
-        "link": "/api/v1/people/672820",
-        "nameSlug": "lenyn-sosa-672820"
-      },
-      "fromTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "toTeam": {
-        "id": 424,
-        "name": "Dunedin Blue Jays",
-        "link": "/api/v1/teams/424"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
-    },
-    {
-      "id": 921332,
-      "person": {
-        "id": 645305,
-        "fullName": "Ali Sánchez",
-        "link": "/api/v1/people/645305",
-        "nameSlug": "ali-sanchez-645305"
-      },
-      "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "New York Yankees placed C Ali Sánchez on the paternity list."
     },
     {
       "id": 921375,
@@ -220613,26 +220173,6 @@
       "typeCode": "ASG",
       "typeDesc": "Assigned",
       "description": "Atlanta Braves sent LHP Danny Young on a rehab assignment to Columbus Clingstones."
-    },
-    {
-      "id": 921497,
-      "person": {
-        "id": 681151,
-        "fullName": "Jayden Murray",
-        "link": "/api/v1/people/681151",
-        "nameSlug": "jayden-murray-681151"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Chicago Cubs activated RHP Jayden Murray."
     },
     {
       "id": 921538,
@@ -220685,116 +220225,6 @@
       "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
     },
     {
-      "id": 921611,
-      "person": {
-        "id": 681371,
-        "fullName": "Dom Keegan",
-        "link": "/api/v1/people/681371",
-        "nameSlug": "dom-keegan-681371"
-      },
-      "toTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "link": "/api/v1/teams/139"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Tampa Bay Rays designated C Dom Keegan for assignment."
-    },
-    {
-      "id": 921409,
-      "person": {
-        "id": 696522,
-        "fullName": "Hayden Juenger",
-        "link": "/api/v1/people/696522",
-        "nameSlug": "hayden-juenger-696522"
-      },
-      "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Toronto Blue Jays designated RHP Hayden Juenger for assignment."
-    },
-    {
-      "id": 923427,
-      "person": {
-        "id": 606192,
-        "fullName": "Teoscar Hernández",
-        "link": "/api/v1/people/606192",
-        "nameSlug": "teoscar-hernandez-606192"
-      },
-      "fromTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "toTeam": {
-        "id": 238,
-        "name": "Oklahoma City Comets",
-        "link": "/api/v1/teams/238"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Los Angeles Dodgers sent LF Teoscar Hernández on a rehab assignment to Oklahoma City Comets."
-    },
-    {
-      "id": 921537,
-      "person": {
-        "id": 686668,
-        "fullName": "Brenton Doyle",
-        "link": "/api/v1/people/686668",
-        "nameSlug": "brenton-doyle-686668"
-      },
-      "fromTeam": {
-        "id": 115,
-        "name": "Colorado Rockies",
-        "link": "/api/v1/teams/115"
-      },
-      "toTeam": {
-        "id": 342,
-        "name": "Albuquerque Isotopes",
-        "link": "/api/v1/teams/342"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Colorado Rockies sent CF Brenton Doyle on a rehab assignment to Albuquerque Isotopes."
-    },
-    {
-      "id": 921522,
-      "person": {
-        "id": 671131,
-        "fullName": "Jackson Rutledge",
-        "link": "/api/v1/people/671131",
-        "nameSlug": "jackson-rutledge-671131"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent RHP Jackson Rutledge to a minor league contract."
-    },
-    {
       "id": 921376,
       "person": {
         "id": 571657,
@@ -220820,44 +220250,24 @@
       "description": "Atlanta Braves sent DH Kyle Farmer on a rehab assignment to Columbus Clingstones."
     },
     {
-      "id": 921407,
+      "id": 921463,
       "person": {
-        "id": 669456,
-        "fullName": "Shane Bieber",
-        "link": "/api/v1/people/669456",
-        "nameSlug": "shane-bieber-669456"
+        "id": 672580,
+        "fullName": "Maikel Garcia",
+        "link": "/api/v1/people/672580",
+        "nameSlug": "maikel-garcia-672580"
       },
       "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
       "resolutionDate": "2026-06-23",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Toronto Blue Jays activated RHP Shane Bieber from the 60-day injured list."
-    },
-    {
-      "id": 921148,
-      "person": {
-        "id": 808154,
-        "fullName": "Davidxon Lara",
-        "link": "/api/v1/people/808154",
-        "nameSlug": "davidxon-lara-808154"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "resolutionDate": "2026-06-23",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Miami Marlins signed free agent RHP Davidxon Lara to a minor league contract."
+      "description": "Kansas City Royals placed 3B Maikel Garcia on the 10-day injured list. Left hand muscle strain."
     },
     {
       "id": 921572,
@@ -220885,89 +220295,127 @@
       "description": "Detroit Tigers sent RHP Jack Flaherty on a rehab assignment to Erie SeaWolves."
     },
     {
-      "id": 922171,
+      "id": 921725,
       "person": {
-        "id": 835862,
-        "fullName": "Julien Hernandez",
-        "link": "/api/v1/people/835862",
-        "nameSlug": "julien-hernandez-835862"
-      },
-      "fromTeam": {
-        "id": 6490,
-        "name": "Long Beach Coast",
-        "link": "/api/v1/teams/6490"
+        "id": 843411,
+        "fullName": "Jeremi Rodriguez",
+        "link": "/api/v1/people/843411",
+        "nameSlug": "jeremi-rodriguez-843411"
       },
       "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "ACQ",
-      "typeDesc": "Acquired",
-      "description": "Arizona Diamondbacks acquired RHP Julien Hernandez from the Long Beach Coast of the Pioneer League."
-    },
-    {
-      "id": 921429,
-      "person": {
-        "id": 608723,
-        "fullName": "Austin Voth",
-        "link": "/api/v1/people/608723",
-        "nameSlug": "austin-voth-608723"
-      },
-      "fromTeam": {
-        "id": 1960,
-        "name": "St. Paul Saints",
-        "link": "/api/v1/teams/1960"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Minnesota Twins selected the contract of RHP Austin Voth from St. Paul Saints."
-    },
-    {
-      "id": 921509,
-      "person": {
-        "id": 666931,
-        "fullName": "Jared Oliva",
-        "link": "/api/v1/people/666931",
-        "nameSlug": "jared-oliva-666931"
-      },
-      "fromTeam": {
         "id": 137,
         "name": "San Francisco Giants",
         "link": "/api/v1/teams/137"
       },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Francisco Giants signed free agent SS Jeremi Rodriguez to a minor league contract."
+    },
+    {
+      "id": 921148,
+      "person": {
+        "id": 808154,
+        "fullName": "Davidxon Lara",
+        "link": "/api/v1/people/808154",
+        "nameSlug": "davidxon-lara-808154"
+      },
       "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "CLW",
-      "typeDesc": "Claimed Off Waivers",
-      "description": "New York Mets claimed CF Jared Oliva off waivers from San Francisco Giants."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Miami Marlins signed free agent RHP Davidxon Lara to a minor league contract."
     },
     {
-      "id": 921331,
+      "id": 934128,
       "person": {
-        "id": 641555,
-        "fullName": "J.C. Escarra",
-        "link": "/api/v1/people/641555",
-        "nameSlug": "j-c-escarra-641555"
+        "id": 672820,
+        "fullName": "Lenyn Sosa",
+        "link": "/api/v1/people/672820",
+        "nameSlug": "lenyn-sosa-672820"
       },
       "fromTeam": {
-        "id": 531,
-        "name": "Scranton/Wilkes-Barre Highlanders",
-        "link": "/api/v1/teams/531"
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "toTeam": {
+        "id": 424,
+        "name": "Dunedin Blue Jays",
+        "link": "/api/v1/teams/424"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
+    },
+    {
+      "id": 934124,
+      "person": {
+        "id": 672820,
+        "fullName": "Lenyn Sosa",
+        "link": "/api/v1/people/672820",
+        "nameSlug": "lenyn-sosa-672820"
+      },
+      "fromTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "toTeam": {
+        "id": 424,
+        "name": "Dunedin Blue Jays",
+        "link": "/api/v1/teams/424"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
+    },
+    {
+      "id": 921322,
+      "person": {
+        "id": 668881,
+        "fullName": "Hunter Greene",
+        "link": "/api/v1/people/668881",
+        "nameSlug": "hunter-greene-668881"
+      },
+      "fromTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "toTeam": {
+        "id": 416,
+        "name": "Louisville Bats",
+        "link": "/api/v1/teams/416"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Cincinnati Reds sent RHP Hunter Greene on a rehab assignment to Louisville Bats."
+    },
+    {
+      "id": 921332,
+      "person": {
+        "id": 645305,
+        "fullName": "Ali Sánchez",
+        "link": "/api/v1/people/645305",
+        "nameSlug": "ali-sanchez-645305"
       },
       "toTeam": {
         "id": 147,
@@ -220976,88 +220424,278 @@
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "New York Yankees placed C Ali Sánchez on the paternity list."
     },
     {
-      "id": 921753,
+      "id": 921672,
       "person": {
-        "id": 828620,
-        "fullName": "Parker Coddou",
-        "link": "/api/v1/people/828620",
-        "nameSlug": "parker-coddou-828620"
-      },
-      "fromTeam": {
-        "id": 577,
-        "name": "Tri-City ValleyCats",
-        "link": "/api/v1/teams/577"
+        "id": 666023,
+        "fullName": "Freddy Fermin",
+        "link": "/api/v1/people/666023",
+        "nameSlug": "freddy-fermin-666023"
       },
       "toTeam": {
-        "id": 115,
-        "name": "Colorado Rockies",
-        "link": "/api/v1/teams/115"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "ACQ",
-      "typeDesc": "Acquired",
-      "description": "Colorado Rockies acquired IF Parker Coddou from the Tri-City ValleyCats of the Frontier League."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "San Diego Padres activated C Freddy Fermin from the 7-day injured list."
     },
     {
-      "id": 921454,
+      "id": 921407,
       "person": {
-        "id": 701162,
-        "fullName": "Ben Malgeri",
-        "link": "/api/v1/people/701162",
-        "nameSlug": "ben-malgeri-701162"
-      },
-      "fromTeam": {
-        "id": 512,
-        "name": "Toledo Mud Hens",
-        "link": "/api/v1/teams/512"
+        "id": 669456,
+        "fullName": "Shane Bieber",
+        "link": "/api/v1/people/669456",
+        "nameSlug": "shane-bieber-669456"
       },
       "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Detroit Tigers selected the contract of CF Ben Malgeri from Toledo Mud Hens."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Toronto Blue Jays activated RHP Shane Bieber from the 60-day injured list."
     },
     {
-      "id": 921613,
-      "fromTeam": {
+      "id": 921497,
+      "person": {
+        "id": 681151,
+        "fullName": "Jayden Murray",
+        "link": "/api/v1/people/681151",
+        "nameSlug": "jayden-murray-681151"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Chicago Cubs activated RHP Jayden Murray."
+    },
+    {
+      "id": 921611,
+      "person": {
+        "id": 681371,
+        "fullName": "Dom Keegan",
+        "link": "/api/v1/people/681371",
+        "nameSlug": "dom-keegan-681371"
+      },
+      "toTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
         "link": "/api/v1/teams/139"
       },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Tampa Bay Rays designated C Dom Keegan for assignment."
+    },
+    {
+      "id": 921675,
+      "person": {
+        "id": 606192,
+        "fullName": "Teoscar Hernández",
+        "link": "/api/v1/people/606192",
+        "nameSlug": "teoscar-hernandez-606192"
+      },
+      "fromTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
       "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
+        "id": 238,
+        "name": "Oklahoma City Comets",
+        "link": "/api/v1/teams/238"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "St. Louis Cardinals traded RHP Chris Roycroft to Tampa Bay Rays for Player To Be Named Later."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Los Angeles Dodgers sent LF Teoscar Hernández on a rehab assignment to Oklahoma City Comets."
     },
     {
-      "id": 921748,
+      "id": 921730,
       "person": {
-        "id": 656181,
-        "fullName": "Spencer Adams",
-        "link": "/api/v1/people/656181",
-        "nameSlug": "spencer-adams-656181"
+        "id": 843413,
+        "fullName": "Yohali Geraldo",
+        "link": "/api/v1/people/843413",
+        "nameSlug": "yohali-geraldo-843413"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent SS Yohali Geraldo to a minor league contract."
+    },
+    {
+      "id": 921522,
+      "person": {
+        "id": 671131,
+        "fullName": "Jackson Rutledge",
+        "link": "/api/v1/people/671131",
+        "nameSlug": "jackson-rutledge-671131"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent RHP Jackson Rutledge to a minor league contract."
+    },
+    {
+      "id": 921512,
+      "person": {
+        "id": 687637,
+        "fullName": "Dylan Beavers",
+        "link": "/api/v1/people/687637",
+        "nameSlug": "dylan-beavers-687637"
       },
       "fromTeam": {
-        "id": 5508,
-        "name": "Gastonia Ghost Peppers",
-        "link": "/api/v1/teams/5508"
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "toTeam": {
+        "id": 568,
+        "name": "Norfolk Tides",
+        "link": "/api/v1/teams/568"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Baltimore Orioles sent RF Dylan Beavers on a rehab assignment to Norfolk Tides."
+    },
+    {
+      "id": 921731,
+      "person": {
+        "id": 843414,
+        "fullName": "Ronieel Cabreja",
+        "link": "/api/v1/people/843414",
+        "nameSlug": "ronieel-cabreja-843414"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Houston Astros signed free agent RHP Ronieel Cabreja to a minor league contract."
+    },
+    {
+      "id": 921468,
+      "person": {
+        "id": 663853,
+        "fullName": "Romy Gonzalez",
+        "link": "/api/v1/people/663853",
+        "nameSlug": "romy-gonzalez-663853"
+      },
+      "fromTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "toTeam": {
+        "id": 533,
+        "name": "Worcester Red Sox",
+        "link": "/api/v1/teams/533"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Boston Red Sox sent 1B Romy Gonzalez on a rehab assignment to Worcester Red Sox."
+    },
+    {
+      "id": 921531,
+      "person": {
+        "id": 843397,
+        "fullName": "Chien-Fan Lai",
+        "link": "/api/v1/people/843397",
+        "nameSlug": "chien-fan-lai-843397"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "New York Yankees signed free agent Chien-Fan Lai to a minor league contract."
+    },
+    {
+      "id": 923427,
+      "person": {
+        "id": 606192,
+        "fullName": "Teoscar Hernández",
+        "link": "/api/v1/people/606192",
+        "nameSlug": "teoscar-hernandez-606192"
+      },
+      "fromTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "toTeam": {
+        "id": 238,
+        "name": "Oklahoma City Comets",
+        "link": "/api/v1/teams/238"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Los Angeles Dodgers sent LF Teoscar Hernández on a rehab assignment to Oklahoma City Comets."
+    },
+    {
+      "id": 921477,
+      "person": {
+        "id": 594835,
+        "fullName": "Marco Gonzales",
+        "link": "/api/v1/people/594835",
+        "nameSlug": "marco-gonzales-594835"
       },
       "toTeam": {
         "id": 140,
@@ -221066,57 +220704,185 @@
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "ACQ",
-      "typeDesc": "Acquired",
-      "description": "Texas Rangers acquired RHP Spencer Adams from the Gastonia Ghost Peppers of the Atlantic League."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Texas Rangers signed free agent LHP Marco Gonzales to a minor league contract."
     },
     {
-      "id": 921562,
+      "id": 921466,
       "person": {
-        "id": 666931,
-        "fullName": "Jared Oliva",
-        "link": "/api/v1/people/666931",
-        "nameSlug": "jared-oliva-666931"
+        "id": 663776,
+        "fullName": "Patrick Sandoval",
+        "link": "/api/v1/people/663776",
+        "nameSlug": "patrick-sandoval-663776"
       },
       "fromTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
       },
       "toTeam": {
-        "id": 552,
-        "name": "Syracuse Mets",
-        "link": "/api/v1/teams/552"
+        "id": 533,
+        "name": "Worcester Red Sox",
+        "link": "/api/v1/teams/533"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "New York Mets optioned CF Jared Oliva to Syracuse Mets."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Boston Red Sox sent LHP Patrick Sandoval on a rehab assignment to Worcester Red Sox."
     },
     {
-      "id": 921460,
+      "id": 921469,
       "person": {
-        "id": 656582,
-        "fullName": "Connor Joe",
-        "link": "/api/v1/people/656582",
-        "nameSlug": "connor-joe-656582"
-      },
-      "fromTeam": {
-        "id": 136,
-        "name": "Seattle Mariners",
-        "link": "/api/v1/teams/136"
+        "id": 668800,
+        "fullName": "Andrew Knizner",
+        "link": "/api/v1/people/668800",
+        "nameSlug": "andrew-knizner-668800"
       },
       "toTeam": {
-        "id": 529,
-        "name": "Tacoma Rainiers",
-        "link": "/api/v1/teams/529"
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Seattle Mariners optioned RF Connor Joe to Tacoma Rainiers."
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Boston Red Sox signed free agent C Andrew Knizner to a minor league contract."
+    },
+    {
+      "id": 921525,
+      "person": {
+        "id": 668881,
+        "fullName": "Hunter Greene",
+        "link": "/api/v1/people/668881",
+        "nameSlug": "hunter-greene-668881"
+      },
+      "fromTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "toTeam": {
+        "id": 416,
+        "name": "Louisville Bats",
+        "link": "/api/v1/teams/416"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Cincinnati Reds sent RHP Hunter Greene on a rehab assignment to Louisville Bats."
+    },
+    {
+      "id": 921311,
+      "person": {
+        "id": 672820,
+        "fullName": "Lenyn Sosa",
+        "link": "/api/v1/people/672820",
+        "nameSlug": "lenyn-sosa-672820"
+      },
+      "fromTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "toTeam": {
+        "id": 424,
+        "name": "Dunedin Blue Jays",
+        "link": "/api/v1/teams/424"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Toronto Blue Jays sent 2B Lenyn Sosa on a rehab assignment to Dunedin Blue Jays."
+    },
+    {
+      "id": 921320,
+      "person": {
+        "id": 682829,
+        "fullName": "Elly De La Cruz",
+        "link": "/api/v1/people/682829",
+        "nameSlug": "elly-de-la-cruz-682829"
+      },
+      "toTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cincinnati Reds activated SS Elly De La Cruz from the 10-day injured list."
+    },
+    {
+      "id": 921456,
+      "person": {
+        "id": 572143,
+        "fullName": "Burch Smith",
+        "link": "/api/v1/people/572143",
+        "nameSlug": "burch-smith-572143"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Detroit Tigers transferred RHP Burch Smith from the 15-day injured list to the 60-day injured list. Right shoulder inflammation."
+    },
+    {
+      "id": 921479,
+      "person": {
+        "id": 642851,
+        "fullName": "Austin Wynns",
+        "link": "/api/v1/people/642851",
+        "nameSlug": "austin-wynns-642851"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Texas Rangers signed free agent C Austin Wynns to a minor league contract."
+    },
+    {
+      "id": 921616,
+      "person": {
+        "id": 650859,
+        "fullName": "Luis Rengifo",
+        "link": "/api/v1/people/650859",
+        "nameSlug": "luis-rengifo-650859"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "resolutionDate": "2026-06-23",
+      "typeCode": "REL",
+      "typeDesc": "Released",
+      "description": "Milwaukee Brewers released 3B Luis Rengifo."
     },
     {
       "id": 921455,
@@ -221167,60 +220933,12 @@
       "description": "Toronto Blue Jays optioned RHP Lazaro Estrada to Buffalo Bisons."
     },
     {
-      "id": 921673,
+      "id": 921753,
       "person": {
-        "id": 675448,
-        "fullName": "Blake Hunt",
-        "link": "/api/v1/people/675448",
-        "nameSlug": "blake-hunt-675448"
-      },
-      "fromTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "toTeam": {
-        "id": 4904,
-        "name": "El Paso Chihuahuas",
-        "link": "/api/v1/teams/4904"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "San Diego Padres optioned C Blake Hunt to El Paso Chihuahuas."
-    },
-    {
-      "id": 921613,
-      "person": {
-        "id": 688297,
-        "fullName": "Chris Roycroft",
-        "link": "/api/v1/people/688297",
-        "nameSlug": "chris-roycroft-688297"
-      },
-      "fromTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "toTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "link": "/api/v1/teams/139"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "St. Louis Cardinals traded RHP Chris Roycroft to Tampa Bay Rays for Player To Be Named Later."
-    },
-    {
-      "id": 921655,
-      "person": {
-        "id": 803152,
-        "fullName": "Jake Reinisch",
-        "link": "/api/v1/people/803152",
-        "nameSlug": "jake-reinisch-803152"
+        "id": 828620,
+        "fullName": "Parker Coddou",
+        "link": "/api/v1/people/828620",
+        "nameSlug": "parker-coddou-828620"
       },
       "fromTeam": {
         "id": 577,
@@ -221228,111 +220946,39 @@
         "link": "/api/v1/teams/577"
       },
       "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
+        "id": 115,
+        "name": "Colorado Rockies",
+        "link": "/api/v1/teams/115"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
       "typeCode": "ACQ",
       "typeDesc": "Acquired",
-      "description": "Athletics acquired OF Jake Reinisch from the Tri-City ValleyCats of the Frontier League."
+      "description": "Colorado Rockies acquired IF Parker Coddou from the Tri-City ValleyCats of the Frontier League."
     },
     {
-      "id": 921324,
+      "id": 921331,
       "person": {
-        "id": 666181,
-        "fullName": "Will Benson",
-        "link": "/api/v1/people/666181",
-        "nameSlug": "will-benson-666181"
+        "id": 641555,
+        "fullName": "J.C. Escarra",
+        "link": "/api/v1/people/641555",
+        "nameSlug": "j-c-escarra-641555"
       },
       "fromTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
+        "id": 531,
+        "name": "Scranton/Wilkes-Barre Highlanders",
+        "link": "/api/v1/teams/531"
       },
       "toTeam": {
-        "id": 416,
-        "name": "Louisville Bats",
-        "link": "/api/v1/teams/416"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Cincinnati Reds optioned RF Will Benson to Louisville Bats."
-    },
-    {
-      "id": 921430,
-      "person": {
-        "id": 689520,
-        "fullName": "Cody Laweryson",
-        "link": "/api/v1/people/689520",
-        "nameSlug": "cody-laweryson-689520"
-      },
-      "fromTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "toTeam": {
-        "id": 1960,
-        "name": "St. Paul Saints",
-        "link": "/api/v1/teams/1960"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Minnesota Twins optioned RHP Cody Laweryson to St. Paul Saints."
-    },
-    {
-      "id": 921496,
-      "person": {
-        "id": 668970,
-        "fullName": "Gavin Hollowell",
-        "link": "/api/v1/people/668970",
-        "nameSlug": "gavin-hollowell-668970"
-      },
-      "fromTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "toTeam": {
-        "id": 451,
-        "name": "Iowa Cubs",
-        "link": "/api/v1/teams/451"
-      },
-      "date": "2026-06-23",
-      "effectiveDate": "2026-06-23",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Chicago Cubs optioned RHP Gavin Hollowell to Iowa Cubs."
-    },
-    {
-      "id": 921462,
-      "person": {
-        "id": 668942,
-        "fullName": "Josh Rojas",
-        "link": "/api/v1/people/668942",
-        "nameSlug": "josh-rojas-668942"
-      },
-      "fromTeam": {
-        "id": 541,
-        "name": "Omaha Storm Chasers",
-        "link": "/api/v1/teams/541"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
       },
       "date": "2026-06-23",
       "effectiveDate": "2026-06-23",
       "typeCode": "CU",
       "typeDesc": "Recalled",
-      "description": "Kansas City Royals recalled 3B Josh Rojas from Omaha Storm Chasers."
+      "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 921614,
@@ -221359,6 +221005,30 @@
       "description": "Tampa Bay Rays optioned RHP Chris Roycroft to Durham Bulls."
     },
     {
+      "id": 921496,
+      "person": {
+        "id": 668970,
+        "fullName": "Gavin Hollowell",
+        "link": "/api/v1/people/668970",
+        "nameSlug": "gavin-hollowell-668970"
+      },
+      "fromTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "toTeam": {
+        "id": 451,
+        "name": "Iowa Cubs",
+        "link": "/api/v1/teams/451"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Chicago Cubs optioned RHP Gavin Hollowell to Iowa Cubs."
+    },
+    {
       "id": 921626,
       "person": {
         "id": 676664,
@@ -221381,6 +221051,336 @@
       "typeCode": "CU",
       "typeDesc": "Recalled",
       "description": "San Diego Padres recalled LHP JP Sears from El Paso Chihuahuas."
+    },
+    {
+      "id": 921748,
+      "person": {
+        "id": 656181,
+        "fullName": "Spencer Adams",
+        "link": "/api/v1/people/656181",
+        "nameSlug": "spencer-adams-656181"
+      },
+      "fromTeam": {
+        "id": 5508,
+        "name": "Gastonia Ghost Peppers",
+        "link": "/api/v1/teams/5508"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "ACQ",
+      "typeDesc": "Acquired",
+      "description": "Texas Rangers acquired RHP Spencer Adams from the Gastonia Ghost Peppers of the Atlantic League."
+    },
+    {
+      "id": 921673,
+      "person": {
+        "id": 675448,
+        "fullName": "Blake Hunt",
+        "link": "/api/v1/people/675448",
+        "nameSlug": "blake-hunt-675448"
+      },
+      "fromTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "toTeam": {
+        "id": 4904,
+        "name": "El Paso Chihuahuas",
+        "link": "/api/v1/teams/4904"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "San Diego Padres optioned C Blake Hunt to El Paso Chihuahuas."
+    },
+    {
+      "id": 921430,
+      "person": {
+        "id": 689520,
+        "fullName": "Cody Laweryson",
+        "link": "/api/v1/people/689520",
+        "nameSlug": "cody-laweryson-689520"
+      },
+      "fromTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "toTeam": {
+        "id": 1960,
+        "name": "St. Paul Saints",
+        "link": "/api/v1/teams/1960"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Minnesota Twins optioned RHP Cody Laweryson to St. Paul Saints."
+    },
+    {
+      "id": 921509,
+      "person": {
+        "id": 666931,
+        "fullName": "Jared Oliva",
+        "link": "/api/v1/people/666931",
+        "nameSlug": "jared-oliva-666931"
+      },
+      "fromTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "CLW",
+      "typeDesc": "Claimed Off Waivers",
+      "description": "New York Mets claimed CF Jared Oliva off waivers from San Francisco Giants."
+    },
+    {
+      "id": 921460,
+      "person": {
+        "id": 656582,
+        "fullName": "Connor Joe",
+        "link": "/api/v1/people/656582",
+        "nameSlug": "connor-joe-656582"
+      },
+      "fromTeam": {
+        "id": 136,
+        "name": "Seattle Mariners",
+        "link": "/api/v1/teams/136"
+      },
+      "toTeam": {
+        "id": 529,
+        "name": "Tacoma Rainiers",
+        "link": "/api/v1/teams/529"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Seattle Mariners optioned RF Connor Joe to Tacoma Rainiers."
+    },
+    {
+      "id": 921655,
+      "person": {
+        "id": 803152,
+        "fullName": "Jake Reinisch",
+        "link": "/api/v1/people/803152",
+        "nameSlug": "jake-reinisch-803152"
+      },
+      "fromTeam": {
+        "id": 577,
+        "name": "Tri-City ValleyCats",
+        "link": "/api/v1/teams/577"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "ACQ",
+      "typeDesc": "Acquired",
+      "description": "Athletics acquired OF Jake Reinisch from the Tri-City ValleyCats of the Frontier League."
+    },
+    {
+      "id": 921462,
+      "person": {
+        "id": 668942,
+        "fullName": "Josh Rojas",
+        "link": "/api/v1/people/668942",
+        "nameSlug": "josh-rojas-668942"
+      },
+      "fromTeam": {
+        "id": 541,
+        "name": "Omaha Storm Chasers",
+        "link": "/api/v1/teams/541"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Kansas City Royals recalled 3B Josh Rojas from Omaha Storm Chasers."
+    },
+    {
+      "id": 921429,
+      "person": {
+        "id": 608723,
+        "fullName": "Austin Voth",
+        "link": "/api/v1/people/608723",
+        "nameSlug": "austin-voth-608723"
+      },
+      "fromTeam": {
+        "id": 1960,
+        "name": "St. Paul Saints",
+        "link": "/api/v1/teams/1960"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Minnesota Twins selected the contract of RHP Austin Voth from St. Paul Saints."
+    },
+    {
+      "id": 921324,
+      "person": {
+        "id": 666181,
+        "fullName": "Will Benson",
+        "link": "/api/v1/people/666181",
+        "nameSlug": "will-benson-666181"
+      },
+      "fromTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "toTeam": {
+        "id": 416,
+        "name": "Louisville Bats",
+        "link": "/api/v1/teams/416"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Cincinnati Reds optioned RF Will Benson to Louisville Bats."
+    },
+    {
+      "id": 921613,
+      "fromTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "St. Louis Cardinals traded RHP Chris Roycroft to Tampa Bay Rays for Player To Be Named Later."
+    },
+    {
+      "id": 921613,
+      "person": {
+        "id": 688297,
+        "fullName": "Chris Roycroft",
+        "link": "/api/v1/people/688297",
+        "nameSlug": "chris-roycroft-688297"
+      },
+      "fromTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "toTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "St. Louis Cardinals traded RHP Chris Roycroft to Tampa Bay Rays for Player To Be Named Later."
+    },
+    {
+      "id": 921562,
+      "person": {
+        "id": 666931,
+        "fullName": "Jared Oliva",
+        "link": "/api/v1/people/666931",
+        "nameSlug": "jared-oliva-666931"
+      },
+      "fromTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "toTeam": {
+        "id": 552,
+        "name": "Syracuse Mets",
+        "link": "/api/v1/teams/552"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "New York Mets optioned CF Jared Oliva to Syracuse Mets."
+    },
+    {
+      "id": 921454,
+      "person": {
+        "id": 701162,
+        "fullName": "Ben Malgeri",
+        "link": "/api/v1/people/701162",
+        "nameSlug": "ben-malgeri-701162"
+      },
+      "fromTeam": {
+        "id": 512,
+        "name": "Toledo Mud Hens",
+        "link": "/api/v1/teams/512"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Detroit Tigers selected the contract of CF Ben Malgeri from Toledo Mud Hens."
+    },
+    {
+      "id": 922171,
+      "person": {
+        "id": 835862,
+        "fullName": "Julien Hernandez",
+        "link": "/api/v1/people/835862",
+        "nameSlug": "julien-hernandez-835862"
+      },
+      "fromTeam": {
+        "id": 6490,
+        "name": "Long Beach Coast",
+        "link": "/api/v1/teams/6490"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-06-23",
+      "effectiveDate": "2026-06-23",
+      "typeCode": "ACQ",
+      "typeDesc": "Acquired",
+      "description": "Arizona Diamondbacks acquired RHP Julien Hernandez from the Long Beach Coast of the Pioneer League."
     },
     {
       "id": 921900,
@@ -272329,246 +272329,6 @@
       "description": "St. Louis Cardinals selected the contract of RHP Peter Strzelecki from Palm Beach Cardinals."
     },
     {
-      "id": 933256,
-      "person": {
-        "id": 678554,
-        "fullName": "Curtis Mead",
-        "link": "/api/v1/people/678554",
-        "nameSlug": "curtis-mead-678554"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-28",
-      "resolutionDate": "2026-07-28",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Boston Red Sox placed 3B Curtis Mead on the 10-day injured list retroactive to July 28, 2026. Left wrist tracture."
-    },
-    {
-      "id": 933561,
-      "person": {
-        "id": 830736,
-        "fullName": "Bryce Fowler",
-        "link": "/api/v1/people/830736",
-        "nameSlug": "bryce-fowler-830736"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Minnesota Twins signed free agent OF Bryce Fowler to a minor league contract."
-    },
-    {
-      "id": 933084,
-      "person": {
-        "id": 669093,
-        "fullName": "Jeremiah Estrada",
-        "link": "/api/v1/people/669093",
-        "nameSlug": "jeremiah-estrada-669093"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "San Diego Padres activated RHP Jeremiah Estrada from the 15-day injured list."
-    },
-    {
-      "id": 933083,
-      "person": {
-        "id": 663362,
-        "fullName": "Matt Waldron",
-        "link": "/api/v1/people/663362",
-        "nameSlug": "matt-waldron-663362"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "San Diego Padres designated RHP Matt Waldron for assignment."
-    },
-    {
-      "id": 933202,
-      "person": {
-        "id": 669713,
-        "fullName": "Hayden Wesneski",
-        "link": "/api/v1/people/669713",
-        "nameSlug": "hayden-wesneski-669713"
-      },
-      "toTeam": {
-        "id": 117,
-        "name": "Houston Astros",
-        "link": "/api/v1/teams/117"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Houston Astros activated RHP Hayden Wesneski from the 60-day injured list."
-    },
-    {
-      "id": 932384,
-      "person": {
-        "id": 700363,
-        "fullName": "AJ Smith-Shawver",
-        "link": "/api/v1/people/700363",
-        "nameSlug": "aj-smith-shawver-700363"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Atlanta Braves activated RHP AJ Smith-Shawver from the 60-day injured list."
-    },
-    {
-      "id": 933320,
-      "person": {
-        "id": 844358,
-        "fullName": "Eleazar Suarez",
-        "link": "/api/v1/people/844358",
-        "nameSlug": "eleazar-suarez-844358"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Arizona Diamondbacks signed free agent RHP Eleazar Suarez to a minor league contract."
-    },
-    {
-      "id": 933568,
-      "person": {
-        "id": 821877,
-        "fullName": "Blake Schaaf",
-        "link": "/api/v1/people/821877",
-        "nameSlug": "blake-schaaf-821877"
-      },
-      "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "New York Yankees signed free agent SS Blake Schaaf to a minor league contract."
-    },
-    {
-      "id": 933264,
-      "person": {
-        "id": 621242,
-        "fullName": "Edwin Díaz",
-        "link": "/api/v1/people/621242",
-        "nameSlug": "edwin-diaz-621242"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated RHP Edwin Díaz from the 60-day injured list."
-    },
-    {
-      "id": 932403,
-      "person": {
-        "id": 592866,
-        "fullName": "Trevor Williams",
-        "link": "/api/v1/people/592866",
-        "nameSlug": "trevor-williams-592866"
-      },
-      "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Washington Nationals activated RHP Trevor Williams from the 60-day injured list."
-    },
-    {
-      "id": 933188,
-      "person": {
-        "id": 642121,
-        "fullName": "Cole Sulser",
-        "link": "/api/v1/people/642121",
-        "nameSlug": "cole-sulser-642121"
-      },
-      "toTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "link": "/api/v1/teams/139"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-26",
-      "resolutionDate": "2026-07-26",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Tampa Bay Rays placed RHP Cole Sulser on the 15-day injured list retroactive to July 26, 2026. Lower back spasms."
-    },
-    {
-      "id": 933279,
-      "person": {
-        "id": 518595,
-        "fullName": "Travis d'Arnaud",
-        "link": "/api/v1/people/518595",
-        "nameSlug": "travis-d-arnaud-518595"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Angels activated C Travis d'Arnaud from the 60-day injured list."
-    },
-    {
       "id": 933048,
       "person": {
         "id": 669084,
@@ -272644,134 +272404,44 @@
       "description": "Los Angeles Angels sent LHP Yusei Kikuchi on a rehab assignment to Rancho Cucamonga Quakes."
     },
     {
-      "id": 935177,
+      "id": 933083,
       "person": {
-        "id": 605483,
-        "fullName": "Blake Snell",
-        "link": "/api/v1/people/605483",
-        "nameSlug": "blake-snell-605483"
-      },
-      "fromTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
+        "id": 663362,
+        "fullName": "Matt Waldron",
+        "link": "/api/v1/people/663362",
+        "nameSlug": "matt-waldron-663362"
       },
       "toTeam": {
-        "id": 6482,
-        "name": "Ontario Tower Buzzers",
-        "link": "/api/v1/teams/6482"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Los Angeles Dodgers sent LHP Blake Snell on a rehab assignment to Ontario Tower Buzzers."
-    },
-    {
-      "id": 933265,
-      "person": {
-        "id": 656212,
-        "fullName": "Charlie Barnes",
-        "link": "/api/v1/people/656212",
-        "nameSlug": "charlie-barnes-656212"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "resolutionDate": "2026-07-29",
       "typeCode": "DES",
       "typeDesc": "Designated for Assignment",
-      "description": "Los Angeles Dodgers designated LHP Charlie Barnes for assignment."
+      "description": "San Diego Padres designated RHP Matt Waldron for assignment."
     },
     {
-      "id": 933278,
+      "id": 933084,
       "person": {
-        "id": 692030,
-        "fullName": "Jose Corniell",
-        "link": "/api/v1/people/692030",
-        "nameSlug": "jose-corniell-692030"
+        "id": 669093,
+        "fullName": "Jeremiah Estrada",
+        "link": "/api/v1/people/669093",
+        "nameSlug": "jeremiah-estrada-669093"
       },
       "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "resolutionDate": "2026-07-29",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Texas Rangers transferred RHP Jose Corniell from the 15-day injured list to the 60-day injured list."
-    },
-    {
-      "id": 933272,
-      "person": {
-        "id": 813841,
-        "fullName": "Jonah Cox",
-        "link": "/api/v1/people/813841",
-        "nameSlug": "jonah-cox-813841"
-      },
-      "fromTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "toTeam": {
-        "id": 105,
-        "name": "Sacramento River Cats",
-        "link": "/api/v1/teams/105"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "San Francisco Giants sent CF Jonah Cox on a rehab assignment to Sacramento River Cats."
-    },
-    {
-      "id": 933141,
-      "person": {
-        "id": 686469,
-        "fullName": "Vinnie Pasquantino",
-        "link": "/api/v1/people/686469",
-        "nameSlug": "vinnie-pasquantino-686469"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Kansas City Royals placed 1B Vinnie Pasquantino on the 10-day injured list. Right wrist soreness."
-    },
-    {
-      "id": 933277,
-      "person": {
-        "id": 643376,
-        "fullName": "Danny Jansen",
-        "link": "/api/v1/people/643376",
-        "nameSlug": "danny-jansen-643376"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Texas Rangers transferred C Danny Jansen from the 10-day injured list to the 60-day injured list. Right forearm strain."
+      "description": "San Diego Padres activated RHP Jeremiah Estrada from the 15-day injured list."
     },
     {
       "id": 932415,
@@ -272799,64 +272469,44 @@
       "description": "Chicago Cubs sent LHP Hoby Milner on a rehab assignment to Iowa Cubs."
     },
     {
-      "id": 933461,
+      "id": 932384,
       "person": {
-        "id": 702752,
-        "fullName": "Jonathan Pintaro",
-        "link": "/api/v1/people/702752",
-        "nameSlug": "jonathan-pintaro-702752"
+        "id": 700363,
+        "fullName": "AJ Smith-Shawver",
+        "link": "/api/v1/people/700363",
+        "nameSlug": "aj-smith-shawver-700363"
       },
       "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "resolutionDate": "2026-07-29",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "New York Mets activated RHP Jonathan Pintaro."
+      "description": "Atlanta Braves activated RHP AJ Smith-Shawver from the 60-day injured list."
     },
     {
-      "id": 933558,
+      "id": 933264,
       "person": {
-        "id": 803913,
-        "fullName": "Kurt Barr",
-        "link": "/api/v1/people/803913",
-        "nameSlug": "kurt-barr-803913"
+        "id": 621242,
+        "fullName": "Edwin Díaz",
+        "link": "/api/v1/people/621242",
+        "nameSlug": "edwin-diaz-621242"
       },
       "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "resolutionDate": "2026-07-29",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Minnesota Twins signed free agent RHP Kurt Barr to a minor league contract."
-    },
-    {
-      "id": 933242,
-      "person": {
-        "id": 642701,
-        "fullName": "Dennis Santana",
-        "link": "/api/v1/people/642701",
-        "nameSlug": "dennis-santana-642701"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "resolutionDate": "2026-07-29",
-      "typeCode": "REL",
-      "typeDesc": "Released",
-      "description": "Pittsburgh Pirates released RHP Dennis Santana."
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated RHP Edwin Díaz from the 60-day injured list."
     },
     {
       "id": 935762,
@@ -272879,12 +272529,72 @@
       "description": "Boston Red Sox activated 2B Nick Sogard."
     },
     {
-      "id": 933239,
+      "id": 933188,
       "person": {
-        "id": 621439,
-        "fullName": "Byron Buxton",
-        "link": "/api/v1/people/621439",
-        "nameSlug": "byron-buxton-621439"
+        "id": 642121,
+        "fullName": "Cole Sulser",
+        "link": "/api/v1/people/642121",
+        "nameSlug": "cole-sulser-642121"
+      },
+      "toTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-26",
+      "resolutionDate": "2026-07-26",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Tampa Bay Rays placed RHP Cole Sulser on the 15-day injured list retroactive to July 26, 2026. Lower back spasms."
+    },
+    {
+      "id": 933265,
+      "person": {
+        "id": 656212,
+        "fullName": "Charlie Barnes",
+        "link": "/api/v1/people/656212",
+        "nameSlug": "charlie-barnes-656212"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Los Angeles Dodgers designated LHP Charlie Barnes for assignment."
+    },
+    {
+      "id": 933256,
+      "person": {
+        "id": 678554,
+        "fullName": "Curtis Mead",
+        "link": "/api/v1/people/678554",
+        "nameSlug": "curtis-mead-678554"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-28",
+      "resolutionDate": "2026-07-28",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Boston Red Sox placed 3B Curtis Mead on the 10-day injured list retroactive to July 28, 2026. Left wrist tracture."
+    },
+    {
+      "id": 933558,
+      "person": {
+        "id": 803913,
+        "fullName": "Kurt Barr",
+        "link": "/api/v1/people/803913",
+        "nameSlug": "kurt-barr-803913"
       },
       "toTeam": {
         "id": 142,
@@ -272894,29 +272604,69 @@
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "resolutionDate": "2026-07-29",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Minnesota Twins placed CF Byron Buxton on the 10-day injured list. Right hip impingement."
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Minnesota Twins signed free agent RHP Kurt Barr to a minor league contract."
     },
     {
-      "id": 933238,
+      "id": 932403,
       "person": {
-        "id": 681806,
-        "fullName": "Andrew Wantz",
-        "link": "/api/v1/people/681806",
-        "nameSlug": "andrew-wantz-681806"
+        "id": 592866,
+        "fullName": "Trevor Williams",
+        "link": "/api/v1/people/592866",
+        "nameSlug": "trevor-williams-592866"
       },
       "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "resolutionDate": "2026-07-29",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Chicago Cubs designated RHP Andrew Wantz for assignment."
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Washington Nationals activated RHP Trevor Williams from the 60-day injured list."
+    },
+    {
+      "id": 933279,
+      "person": {
+        "id": 518595,
+        "fullName": "Travis d'Arnaud",
+        "link": "/api/v1/people/518595",
+        "nameSlug": "travis-d-arnaud-518595"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Angels activated C Travis d'Arnaud from the 60-day injured list."
+    },
+    {
+      "id": 933277,
+      "person": {
+        "id": 643376,
+        "fullName": "Danny Jansen",
+        "link": "/api/v1/people/643376",
+        "nameSlug": "danny-jansen-643376"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Texas Rangers transferred C Danny Jansen from the 10-day injured list to the 60-day injured list. Right forearm strain."
     },
     {
       "id": 933266,
@@ -272939,28 +272689,350 @@
       "description": "Texas Rangers signed free agent RF Jarred Kelenic to a minor league contract."
     },
     {
-      "id": 932404,
+      "id": 933561,
       "person": {
-        "id": 681402,
-        "fullName": "Gus Varland",
-        "link": "/api/v1/people/681402",
-        "nameSlug": "gus-varland-681402"
-      },
-      "fromTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
+        "id": 830736,
+        "fullName": "Bryce Fowler",
+        "link": "/api/v1/people/830736",
+        "nameSlug": "bryce-fowler-830736"
       },
       "toTeam": {
-        "id": 534,
-        "name": "Rochester Red Wings",
-        "link": "/api/v1/teams/534"
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Minnesota Twins signed free agent OF Bryce Fowler to a minor league contract."
+    },
+    {
+      "id": 933320,
+      "person": {
+        "id": 844358,
+        "fullName": "Eleazar Suarez",
+        "link": "/api/v1/people/844358",
+        "nameSlug": "eleazar-suarez-844358"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Arizona Diamondbacks signed free agent RHP Eleazar Suarez to a minor league contract."
+    },
+    {
+      "id": 933568,
+      "person": {
+        "id": 821877,
+        "fullName": "Blake Schaaf",
+        "link": "/api/v1/people/821877",
+        "nameSlug": "blake-schaaf-821877"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "New York Yankees signed free agent SS Blake Schaaf to a minor league contract."
+    },
+    {
+      "id": 933141,
+      "person": {
+        "id": 686469,
+        "fullName": "Vinnie Pasquantino",
+        "link": "/api/v1/people/686469",
+        "nameSlug": "vinnie-pasquantino-686469"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Kansas City Royals placed 1B Vinnie Pasquantino on the 10-day injured list. Right wrist soreness."
+    },
+    {
+      "id": 933202,
+      "person": {
+        "id": 669713,
+        "fullName": "Hayden Wesneski",
+        "link": "/api/v1/people/669713",
+        "nameSlug": "hayden-wesneski-669713"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Houston Astros activated RHP Hayden Wesneski from the 60-day injured list."
+    },
+    {
+      "id": 933242,
+      "person": {
+        "id": 642701,
+        "fullName": "Dennis Santana",
+        "link": "/api/v1/people/642701",
+        "nameSlug": "dennis-santana-642701"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "REL",
+      "typeDesc": "Released",
+      "description": "Pittsburgh Pirates released RHP Dennis Santana."
+    },
+    {
+      "id": 935177,
+      "person": {
+        "id": 605483,
+        "fullName": "Blake Snell",
+        "link": "/api/v1/people/605483",
+        "nameSlug": "blake-snell-605483"
+      },
+      "fromTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "toTeam": {
+        "id": 6482,
+        "name": "Ontario Tower Buzzers",
+        "link": "/api/v1/teams/6482"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Los Angeles Dodgers sent LHP Blake Snell on a rehab assignment to Ontario Tower Buzzers."
+    },
+    {
+      "id": 933238,
+      "person": {
+        "id": 681806,
+        "fullName": "Andrew Wantz",
+        "link": "/api/v1/people/681806",
+        "nameSlug": "andrew-wantz-681806"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Chicago Cubs designated RHP Andrew Wantz for assignment."
+    },
+    {
+      "id": 933239,
+      "person": {
+        "id": 621439,
+        "fullName": "Byron Buxton",
+        "link": "/api/v1/people/621439",
+        "nameSlug": "byron-buxton-621439"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Minnesota Twins placed CF Byron Buxton on the 10-day injured list. Right hip impingement."
+    },
+    {
+      "id": 933272,
+      "person": {
+        "id": 813841,
+        "fullName": "Jonah Cox",
+        "link": "/api/v1/people/813841",
+        "nameSlug": "jonah-cox-813841"
+      },
+      "fromTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "toTeam": {
+        "id": 105,
+        "name": "Sacramento River Cats",
+        "link": "/api/v1/teams/105"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "San Francisco Giants sent CF Jonah Cox on a rehab assignment to Sacramento River Cats."
+    },
+    {
+      "id": 933278,
+      "person": {
+        "id": 692030,
+        "fullName": "Jose Corniell",
+        "link": "/api/v1/people/692030",
+        "nameSlug": "jose-corniell-692030"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Texas Rangers transferred RHP Jose Corniell from the 15-day injured list to the 60-day injured list."
+    },
+    {
+      "id": 933461,
+      "person": {
+        "id": 702752,
+        "fullName": "Jonathan Pintaro",
+        "link": "/api/v1/people/702752",
+        "nameSlug": "jonathan-pintaro-702752"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "resolutionDate": "2026-07-29",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "New York Mets activated RHP Jonathan Pintaro."
+    },
+    {
+      "id": 932385,
+      "person": {
+        "id": 682995,
+        "fullName": "Hunter Barco",
+        "link": "/api/v1/people/682995",
+        "nameSlug": "hunter-barco-682995"
+      },
+      "fromTeam": {
+        "id": 484,
+        "name": "Indianapolis Indians",
+        "link": "/api/v1/teams/484"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Pittsburgh Pirates recalled LHP Hunter Barco from Indianapolis Indians."
+    },
+    {
+      "id": 932387,
+      "person": {
+        "id": 668716,
+        "fullName": "Noah Murdock",
+        "link": "/api/v1/people/668716",
+        "nameSlug": "noah-murdock-668716"
+      },
+      "fromTeam": {
+        "id": 484,
+        "name": "Indianapolis Indians",
+        "link": "/api/v1/teams/484"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Pittsburgh Pirates recalled RHP Noah Murdock from Indianapolis Indians."
+    },
+    {
+      "id": 933237,
+      "person": {
+        "id": 663765,
+        "fullName": "Jake Woodford",
+        "link": "/api/v1/people/663765",
+        "nameSlug": "jake-woodford-663765"
+      },
+      "fromTeam": {
+        "id": 451,
+        "name": "Iowa Cubs",
+        "link": "/api/v1/teams/451"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Chicago Cubs selected the contract of RHP Jake Woodford from Iowa Cubs."
+    },
+    {
+      "id": 933199,
+      "person": {
+        "id": 699044,
+        "fullName": "Miguel Ullola",
+        "link": "/api/v1/people/699044",
+        "nameSlug": "miguel-ullola-699044"
+      },
+      "fromTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "toTeam": {
+        "id": 5434,
+        "name": "Sugar Land Space Cowboys",
+        "link": "/api/v1/teams/5434"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "typeCode": "OPT",
       "typeDesc": "Optioned",
-      "description": "Washington Nationals optioned RHP Gus Varland to Rochester Red Wings."
+      "description": "Houston Astros optioned RHP Miguel Ullola to Sugar Land Space Cowboys."
     },
     {
       "id": 933041,
@@ -272987,76 +273059,100 @@
       "description": "Milwaukee Brewers optioned RHP Garrett Stallings to Nashville Sounds."
     },
     {
-      "id": 933240,
+      "id": 932404,
       "person": {
-        "id": 656484,
-        "fullName": "Tristan Gray",
-        "link": "/api/v1/people/656484",
-        "nameSlug": "tristan-gray-656484"
+        "id": 681402,
+        "fullName": "Gus Varland",
+        "link": "/api/v1/people/681402",
+        "nameSlug": "gus-varland-681402"
       },
       "fromTeam": {
-        "id": 1960,
-        "name": "St. Paul Saints",
-        "link": "/api/v1/teams/1960"
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
       },
       "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Minnesota Twins recalled SS Tristan Gray from St. Paul Saints."
-    },
-    {
-      "id": 932363,
-      "person": {
-        "id": 702752,
-        "fullName": "Jonathan Pintaro",
-        "link": "/api/v1/people/702752",
-        "nameSlug": "jonathan-pintaro-702752"
-      },
-      "fromTeam": {
-        "id": 552,
-        "name": "Syracuse Mets",
-        "link": "/api/v1/teams/552"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "New York Mets recalled RHP Jonathan Pintaro from Syracuse Mets."
-    },
-    {
-      "id": 932388,
-      "person": {
-        "id": 685126,
-        "fullName": "Brandon Eisert",
-        "link": "/api/v1/people/685126",
-        "nameSlug": "brandon-eisert-685126"
-      },
-      "fromTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "toTeam": {
-        "id": 484,
-        "name": "Indianapolis Indians",
-        "link": "/api/v1/teams/484"
+        "id": 534,
+        "name": "Rochester Red Wings",
+        "link": "/api/v1/teams/534"
       },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
       "typeCode": "OPT",
       "typeDesc": "Optioned",
-      "description": "Pittsburgh Pirates optioned LHP Brandon Eisert to Indianapolis Indians."
+      "description": "Washington Nationals optioned RHP Gus Varland to Rochester Red Wings."
+    },
+    {
+      "id": 933251,
+      "person": {
+        "id": 640454,
+        "fullName": "Matt Krook",
+        "link": "/api/v1/people/640454",
+        "nameSlug": "matt-krook-640454"
+      },
+      "fromTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "toTeam": {
+        "id": 534,
+        "name": "Rochester Red Wings",
+        "link": "/api/v1/teams/534"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Washington Nationals sent LHP Matt Krook outright to Rochester Red Wings."
+    },
+    {
+      "id": 932412,
+      "person": {
+        "id": 689149,
+        "fullName": "Chad Dallas",
+        "link": "/api/v1/people/689149",
+        "nameSlug": "chad-dallas-689149"
+      },
+      "fromTeam": {
+        "id": 422,
+        "name": "Buffalo Bisons",
+        "link": "/api/v1/teams/422"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Toronto Blue Jays recalled RHP Chad Dallas from Buffalo Bisons."
+    },
+    {
+      "id": 933275,
+      "person": {
+        "id": 802397,
+        "fullName": "Angel Arredondo",
+        "link": "/api/v1/people/802397",
+        "nameSlug": "angel-arredondo-802397"
+      },
+      "fromTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Los Angeles Angels traded C Logan O'Hoppe and RHP Chase Silseth to Texas Rangers for SS Angel Arredondo."
     },
     {
       "id": 933250,
@@ -273083,6 +273179,270 @@
       "description": "Washington Nationals optioned RHP Paxton Schultz to Rochester Red Wings."
     },
     {
+      "id": 933275,
+      "person": {
+        "id": 681217,
+        "fullName": "Chase Silseth",
+        "link": "/api/v1/people/681217",
+        "nameSlug": "chase-silseth-681217"
+      },
+      "fromTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Los Angeles Angels traded C Logan O'Hoppe and RHP Chase Silseth to Texas Rangers for SS Angel Arredondo."
+    },
+    {
+      "id": 933275,
+      "person": {
+        "id": 681351,
+        "fullName": "Logan O'Hoppe",
+        "link": "/api/v1/people/681351",
+        "nameSlug": "logan-o-hoppe-681351"
+      },
+      "fromTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Los Angeles Angels traded C Logan O'Hoppe and RHP Chase Silseth to Texas Rangers for SS Angel Arredondo."
+    },
+    {
+      "id": 932363,
+      "person": {
+        "id": 702752,
+        "fullName": "Jonathan Pintaro",
+        "link": "/api/v1/people/702752",
+        "nameSlug": "jonathan-pintaro-702752"
+      },
+      "fromTeam": {
+        "id": 552,
+        "name": "Syracuse Mets",
+        "link": "/api/v1/teams/552"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "New York Mets recalled RHP Jonathan Pintaro from Syracuse Mets."
+    },
+    {
+      "id": 932413,
+      "person": {
+        "id": 669310,
+        "fullName": "CJ Van Eyk",
+        "link": "/api/v1/people/669310",
+        "nameSlug": "cj-van-eyk-669310"
+      },
+      "fromTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "toTeam": {
+        "id": 422,
+        "name": "Buffalo Bisons",
+        "link": "/api/v1/teams/422"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Toronto Blue Jays optioned RHP CJ Van Eyk to Buffalo Bisons."
+    },
+    {
+      "id": 932388,
+      "person": {
+        "id": 685126,
+        "fullName": "Brandon Eisert",
+        "link": "/api/v1/people/685126",
+        "nameSlug": "brandon-eisert-685126"
+      },
+      "fromTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "toTeam": {
+        "id": 484,
+        "name": "Indianapolis Indians",
+        "link": "/api/v1/teams/484"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Pittsburgh Pirates optioned LHP Brandon Eisert to Indianapolis Indians."
+    },
+    {
+      "id": 932389,
+      "person": {
+        "id": 682997,
+        "fullName": "Tyler Callihan",
+        "link": "/api/v1/people/682997",
+        "nameSlug": "tyler-callihan-682997"
+      },
+      "fromTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "toTeam": {
+        "id": 484,
+        "name": "Indianapolis Indians",
+        "link": "/api/v1/teams/484"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Pittsburgh Pirates optioned LF Tyler Callihan to Indianapolis Indians."
+    },
+    {
+      "id": 932390,
+      "person": {
+        "id": 676755,
+        "fullName": "Isaac Mattson",
+        "link": "/api/v1/people/676755",
+        "nameSlug": "isaac-mattson-676755"
+      },
+      "fromTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "toTeam": {
+        "id": 484,
+        "name": "Indianapolis Indians",
+        "link": "/api/v1/teams/484"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Pittsburgh Pirates optioned RHP Isaac Mattson to Indianapolis Indians."
+    },
+    {
+      "id": 932386,
+      "person": {
+        "id": 691373,
+        "fullName": "Jhostynxon Garcia",
+        "link": "/api/v1/people/691373",
+        "nameSlug": "jhostynxon-garcia-691373"
+      },
+      "fromTeam": {
+        "id": 484,
+        "name": "Indianapolis Indians",
+        "link": "/api/v1/teams/484"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Pittsburgh Pirates recalled RF Jhostynxon Garcia from Indianapolis Indians."
+    },
+    {
+      "id": 933240,
+      "person": {
+        "id": 656484,
+        "fullName": "Tristan Gray",
+        "link": "/api/v1/people/656484",
+        "nameSlug": "tristan-gray-656484"
+      },
+      "fromTeam": {
+        "id": 1960,
+        "name": "St. Paul Saints",
+        "link": "/api/v1/teams/1960"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Minnesota Twins recalled SS Tristan Gray from St. Paul Saints."
+    },
+    {
+      "id": 933114,
+      "person": {
+        "id": 682982,
+        "fullName": "Daniel Espino",
+        "link": "/api/v1/people/682982",
+        "nameSlug": "daniel-espino-682982"
+      },
+      "fromTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "toTeam": {
+        "id": 445,
+        "name": "Columbus Clippers",
+        "link": "/api/v1/teams/445"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Cleveland Guardians optioned RHP Daniel Espino to Columbus Clippers."
+    },
+    {
+      "id": 933241,
+      "person": {
+        "id": 664129,
+        "fullName": "Geoff Hartlieb",
+        "link": "/api/v1/people/664129",
+        "nameSlug": "geoff-hartlieb-664129"
+      },
+      "fromTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "toTeam": {
+        "id": 400,
+        "name": "Las Vegas Aviators",
+        "link": "/api/v1/teams/400"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Athletics sent RHP Geoff Hartlieb outright to Las Vegas Aviators."
+    },
+    {
       "id": 933257,
       "person": {
         "id": 686765,
@@ -273107,28 +273467,100 @@
       "description": "Boston Red Sox recalled 3B Nick Sogard from Worcester Red Sox."
     },
     {
-      "id": 933275,
+      "id": 932394,
       "person": {
-        "id": 681217,
-        "fullName": "Chase Silseth",
-        "link": "/api/v1/people/681217",
-        "nameSlug": "chase-silseth-681217"
+        "id": 671162,
+        "fullName": "Connor Thomas",
+        "link": "/api/v1/people/671162",
+        "nameSlug": "connor-thomas-671162"
       },
       "fromTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
       },
       "toTeam": {
+        "id": 431,
+        "name": "Gwinnett Stripers",
+        "link": "/api/v1/teams/431"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Atlanta Braves optioned LHP Connor Thomas to Gwinnett Stripers."
+    },
+    {
+      "id": 932395,
+      "person": {
+        "id": 622694,
+        "fullName": "Elieser Hernández",
+        "link": "/api/v1/people/622694",
+        "nameSlug": "elieser-hernandez-622694"
+      },
+      "fromTeam": {
+        "id": 431,
+        "name": "Gwinnett Stripers",
+        "link": "/api/v1/teams/431"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Atlanta Braves selected the contract of RHP Elieser Hernández from Gwinnett Stripers."
+    },
+    {
+      "id": 933276,
+      "person": {
+        "id": 681351,
+        "fullName": "Logan O'Hoppe",
+        "link": "/api/v1/people/681351",
+        "nameSlug": "logan-o-hoppe-681351"
+      },
+      "fromTeam": {
         "id": 140,
         "name": "Texas Rangers",
         "link": "/api/v1/teams/140"
       },
+      "toTeam": {
+        "id": 102,
+        "name": "Round Rock Express",
+        "link": "/api/v1/teams/102"
+      },
       "date": "2026-07-29",
       "effectiveDate": "2026-07-29",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Los Angeles Angels traded C Logan O'Hoppe and RHP Chase Silseth to Texas Rangers for SS Angel Arredondo."
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Texas Rangers optioned C Logan O'Hoppe to Round Rock Express."
+    },
+    {
+      "id": 933140,
+      "person": {
+        "id": 670231,
+        "fullName": "John Rave",
+        "link": "/api/v1/people/670231",
+        "nameSlug": "john-rave-670231"
+      },
+      "fromTeam": {
+        "id": 541,
+        "name": "Omaha Storm Chasers",
+        "link": "/api/v1/teams/541"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-07-29",
+      "effectiveDate": "2026-07-29",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Kansas City Royals recalled RF John Rave from Omaha Storm Chasers."
     },
     {
       "id": 933187,
@@ -273179,78 +273611,6 @@
       "description": "Milwaukee Brewers selected the contract of LHP Thomas Pannone from Nashville Sounds."
     },
     {
-      "id": 933237,
-      "person": {
-        "id": 663765,
-        "fullName": "Jake Woodford",
-        "link": "/api/v1/people/663765",
-        "nameSlug": "jake-woodford-663765"
-      },
-      "fromTeam": {
-        "id": 451,
-        "name": "Iowa Cubs",
-        "link": "/api/v1/teams/451"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Chicago Cubs selected the contract of RHP Jake Woodford from Iowa Cubs."
-    },
-    {
-      "id": 933140,
-      "person": {
-        "id": 670231,
-        "fullName": "John Rave",
-        "link": "/api/v1/people/670231",
-        "nameSlug": "john-rave-670231"
-      },
-      "fromTeam": {
-        "id": 541,
-        "name": "Omaha Storm Chasers",
-        "link": "/api/v1/teams/541"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Kansas City Royals recalled RF John Rave from Omaha Storm Chasers."
-    },
-    {
-      "id": 932395,
-      "person": {
-        "id": 622694,
-        "fullName": "Elieser Hernández",
-        "link": "/api/v1/people/622694",
-        "nameSlug": "elieser-hernandez-622694"
-      },
-      "fromTeam": {
-        "id": 431,
-        "name": "Gwinnett Stripers",
-        "link": "/api/v1/teams/431"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Atlanta Braves selected the contract of RHP Elieser Hernández from Gwinnett Stripers."
-    },
-    {
       "id": 933102,
       "person": {
         "id": 683742,
@@ -273273,366 +273633,6 @@
       "typeCode": "OPT",
       "typeDesc": "Optioned",
       "description": "Cincinnati Reds optioned RHP Jose Franco to Louisville Bats."
-    },
-    {
-      "id": 932412,
-      "person": {
-        "id": 689149,
-        "fullName": "Chad Dallas",
-        "link": "/api/v1/people/689149",
-        "nameSlug": "chad-dallas-689149"
-      },
-      "fromTeam": {
-        "id": 422,
-        "name": "Buffalo Bisons",
-        "link": "/api/v1/teams/422"
-      },
-      "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Toronto Blue Jays recalled RHP Chad Dallas from Buffalo Bisons."
-    },
-    {
-      "id": 933276,
-      "person": {
-        "id": 681351,
-        "fullName": "Logan O'Hoppe",
-        "link": "/api/v1/people/681351",
-        "nameSlug": "logan-o-hoppe-681351"
-      },
-      "fromTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "toTeam": {
-        "id": 102,
-        "name": "Round Rock Express",
-        "link": "/api/v1/teams/102"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Texas Rangers optioned C Logan O'Hoppe to Round Rock Express."
-    },
-    {
-      "id": 933251,
-      "person": {
-        "id": 640454,
-        "fullName": "Matt Krook",
-        "link": "/api/v1/people/640454",
-        "nameSlug": "matt-krook-640454"
-      },
-      "fromTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "toTeam": {
-        "id": 534,
-        "name": "Rochester Red Wings",
-        "link": "/api/v1/teams/534"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OUT",
-      "typeDesc": "Outrighted",
-      "description": "Washington Nationals sent LHP Matt Krook outright to Rochester Red Wings."
-    },
-    {
-      "id": 933241,
-      "person": {
-        "id": 664129,
-        "fullName": "Geoff Hartlieb",
-        "link": "/api/v1/people/664129",
-        "nameSlug": "geoff-hartlieb-664129"
-      },
-      "fromTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "toTeam": {
-        "id": 400,
-        "name": "Las Vegas Aviators",
-        "link": "/api/v1/teams/400"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OUT",
-      "typeDesc": "Outrighted",
-      "description": "Athletics sent RHP Geoff Hartlieb outright to Las Vegas Aviators."
-    },
-    {
-      "id": 933275,
-      "person": {
-        "id": 802397,
-        "fullName": "Angel Arredondo",
-        "link": "/api/v1/people/802397",
-        "nameSlug": "angel-arredondo-802397"
-      },
-      "fromTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Los Angeles Angels traded C Logan O'Hoppe and RHP Chase Silseth to Texas Rangers for SS Angel Arredondo."
-    },
-    {
-      "id": 932387,
-      "person": {
-        "id": 668716,
-        "fullName": "Noah Murdock",
-        "link": "/api/v1/people/668716",
-        "nameSlug": "noah-murdock-668716"
-      },
-      "fromTeam": {
-        "id": 484,
-        "name": "Indianapolis Indians",
-        "link": "/api/v1/teams/484"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Pittsburgh Pirates recalled RHP Noah Murdock from Indianapolis Indians."
-    },
-    {
-      "id": 932413,
-      "person": {
-        "id": 669310,
-        "fullName": "CJ Van Eyk",
-        "link": "/api/v1/people/669310",
-        "nameSlug": "cj-van-eyk-669310"
-      },
-      "fromTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "toTeam": {
-        "id": 422,
-        "name": "Buffalo Bisons",
-        "link": "/api/v1/teams/422"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Toronto Blue Jays optioned RHP CJ Van Eyk to Buffalo Bisons."
-    },
-    {
-      "id": 933114,
-      "person": {
-        "id": 682982,
-        "fullName": "Daniel Espino",
-        "link": "/api/v1/people/682982",
-        "nameSlug": "daniel-espino-682982"
-      },
-      "fromTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "toTeam": {
-        "id": 445,
-        "name": "Columbus Clippers",
-        "link": "/api/v1/teams/445"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Cleveland Guardians optioned RHP Daniel Espino to Columbus Clippers."
-    },
-    {
-      "id": 932386,
-      "person": {
-        "id": 691373,
-        "fullName": "Jhostynxon Garcia",
-        "link": "/api/v1/people/691373",
-        "nameSlug": "jhostynxon-garcia-691373"
-      },
-      "fromTeam": {
-        "id": 484,
-        "name": "Indianapolis Indians",
-        "link": "/api/v1/teams/484"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Pittsburgh Pirates recalled RF Jhostynxon Garcia from Indianapolis Indians."
-    },
-    {
-      "id": 933275,
-      "person": {
-        "id": 681351,
-        "fullName": "Logan O'Hoppe",
-        "link": "/api/v1/people/681351",
-        "nameSlug": "logan-o-hoppe-681351"
-      },
-      "fromTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Los Angeles Angels traded C Logan O'Hoppe and RHP Chase Silseth to Texas Rangers for SS Angel Arredondo."
-    },
-    {
-      "id": 933199,
-      "person": {
-        "id": 699044,
-        "fullName": "Miguel Ullola",
-        "link": "/api/v1/people/699044",
-        "nameSlug": "miguel-ullola-699044"
-      },
-      "fromTeam": {
-        "id": 117,
-        "name": "Houston Astros",
-        "link": "/api/v1/teams/117"
-      },
-      "toTeam": {
-        "id": 5434,
-        "name": "Sugar Land Space Cowboys",
-        "link": "/api/v1/teams/5434"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Houston Astros optioned RHP Miguel Ullola to Sugar Land Space Cowboys."
-    },
-    {
-      "id": 932394,
-      "person": {
-        "id": 671162,
-        "fullName": "Connor Thomas",
-        "link": "/api/v1/people/671162",
-        "nameSlug": "connor-thomas-671162"
-      },
-      "fromTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "toTeam": {
-        "id": 431,
-        "name": "Gwinnett Stripers",
-        "link": "/api/v1/teams/431"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Atlanta Braves optioned LHP Connor Thomas to Gwinnett Stripers."
-    },
-    {
-      "id": 932390,
-      "person": {
-        "id": 676755,
-        "fullName": "Isaac Mattson",
-        "link": "/api/v1/people/676755",
-        "nameSlug": "isaac-mattson-676755"
-      },
-      "fromTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "toTeam": {
-        "id": 484,
-        "name": "Indianapolis Indians",
-        "link": "/api/v1/teams/484"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Pittsburgh Pirates optioned RHP Isaac Mattson to Indianapolis Indians."
-    },
-    {
-      "id": 932389,
-      "person": {
-        "id": 682997,
-        "fullName": "Tyler Callihan",
-        "link": "/api/v1/people/682997",
-        "nameSlug": "tyler-callihan-682997"
-      },
-      "fromTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "toTeam": {
-        "id": 484,
-        "name": "Indianapolis Indians",
-        "link": "/api/v1/teams/484"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Pittsburgh Pirates optioned LF Tyler Callihan to Indianapolis Indians."
-    },
-    {
-      "id": 932385,
-      "person": {
-        "id": 682995,
-        "fullName": "Hunter Barco",
-        "link": "/api/v1/people/682995",
-        "nameSlug": "hunter-barco-682995"
-      },
-      "fromTeam": {
-        "id": 484,
-        "name": "Indianapolis Indians",
-        "link": "/api/v1/teams/484"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-07-29",
-      "effectiveDate": "2026-07-29",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Pittsburgh Pirates recalled LHP Hunter Barco from Indianapolis Indians."
     },
     {
       "id": 933562,
@@ -352258,6 +352258,26 @@
       "description": "Atlanta Braves sent CF DaShawn Keirsey Jr. outright to Gwinnett Stripers."
     },
     {
+      "id": 947105,
+      "person": {
+        "id": 669165,
+        "fullName": "Kyle Hurt",
+        "link": "/api/v1/people/669165",
+        "nameSlug": "kyle-hurt-669165"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-10-16",
+      "effectiveDate": "2026-10-16",
+      "resolutionDate": "2026-10-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated RHP Kyle Hurt."
+    },
+    {
       "id": 947109,
       "person": {
         "id": 678020,
@@ -352278,6 +352298,46 @@
       "description": "Los Angeles Dodgers activated RHP Seth Halvorsen."
     },
     {
+      "id": 947104,
+      "person": {
+        "id": 690976,
+        "fullName": "Alex Freeland",
+        "link": "/api/v1/people/690976",
+        "nameSlug": "alex-freeland-690976"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-10-16",
+      "effectiveDate": "2026-10-16",
+      "resolutionDate": "2026-10-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated 2B Alex Freeland."
+    },
+    {
+      "id": 947095,
+      "person": {
+        "id": 669743,
+        "fullName": "Alex Call",
+        "link": "/api/v1/people/669743",
+        "nameSlug": "alex-call-669743"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-10-16",
+      "effectiveDate": "2026-10-16",
+      "resolutionDate": "2026-10-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated LF Alex Call."
+    },
+    {
       "id": 947099,
       "person": {
         "id": 595014,
@@ -352296,86 +352356,6 @@
       "typeCode": "SC",
       "typeDesc": "Status Change",
       "description": "Los Angeles Dodgers activated RHP Blake Treinen."
-    },
-    {
-      "id": 947102,
-      "person": {
-        "id": 687221,
-        "fullName": "Dalton Rushing",
-        "link": "/api/v1/people/687221",
-        "nameSlug": "dalton-rushing-687221"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-10-16",
-      "effectiveDate": "2026-10-16",
-      "resolutionDate": "2026-10-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated C Dalton Rushing."
-    },
-    {
-      "id": 947097,
-      "person": {
-        "id": 689017,
-        "fullName": "Landon Knack",
-        "link": "/api/v1/people/689017",
-        "nameSlug": "landon-knack-689017"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-10-16",
-      "effectiveDate": "2026-10-16",
-      "resolutionDate": "2026-10-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated RHP Landon Knack."
-    },
-    {
-      "id": 947094,
-      "person": {
-        "id": 672613,
-        "fullName": "Eliezer Alfonzo",
-        "link": "/api/v1/people/672613",
-        "nameSlug": "eliezer-alfonzo-672613"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-10-16",
-      "effectiveDate": "2026-10-16",
-      "resolutionDate": "2026-10-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated C Eliezer Alfonzo."
-    },
-    {
-      "id": 947096,
-      "person": {
-        "id": 676263,
-        "fullName": "Jack Dreyer",
-        "link": "/api/v1/people/676263",
-        "nameSlug": "jack-dreyer-676263"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-10-16",
-      "effectiveDate": "2026-10-16",
-      "resolutionDate": "2026-10-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated LHP Jack Dreyer."
     },
     {
       "id": 947100,
@@ -352418,12 +352398,12 @@
       "description": "Los Angeles Dodgers activated SS Hyeseong Kim."
     },
     {
-      "id": 947095,
+      "id": 947103,
       "person": {
-        "id": 669743,
-        "fullName": "Alex Call",
-        "link": "/api/v1/people/669743",
-        "nameSlug": "alex-call-669743"
+        "id": 801434,
+        "fullName": "Paul Gervase",
+        "link": "/api/v1/people/801434",
+        "nameSlug": "paul-gervase-801434"
       },
       "toTeam": {
         "id": 119,
@@ -352435,47 +352415,7 @@
       "resolutionDate": "2026-10-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated LF Alex Call."
-    },
-    {
-      "id": 947105,
-      "person": {
-        "id": 669165,
-        "fullName": "Kyle Hurt",
-        "link": "/api/v1/people/669165",
-        "nameSlug": "kyle-hurt-669165"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-10-16",
-      "effectiveDate": "2026-10-16",
-      "resolutionDate": "2026-10-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated RHP Kyle Hurt."
-    },
-    {
-      "id": 947104,
-      "person": {
-        "id": 690976,
-        "fullName": "Alex Freeland",
-        "link": "/api/v1/people/690976",
-        "nameSlug": "alex-freeland-690976"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-10-16",
-      "effectiveDate": "2026-10-16",
-      "resolutionDate": "2026-10-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated 2B Alex Freeland."
+      "description": "Los Angeles Dodgers activated RHP Paul Gervase."
     },
     {
       "id": 947106,
@@ -352498,6 +352438,26 @@
       "description": "Los Angeles Dodgers activated RHP Emmet Sheehan."
     },
     {
+      "id": 947102,
+      "person": {
+        "id": 687221,
+        "fullName": "Dalton Rushing",
+        "link": "/api/v1/people/687221",
+        "nameSlug": "dalton-rushing-687221"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-10-16",
+      "effectiveDate": "2026-10-16",
+      "resolutionDate": "2026-10-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated C Dalton Rushing."
+    },
+    {
       "id": 947098,
       "person": {
         "id": 691947,
@@ -352518,12 +352478,12 @@
       "description": "Los Angeles Dodgers activated LHP Ronan Kopp."
     },
     {
-      "id": 947103,
+      "id": 947096,
       "person": {
-        "id": 801434,
-        "fullName": "Paul Gervase",
-        "link": "/api/v1/people/801434",
-        "nameSlug": "paul-gervase-801434"
+        "id": 676263,
+        "fullName": "Jack Dreyer",
+        "link": "/api/v1/people/676263",
+        "nameSlug": "jack-dreyer-676263"
       },
       "toTeam": {
         "id": 119,
@@ -352535,107 +352495,47 @@
       "resolutionDate": "2026-10-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated RHP Paul Gervase."
+      "description": "Los Angeles Dodgers activated LHP Jack Dreyer."
     },
     {
-      "id": 947116,
+      "id": 947097,
       "person": {
-        "id": 804926,
-        "fullName": "Austin Peterson",
-        "link": "/api/v1/people/804926",
-        "nameSlug": "austin-peterson-804926"
+        "id": 689017,
+        "fullName": "Landon Knack",
+        "link": "/api/v1/people/689017",
+        "nameSlug": "landon-knack-689017"
       },
       "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
       },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
+      "date": "2026-10-16",
+      "effectiveDate": "2026-10-16",
+      "resolutionDate": "2026-10-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated RHP Austin Peterson."
+      "description": "Los Angeles Dodgers activated RHP Landon Knack."
     },
     {
-      "id": 947118,
+      "id": 947094,
       "person": {
-        "id": 692216,
-        "fullName": "CJ Kayfus",
-        "link": "/api/v1/people/692216",
-        "nameSlug": "cj-kayfus-692216"
+        "id": 672613,
+        "fullName": "Eliezer Alfonzo",
+        "link": "/api/v1/people/672613",
+        "nameSlug": "eliezer-alfonzo-672613"
       },
       "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
       },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
+      "date": "2026-10-16",
+      "effectiveDate": "2026-10-16",
+      "resolutionDate": "2026-10-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated 1B CJ Kayfus."
-    },
-    {
-      "id": 947119,
-      "person": {
-        "id": 656555,
-        "fullName": "Rhys Hoskins",
-        "link": "/api/v1/people/656555",
-        "nameSlug": "rhys-hoskins-656555"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated 1B Rhys Hoskins."
-    },
-    {
-      "id": 947114,
-      "person": {
-        "id": 684974,
-        "fullName": "Craig Yoho",
-        "link": "/api/v1/people/684974",
-        "nameSlug": "craig-yoho-684974"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated RHP Craig Yoho."
-    },
-    {
-      "id": 946829,
-      "person": {
-        "id": 834754,
-        "fullName": "Francis Cuevas",
-        "link": "/api/v1/people/834754",
-        "nameSlug": "francis-cuevas-834754"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Atlanta Braves signed free agent RHP Francis Cuevas to a minor league contract."
+      "description": "Los Angeles Dodgers activated C Eliezer Alfonzo."
     },
     {
       "id": 947121,
@@ -352678,12 +352578,12 @@
       "description": "Cleveland Guardians activated LHP Logan Allen."
     },
     {
-      "id": 947122,
+      "id": 947114,
       "person": {
-        "id": 680916,
-        "fullName": "Franco Aleman",
-        "link": "/api/v1/people/680916",
-        "nameSlug": "franco-aleman-680916"
+        "id": 684974,
+        "fullName": "Craig Yoho",
+        "link": "/api/v1/people/684974",
+        "nameSlug": "craig-yoho-684974"
       },
       "toTeam": {
         "id": 114,
@@ -352695,87 +352595,7 @@
       "resolutionDate": "2026-10-20",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated RHP Franco Aleman."
-    },
-    {
-      "id": 947110,
-      "person": {
-        "id": 700932,
-        "fullName": "Kyle Manzardo",
-        "link": "/api/v1/people/700932",
-        "nameSlug": "kyle-manzardo-700932"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated 1B Kyle Manzardo."
-    },
-    {
-      "id": 947120,
-      "person": {
-        "id": 670059,
-        "fullName": "Colin Holderman",
-        "link": "/api/v1/people/670059",
-        "nameSlug": "colin-holderman-670059"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated RHP Colin Holderman."
-    },
-    {
-      "id": 947117,
-      "person": {
-        "id": 694876,
-        "fullName": "Cooper Ingle",
-        "link": "/api/v1/people/694876",
-        "nameSlug": "cooper-ingle-694876"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated C Cooper Ingle."
-    },
-    {
-      "id": 947111,
-      "person": {
-        "id": 689958,
-        "fullName": "Andrew Walters",
-        "link": "/api/v1/people/689958",
-        "nameSlug": "andrew-walters-689958"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-20",
-      "effectiveDate": "2026-10-20",
-      "resolutionDate": "2026-10-20",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated RHP Andrew Walters."
+      "description": "Cleveland Guardians activated RHP Craig Yoho."
     },
     {
       "id": 947115,
@@ -352798,6 +352618,26 @@
       "description": "Cleveland Guardians activated CF Blake Perkins."
     },
     {
+      "id": 947120,
+      "person": {
+        "id": 670059,
+        "fullName": "Colin Holderman",
+        "link": "/api/v1/people/670059",
+        "nameSlug": "colin-holderman-670059"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP Colin Holderman."
+    },
+    {
       "id": 947112,
       "person": {
         "id": 696135,
@@ -352816,6 +352656,26 @@
       "typeCode": "SC",
       "typeDesc": "Status Change",
       "description": "Cleveland Guardians activated RF Kahlil Watson."
+    },
+    {
+      "id": 947113,
+      "person": {
+        "id": 682177,
+        "fullName": "Daniel Schneemann",
+        "link": "/api/v1/people/682177",
+        "nameSlug": "daniel-schneemann-682177"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated CF Daniel Schneemann."
     },
     {
       "id": 946830,
@@ -352838,12 +352698,12 @@
       "description": "Atlanta Braves signed free agent OF Euris Polanco to a minor league contract."
     },
     {
-      "id": 947113,
+      "id": 947117,
       "person": {
-        "id": 682177,
-        "fullName": "Daniel Schneemann",
-        "link": "/api/v1/people/682177",
-        "nameSlug": "daniel-schneemann-682177"
+        "id": 694876,
+        "fullName": "Cooper Ingle",
+        "link": "/api/v1/people/694876",
+        "nameSlug": "cooper-ingle-694876"
       },
       "toTeam": {
         "id": 114,
@@ -352855,7 +352715,147 @@
       "resolutionDate": "2026-10-20",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated CF Daniel Schneemann."
+      "description": "Cleveland Guardians activated C Cooper Ingle."
+    },
+    {
+      "id": 947110,
+      "person": {
+        "id": 700932,
+        "fullName": "Kyle Manzardo",
+        "link": "/api/v1/people/700932",
+        "nameSlug": "kyle-manzardo-700932"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated 1B Kyle Manzardo."
+    },
+    {
+      "id": 947122,
+      "person": {
+        "id": 680916,
+        "fullName": "Franco Aleman",
+        "link": "/api/v1/people/680916",
+        "nameSlug": "franco-aleman-680916"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP Franco Aleman."
+    },
+    {
+      "id": 947116,
+      "person": {
+        "id": 804926,
+        "fullName": "Austin Peterson",
+        "link": "/api/v1/people/804926",
+        "nameSlug": "austin-peterson-804926"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP Austin Peterson."
+    },
+    {
+      "id": 947111,
+      "person": {
+        "id": 689958,
+        "fullName": "Andrew Walters",
+        "link": "/api/v1/people/689958",
+        "nameSlug": "andrew-walters-689958"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP Andrew Walters."
+    },
+    {
+      "id": 946829,
+      "person": {
+        "id": 834754,
+        "fullName": "Francis Cuevas",
+        "link": "/api/v1/people/834754",
+        "nameSlug": "francis-cuevas-834754"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Atlanta Braves signed free agent RHP Francis Cuevas to a minor league contract."
+    },
+    {
+      "id": 947118,
+      "person": {
+        "id": 692216,
+        "fullName": "CJ Kayfus",
+        "link": "/api/v1/people/692216",
+        "nameSlug": "cj-kayfus-692216"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated 1B CJ Kayfus."
+    },
+    {
+      "id": 947119,
+      "person": {
+        "id": 656555,
+        "fullName": "Rhys Hoskins",
+        "link": "/api/v1/people/656555",
+        "nameSlug": "rhys-hoskins-656555"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-20",
+      "effectiveDate": "2026-10-20",
+      "resolutionDate": "2026-10-20",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated 1B Rhys Hoskins."
     },
     {
       "id": 946836,
@@ -357636,24 +357636,24 @@
       "description": "Los Angeles Angels selected the contract of LHP Nicolo Pinazzi from Rocket City Trash Pandas."
     },
     {
-      "id": 947555,
+      "id": 950104,
       "person": {
-        "id": 553993,
-        "fullName": "Eugenio Suárez",
-        "link": "/api/v1/people/553993",
-        "nameSlug": "eugenio-suarez-553993"
+        "id": 845218,
+        "fullName": "Omar Guerra",
+        "link": "/api/v1/people/845218",
+        "nameSlug": "omar-guerra-845218"
       },
       "toTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-10-31",
       "effectiveDate": "2026-10-31",
       "resolutionDate": "2026-10-31",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "DH Eugenio Suárez elected free agency."
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Diego Padres signed free agent IF Omar Guerra to a minor league contract."
     },
     {
       "id": 947554,
@@ -357676,26 +357676,6 @@
       "description": "RHP Emilio Pagán elected free agency."
     },
     {
-      "id": 947567,
-      "person": {
-        "id": 676480,
-        "fullName": "José Barrero",
-        "link": "/api/v1/people/676480",
-        "nameSlug": "jose-barrero-676480"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-10-31",
-      "effectiveDate": "2026-10-31",
-      "resolutionDate": "2026-10-31",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "SS José Barrero elected free agency."
-    },
-    {
       "id": 947556,
       "person": {
         "id": 572955,
@@ -357716,32 +357696,12 @@
       "description": "RHP Pierce Johnson elected free agency."
     },
     {
-      "id": 950104,
+      "id": 947567,
       "person": {
-        "id": 845218,
-        "fullName": "Omar Guerra",
-        "link": "/api/v1/people/845218",
-        "nameSlug": "omar-guerra-845218"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-10-31",
-      "effectiveDate": "2026-10-31",
-      "resolutionDate": "2026-10-31",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Diego Padres signed free agent IF Omar Guerra to a minor league contract."
-    },
-    {
-      "id": 947563,
-      "person": {
-        "id": 673357,
-        "fullName": "Luis Robert Jr.",
-        "link": "/api/v1/people/673357",
-        "nameSlug": "luis-robert-jr-673357"
+        "id": 676480,
+        "fullName": "José Barrero",
+        "link": "/api/v1/people/676480",
+        "nameSlug": "jose-barrero-676480"
       },
       "toTeam": {
         "id": 110,
@@ -357753,7 +357713,7 @@
       "resolutionDate": "2026-10-31",
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
-      "description": "CF Luis Robert Jr. elected free agency."
+      "description": "SS José Barrero elected free agency."
     },
     {
       "id": 947565,
@@ -357794,6 +357754,46 @@
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
       "description": "RHP Albert Suárez elected free agency."
+    },
+    {
+      "id": 947563,
+      "person": {
+        "id": 673357,
+        "fullName": "Luis Robert Jr.",
+        "link": "/api/v1/people/673357",
+        "nameSlug": "luis-robert-jr-673357"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-10-31",
+      "effectiveDate": "2026-10-31",
+      "resolutionDate": "2026-10-31",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "CF Luis Robert Jr. elected free agency."
+    },
+    {
+      "id": 947555,
+      "person": {
+        "id": 553993,
+        "fullName": "Eugenio Suárez",
+        "link": "/api/v1/people/553993",
+        "nameSlug": "eugenio-suarez-553993"
+      },
+      "toTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "date": "2026-10-31",
+      "effectiveDate": "2026-10-31",
+      "resolutionDate": "2026-10-31",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "DH Eugenio Suárez elected free agency."
     },
     {
       "id": 947566,
@@ -362794,6 +362794,26 @@
       "description": "Kansas City Royals signed free agent RHP Hobie Harris to a minor league contract."
     },
     {
+      "id": 950293,
+      "person": {
+        "id": 685329,
+        "fullName": "Carlos Peña",
+        "link": "/api/v1/people/685329",
+        "nameSlug": "carlos-pena-685329"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-11-08",
+      "effectiveDate": "2026-11-08",
+      "resolutionDate": "2026-11-08",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Los Angeles Dodgers signed free agent LHP Carlos Peña to a minor league contract."
+    },
+    {
       "id": 950009,
       "person": {
         "id": 845214,
@@ -362902,44 +362922,24 @@
       "description": "New York Mets sent 2B Kyren Paris outright to Syracuse Mets."
     },
     {
-      "id": 949952,
+      "id": 950291,
       "person": {
-        "id": 657675,
-        "fullName": "Rudy Martin Jr.",
-        "link": "/api/v1/people/657675",
-        "nameSlug": "rudy-martin-jr-657675"
+        "id": 692416,
+        "fullName": "Christian Cerda",
+        "link": "/api/v1/people/692416",
+        "nameSlug": "christian-cerda-692416"
       },
       "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
       },
       "date": "2026-11-10",
       "effectiveDate": "2026-11-10",
       "resolutionDate": "2026-11-10",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Toronto Blue Jays signed free agent RF Rudy Martin Jr. to a minor league contract and invited him to spring training."
-    },
-    {
-      "id": 950007,
-      "person": {
-        "id": 680802,
-        "fullName": "Ryan Weiss",
-        "link": "/api/v1/people/680802",
-        "nameSlug": "ryan-weiss-680802"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-10",
-      "effectiveDate": "2026-11-11",
-      "resolutionDate": "2026-11-11",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Diego Padres signed free agent RHP Ryan Weiss."
+      "description": "Los Angeles Dodgers signed free agent C Christian Cerda to a minor league contract."
     },
     {
       "id": 949950,
@@ -362962,6 +362962,46 @@
       "description": "Toronto Blue Jays invited non-roster LF Victor Arias to spring training."
     },
     {
+      "id": 949951,
+      "person": {
+        "id": 681751,
+        "fullName": "Lazaro Estrada",
+        "link": "/api/v1/people/681751",
+        "nameSlug": "lazaro-estrada-681751"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-11-10",
+      "effectiveDate": "2026-11-10",
+      "resolutionDate": "2026-11-10",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Toronto Blue Jays invited non-roster RHP Lazaro Estrada to spring training."
+    },
+    {
+      "id": 949952,
+      "person": {
+        "id": 657675,
+        "fullName": "Rudy Martin Jr.",
+        "link": "/api/v1/people/657675",
+        "nameSlug": "rudy-martin-jr-657675"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-11-10",
+      "effectiveDate": "2026-11-10",
+      "resolutionDate": "2026-11-10",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Toronto Blue Jays signed free agent RF Rudy Martin Jr. to a minor league contract and invited him to spring training."
+    },
+    {
       "id": 949954,
       "person": {
         "id": 695776,
@@ -362982,24 +363022,24 @@
       "description": "Toronto Blue Jays invited non-roster RHP Josh Stephan to spring training."
     },
     {
-      "id": 949951,
+      "id": 950007,
       "person": {
-        "id": 681751,
-        "fullName": "Lazaro Estrada",
-        "link": "/api/v1/people/681751",
-        "nameSlug": "lazaro-estrada-681751"
+        "id": 680802,
+        "fullName": "Ryan Weiss",
+        "link": "/api/v1/people/680802",
+        "nameSlug": "ryan-weiss-680802"
       },
       "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-11-10",
-      "effectiveDate": "2026-11-10",
-      "resolutionDate": "2026-11-10",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Toronto Blue Jays invited non-roster RHP Lazaro Estrada to spring training."
+      "effectiveDate": "2026-11-11",
+      "resolutionDate": "2026-11-11",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Diego Padres signed free agent RHP Ryan Weiss."
     },
     {
       "id": 950041,
@@ -363182,24 +363222,24 @@
       "description": "Atlanta Braves signed free agent RHP Evan Phillips."
     },
     {
-      "id": 950119,
+      "id": 950206,
       "person": {
-        "id": 671111,
-        "fullName": "Sammy Peralta",
-        "link": "/api/v1/people/671111",
-        "nameSlug": "sammy-peralta-671111"
+        "id": 808220,
+        "fullName": "Raimundo De Los Santos",
+        "link": "/api/v1/people/808220",
+        "nameSlug": "raimundo-de-los-santos-808220"
       },
       "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-11-13",
       "effectiveDate": "2026-11-13",
       "resolutionDate": "2026-11-13",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Los Angeles Angels signed free agent LHP Sammy Peralta to a minor league contract and invited him to spring training."
+      "description": "San Diego Padres signed free agent SS Raimundo De Los Santos to a minor league contract."
     },
     {
       "id": 950204,
@@ -363242,26 +363282,6 @@
       "description": "Philadelphia Phillies signed free agent RHP Geoff Hartlieb to a minor league contract."
     },
     {
-      "id": 950197,
-      "person": {
-        "id": 682868,
-        "fullName": "Bryan Ramos",
-        "link": "/api/v1/people/682868",
-        "nameSlug": "bryan-ramos-682868"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent 3B Bryan Ramos to a minor league contract."
-    },
-    {
       "id": 950193,
       "person": {
         "id": 672712,
@@ -363280,26 +363300,6 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "Miami Marlins signed free agent LHP Luis Palacios to a minor league contract."
-    },
-    {
-      "id": 950206,
-      "person": {
-        "id": 808220,
-        "fullName": "Raimundo De Los Santos",
-        "link": "/api/v1/people/808220",
-        "nameSlug": "raimundo-de-los-santos-808220"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Diego Padres signed free agent SS Raimundo De Los Santos to a minor league contract."
     },
     {
       "id": 950208,
@@ -363322,26 +363322,6 @@
       "description": "Texas Rangers signed free agent RHP John Armstrong to a minor league contract."
     },
     {
-      "id": 950188,
-      "person": {
-        "id": 641386,
-        "fullName": "Ben Bowden",
-        "link": "/api/v1/people/641386",
-        "nameSlug": "ben-bowden-641386"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Athletics signed free agent LHP Ben Bowden to a minor league contract."
-    },
-    {
       "id": 950191,
       "person": {
         "id": 671289,
@@ -363362,6 +363342,66 @@
       "description": "Atlanta Braves signed free agent RF Tyler Freeman to a minor league contract."
     },
     {
+      "id": 950119,
+      "person": {
+        "id": 671111,
+        "fullName": "Sammy Peralta",
+        "link": "/api/v1/people/671111",
+        "nameSlug": "sammy-peralta-671111"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Los Angeles Angels signed free agent LHP Sammy Peralta to a minor league contract and invited him to spring training."
+    },
+    {
+      "id": 950197,
+      "person": {
+        "id": 682868,
+        "fullName": "Bryan Ramos",
+        "link": "/api/v1/people/682868",
+        "nameSlug": "bryan-ramos-682868"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent 3B Bryan Ramos to a minor league contract."
+    },
+    {
+      "id": 950188,
+      "person": {
+        "id": 641386,
+        "fullName": "Ben Bowden",
+        "link": "/api/v1/people/641386",
+        "nameSlug": "ben-bowden-641386"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Athletics signed free agent LHP Ben Bowden to a minor league contract."
+    },
+    {
       "id": 950199,
       "person": {
         "id": 691263,
@@ -363380,6 +363420,122 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "San Francisco Giants signed free agent LHP Esmerlin Vinicio to a minor league contract."
+    },
+    {
+      "id": 950296,
+      "person": {
+        "id": 699304,
+        "fullName": "Juan Arnaud",
+        "link": "/api/v1/people/699304",
+        "nameSlug": "juan-arnaud-699304"
+      },
+      "fromTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-11-14",
+      "effectiveDate": "2026-11-14",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "New York Mets traded RHP Juan Arnaud to Texas Rangers."
+    },
+    {
+      "id": 950283,
+      "person": {
+        "id": 700183,
+        "fullName": "Blake Holub",
+        "link": "/api/v1/people/700183",
+        "nameSlug": "blake-holub-700183"
+      },
+      "fromTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-15",
+      "effectiveDate": "2026-11-15",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "San Francisco Giants traded RHP Ryan Walker to Milwaukee Brewers for RHP Blake Holub and RHP Gavin Perry."
+    },
+    {
+      "id": 950283,
+      "person": {
+        "id": 815132,
+        "fullName": "Gavin Perry",
+        "link": "/api/v1/people/815132",
+        "nameSlug": "gavin-perry-815132"
+      },
+      "fromTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-15",
+      "effectiveDate": "2026-11-15",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "San Francisco Giants traded RHP Ryan Walker to Milwaukee Brewers for RHP Blake Holub and RHP Gavin Perry."
+    },
+    {
+      "id": 950283,
+      "person": {
+        "id": 676254,
+        "fullName": "Ryan Walker",
+        "link": "/api/v1/people/676254",
+        "nameSlug": "ryan-walker-676254"
+      },
+      "fromTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-15",
+      "effectiveDate": "2026-11-15",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "San Francisco Giants traded RHP Ryan Walker to Milwaukee Brewers for RHP Blake Holub and RHP Gavin Perry."
+    },
+    {
+      "id": 950298,
+      "person": {
+        "id": 676480,
+        "fullName": "José Barrero",
+        "link": "/api/v1/people/676480",
+        "nameSlug": "jose-barrero-676480"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "resolutionDate": "2026-11-16",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Baltimore Orioles signed free agent SS José Barrero to a minor league contract."
     }
   ]
 }
