@@ -327563,12 +327563,332 @@
       "description": "Colorado Rockies optioned SS Vimael Machín to Albuquerque Isotopes."
     },
     {
-      "id": 942945,
+      "id": 942959,
       "person": {
-        "id": 665828,
-        "fullName": "Oswaldo Cabrera",
-        "link": "/api/v1/people/665828",
-        "nameSlug": "oswaldo-cabrera-665828"
+        "id": 668885,
+        "fullName": "Austin Martin",
+        "link": "/api/v1/people/668885",
+        "nameSlug": "austin-martin-668885"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Minnesota Twins activated RF Austin Martin."
+    },
+    {
+      "id": 942991,
+      "person": {
+        "id": 663460,
+        "fullName": "Kris Bubic",
+        "link": "/api/v1/people/663460",
+        "nameSlug": "kris-bubic-663460"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated LHP Kris Bubic from the 60-day injured list."
+    },
+    {
+      "id": 942900,
+      "person": {
+        "id": 669707,
+        "fullName": "Jared Triolo",
+        "link": "/api/v1/people/669707",
+        "nameSlug": "jared-triolo-669707"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "SS Jared Triolo changed number to 19."
+    },
+    {
+      "id": 942901,
+      "person": {
+        "id": 665833,
+        "fullName": "Oneil Cruz",
+        "link": "/api/v1/people/665833",
+        "nameSlug": "oneil-cruz-665833"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "CF Oneil Cruz changed number to 15."
+    },
+    {
+      "id": 942902,
+      "person": {
+        "id": 668804,
+        "fullName": "Bryan Reynolds",
+        "link": "/api/v1/people/668804",
+        "nameSlug": "bryan-reynolds-668804"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "LF Bryan Reynolds changed number to 10."
+    },
+    {
+      "id": 942903,
+      "person": {
+        "id": 656941,
+        "fullName": "Kyle Schwarber",
+        "link": "/api/v1/people/656941",
+        "nameSlug": "kyle-schwarber-656941"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "DH Kyle Schwarber changed number to 12."
+    },
+    {
+      "id": 942904,
+      "person": {
+        "id": 605170,
+        "fullName": "Victor Caratini",
+        "link": "/api/v1/people/605170",
+        "nameSlug": "victor-caratini-605170"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "C Victor Caratini changed number to 37."
+    },
+    {
+      "id": 942905,
+      "person": {
+        "id": 668885,
+        "fullName": "Austin Martin",
+        "link": "/api/v1/people/668885",
+        "nameSlug": "austin-martin-668885"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RF Austin Martin changed number to 16."
+    },
+    {
+      "id": 942906,
+      "person": {
+        "id": 682985,
+        "fullName": "Riley Greene",
+        "link": "/api/v1/people/682985",
+        "nameSlug": "riley-greene-682985"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "LF Riley Greene changed number to 31."
+    },
+    {
+      "id": 942907,
+      "person": {
+        "id": 571771,
+        "fullName": "Enrique Hernández",
+        "link": "/api/v1/people/571771",
+        "nameSlug": "enrique-hernandez-571771"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "3B Enrique Hernández changed number to 8."
+    },
+    {
+      "id": 942908,
+      "person": {
+        "id": 605141,
+        "fullName": "Mookie Betts",
+        "link": "/api/v1/people/605141",
+        "nameSlug": "mookie-betts-605141"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "SS Mookie Betts changed number to 50."
+    },
+    {
+      "id": 942931,
+      "person": {
+        "id": 657265,
+        "fullName": "Peter Strzelecki",
+        "link": "/api/v1/people/657265",
+        "nameSlug": "peter-strzelecki-657265"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "St. Louis Cardinals activated RHP Peter Strzelecki from the 15-day injured list."
+    },
+    {
+      "id": 943081,
+      "person": {
+        "id": 664353,
+        "fullName": "José Urquidy",
+        "link": "/api/v1/people/664353",
+        "nameSlug": "jose-urquidy-664353"
+      },
+      "toTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "RHP José Urquidy roster status changed by Chicago White Sox."
+    },
+    {
+      "id": 943111,
+      "person": {
+        "id": 675540,
+        "fullName": "Xzavion Curry",
+        "link": "/api/v1/people/675540",
+        "nameSlug": "xzavion-curry-675540"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "New York Mets activated RHP Xzavion Curry."
+    },
+    {
+      "id": 943840,
+      "person": {
+        "id": 666808,
+        "fullName": "Camilo Doval",
+        "link": "/api/v1/people/666808",
+        "nameSlug": "camilo-doval-666808"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Pittsburgh Pirates activated RHP Camilo Doval."
+    },
+    {
+      "id": 942934,
+      "person": {
+        "id": 602104,
+        "fullName": "Ramón Urías",
+        "link": "/api/v1/people/602104",
+        "nameSlug": "ramon-urias-602104"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "St. Louis Cardinals designated 3B Ramón Urías for assignment."
+    },
+    {
+      "id": 942944,
+      "person": {
+        "id": 657376,
+        "fullName": "Clarke Schmidt",
+        "link": "/api/v1/people/657376",
+        "nameSlug": "clarke-schmidt-657376"
       },
       "toTeam": {
         "id": 147,
@@ -327578,17 +327898,17 @@
       "date": "2026-09-16",
       "effectiveDate": "2026-09-16",
       "resolutionDate": "2026-09-16",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "New York Yankees designated 3B Oswaldo Cabrera for assignment."
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "New York Yankees activated RHP Clarke Schmidt from the 60-day injured list."
     },
     {
-      "id": 942849,
+      "id": 943005,
       "person": {
-        "id": 670329,
-        "fullName": "Rico Garcia",
-        "link": "/api/v1/people/670329",
-        "nameSlug": "rico-garcia-670329"
+        "id": 702616,
+        "fullName": "Jackson Holliday",
+        "link": "/api/v1/people/702616",
+        "nameSlug": "jackson-holliday-702616"
       },
       "toTeam": {
         "id": 110,
@@ -327596,171 +327916,156 @@
         "link": "/api/v1/teams/110"
       },
       "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RHP Rico Garcia changed number to 50."
+      "effectiveDate": "2026-09-15",
+      "resolutionDate": "2026-09-15",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Baltimore Orioles placed 2B Jackson Holliday on the 10-day injured list retroactive to September 15, 2026. Left wrist inflammation."
     },
     {
-      "id": 942850,
+      "id": 942918,
       "person": {
-        "id": 676477,
-        "fullName": "Garrett Whitlock",
-        "link": "/api/v1/people/676477",
-        "nameSlug": "garrett-whitlock-676477"
+        "id": 643289,
+        "fullName": "Mauricio Dubón",
+        "link": "/api/v1/people/643289",
+        "nameSlug": "mauricio-dubon-643289"
       },
       "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
       },
       "date": "2026-09-16",
       "effectiveDate": "2026-09-16",
       "resolutionDate": "2026-09-16",
       "typeCode": "NUM",
       "typeDesc": "Number Change",
-      "description": "RHP Garrett Whitlock changed number to 22."
+      "description": "LF Mauricio Dubón changed number to 14."
     },
     {
-      "id": 942851,
+      "id": 942948,
       "person": {
-        "id": 605135,
-        "fullName": "Chris Bassitt",
-        "link": "/api/v1/people/605135",
-        "nameSlug": "chris-bassitt-605135"
+        "id": 701785,
+        "fullName": "Kaelen Culpepper",
+        "link": "/api/v1/people/701785",
+        "nameSlug": "kaelen-culpepper-701785"
       },
       "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RHP Chris Bassitt changed number to 40."
-    },
-    {
-      "id": 942852,
-      "person": {
-        "id": 687952,
-        "fullName": "Christian Encarnacion-Strand",
-        "link": "/api/v1/people/687952",
-        "nameSlug": "christian-encarnacion-strand-687952"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "3B Christian Encarnacion-Strand changed number to 32."
-    },
-    {
-      "id": 942853,
-      "person": {
-        "id": 670103,
-        "fullName": "Raymond Burgos",
-        "link": "/api/v1/people/670103",
-        "nameSlug": "raymond-burgos-670103"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LHP Raymond Burgos changed number to 79."
-    },
-    {
-      "id": 942855,
-      "person": {
-        "id": 671732,
-        "fullName": "Lawrence Butler",
-        "link": "/api/v1/people/671732",
-        "nameSlug": "lawrence-butler-671732"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RF Lawrence Butler changed number to 4."
-    },
-    {
-      "id": 942856,
-      "person": {
-        "id": 666126,
-        "fullName": "Carlos Cortes",
-        "link": "/api/v1/people/666126",
-        "nameSlug": "carlos-cortes-666126"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RF Carlos Cortes changed number to 26."
-    },
-    {
-      "id": 942857,
-      "person": {
-        "id": 680869,
-        "fullName": "Zack Gelof",
-        "link": "/api/v1/people/680869",
-        "nameSlug": "zack-gelof-680869"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "3B Zack Gelof changed number to 20."
-    },
-    {
-      "id": 944008,
-      "person": {
-        "id": 670103,
-        "fullName": "Raymond Burgos",
-        "link": "/api/v1/people/670103",
-        "nameSlug": "raymond-burgos-670103"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
       },
       "date": "2026-09-16",
       "effectiveDate": "2026-09-16",
       "resolutionDate": "2026-09-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "Boston Red Sox activated LHP Raymond Burgos."
+      "description": "Minnesota Twins placed SS Kaelen Culpepper on the 10-day injured list. Left hamstring strain."
+    },
+    {
+      "id": 942997,
+      "person": {
+        "id": 571882,
+        "fullName": "Derek Law",
+        "link": "/api/v1/people/571882",
+        "nameSlug": "derek-law-571882"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Arizona Diamondbacks designated RHP Derek Law for assignment."
+    },
+    {
+      "id": 943966,
+      "person": {
+        "id": 681982,
+        "fullName": "Grant Anderson",
+        "link": "/api/v1/people/681982",
+        "nameSlug": "grant-anderson-681982"
+      },
+      "fromTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "toTeam": {
+        "id": 556,
+        "name": "Nashville Sounds",
+        "link": "/api/v1/teams/556"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Milwaukee Brewers sent RHP Grant Anderson on a rehab assignment to Nashville Sounds."
+    },
+    {
+      "id": 942988,
+      "person": {
+        "id": 543510,
+        "fullName": "James McCann",
+        "link": "/api/v1/people/543510",
+        "nameSlug": "james-mccann-543510"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "C James McCann changed number to 8."
+    },
+    {
+      "id": 942940,
+      "person": {
+        "id": 689672,
+        "fullName": "Drew Thorpe",
+        "link": "/api/v1/people/689672",
+        "nameSlug": "drew-thorpe-689672"
+      },
+      "toTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Chicago White Sox activated RHP Drew Thorpe from the 60-day injured list."
+    },
+    {
+      "id": 942995,
+      "person": {
+        "id": 696147,
+        "fullName": "Sam Bachman",
+        "link": "/api/v1/people/696147",
+        "nameSlug": "sam-bachman-696147"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Angels activated RHP Sam Bachman from the 15-day injured list."
     },
     {
       "id": 942809,
@@ -327821,6 +328126,246 @@
       "typeCode": "NUM",
       "typeDesc": "Number Change",
       "description": "SS Otto Lopez changed number to 6."
+    },
+    {
+      "id": 942993,
+      "person": {
+        "id": 669899,
+        "fullName": "Ryan Ward",
+        "link": "/api/v1/people/669899",
+        "nameSlug": "ryan-ward-669899"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Los Angeles Dodgers designated LF Ryan Ward for assignment."
+    },
+    {
+      "id": 942996,
+      "person": {
+        "id": 696519,
+        "fullName": "Samy Natera Jr.",
+        "link": "/api/v1/people/696519",
+        "nameSlug": "samy-natera-jr-696519"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-13",
+      "resolutionDate": "2026-09-13",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Angels placed LHP Samy Natera Jr. on the 15-day injured list retroactive to September 13, 2026. Left forearm inflammation."
+    },
+    {
+      "id": 942909,
+      "person": {
+        "id": 669373,
+        "fullName": "Tarik Skubal",
+        "link": "/api/v1/people/669373",
+        "nameSlug": "tarik-skubal-669373"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "LHP Tarik Skubal changed number to 29."
+    },
+    {
+      "id": 942910,
+      "person": {
+        "id": 592885,
+        "fullName": "Christian Yelich",
+        "link": "/api/v1/people/592885",
+        "nameSlug": "christian-yelich-592885"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "DH Christian Yelich changed number to 22."
+    },
+    {
+      "id": 942911,
+      "person": {
+        "id": 682842,
+        "fullName": "Abner Uribe",
+        "link": "/api/v1/people/682842",
+        "nameSlug": "abner-uribe-682842"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RHP Abner Uribe changed number to 45."
+    },
+    {
+      "id": 942912,
+      "person": {
+        "id": 661388,
+        "fullName": "William Contreras",
+        "link": "/api/v1/people/661388",
+        "nameSlug": "william-contreras-661388"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "C William Contreras changed number to 24."
+    },
+    {
+      "id": 942913,
+      "person": {
+        "id": 686217,
+        "fullName": "Sal Frelick",
+        "link": "/api/v1/people/686217",
+        "nameSlug": "sal-frelick-686217"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RF Sal Frelick changed number to 10."
+    },
+    {
+      "id": 942914,
+      "person": {
+        "id": 694192,
+        "fullName": "Jackson Chourio",
+        "link": "/api/v1/people/694192",
+        "nameSlug": "jackson-chourio-694192"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "LF Jackson Chourio changed number to 11."
+    },
+    {
+      "id": 942915,
+      "person": {
+        "id": 683734,
+        "fullName": "Andrew Vaughn",
+        "link": "/api/v1/people/683734",
+        "nameSlug": "andrew-vaughn-683734"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "1B Andrew Vaughn changed number to 28."
+    },
+    {
+      "id": 942916,
+      "person": {
+        "id": 596142,
+        "fullName": "Gary Sánchez",
+        "link": "/api/v1/people/596142",
+        "nameSlug": "gary-sanchez-596142"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "C Gary Sánchez changed number to 99."
+    },
+    {
+      "id": 942917,
+      "person": {
+        "id": 800325,
+        "fullName": "Luis Lara",
+        "link": "/api/v1/people/800325",
+        "nameSlug": "luis-lara-800325"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RF Luis Lara changed number to 18."
+    },
+    {
+      "id": 942945,
+      "person": {
+        "id": 665828,
+        "fullName": "Oswaldo Cabrera",
+        "link": "/api/v1/people/665828",
+        "nameSlug": "oswaldo-cabrera-665828"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "New York Yankees designated 3B Oswaldo Cabrera for assignment."
     },
     {
       "id": 942812,
@@ -328543,46 +329088,6 @@
       "description": "C Christian Vázquez changed number to 2."
     },
     {
-      "id": 943111,
-      "person": {
-        "id": 675540,
-        "fullName": "Xzavion Curry",
-        "link": "/api/v1/people/675540",
-        "nameSlug": "xzavion-curry-675540"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "New York Mets activated RHP Xzavion Curry."
-    },
-    {
-      "id": 943840,
-      "person": {
-        "id": 666808,
-        "fullName": "Camilo Doval",
-        "link": "/api/v1/people/666808",
-        "nameSlug": "camilo-doval-666808"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Pittsburgh Pirates activated RHP Camilo Doval."
-    },
-    {
       "id": 942848,
       "person": {
         "id": 624413,
@@ -328603,109 +329108,184 @@
       "description": "1B Pete Alonso changed number to 25."
     },
     {
-      "id": 942982,
+      "id": 942849,
       "person": {
-        "id": 476594,
-        "fullName": "Robert Stock",
-        "link": "/api/v1/people/476594",
-        "nameSlug": "robert-stock-476594"
+        "id": 670329,
+        "fullName": "Rico Garcia",
+        "link": "/api/v1/people/670329",
+        "nameSlug": "rico-garcia-670329"
       },
       "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
       },
       "date": "2026-09-16",
-      "effectiveDate": "2026-09-13",
-      "resolutionDate": "2026-09-13",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RHP Rico Garcia changed number to 50."
+    },
+    {
+      "id": 942850,
+      "person": {
+        "id": 676477,
+        "fullName": "Garrett Whitlock",
+        "link": "/api/v1/people/676477",
+        "nameSlug": "garrett-whitlock-676477"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RHP Garrett Whitlock changed number to 22."
+    },
+    {
+      "id": 942851,
+      "person": {
+        "id": 605135,
+        "fullName": "Chris Bassitt",
+        "link": "/api/v1/people/605135",
+        "nameSlug": "chris-bassitt-605135"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RHP Chris Bassitt changed number to 40."
+    },
+    {
+      "id": 942852,
+      "person": {
+        "id": 687952,
+        "fullName": "Christian Encarnacion-Strand",
+        "link": "/api/v1/people/687952",
+        "nameSlug": "christian-encarnacion-strand-687952"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "3B Christian Encarnacion-Strand changed number to 32."
+    },
+    {
+      "id": 942853,
+      "person": {
+        "id": 670103,
+        "fullName": "Raymond Burgos",
+        "link": "/api/v1/people/670103",
+        "nameSlug": "raymond-burgos-670103"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "LHP Raymond Burgos changed number to 79."
+    },
+    {
+      "id": 942855,
+      "person": {
+        "id": 671732,
+        "fullName": "Lawrence Butler",
+        "link": "/api/v1/people/671732",
+        "nameSlug": "lawrence-butler-671732"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RF Lawrence Butler changed number to 4."
+    },
+    {
+      "id": 942856,
+      "person": {
+        "id": 666126,
+        "fullName": "Carlos Cortes",
+        "link": "/api/v1/people/666126",
+        "nameSlug": "carlos-cortes-666126"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "RF Carlos Cortes changed number to 26."
+    },
+    {
+      "id": 942857,
+      "person": {
+        "id": 680869,
+        "fullName": "Zack Gelof",
+        "link": "/api/v1/people/680869",
+        "nameSlug": "zack-gelof-680869"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "3B Zack Gelof changed number to 20."
+    },
+    {
+      "id": 944008,
+      "person": {
+        "id": 670103,
+        "fullName": "Raymond Burgos",
+        "link": "/api/v1/people/670103",
+        "nameSlug": "raymond-burgos-670103"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "New York Mets placed RHP Robert Stock on the 15-day injured list retroactive to September 13, 2026. Finger numbness."
-    },
-    {
-      "id": 943966,
-      "person": {
-        "id": 681982,
-        "fullName": "Grant Anderson",
-        "link": "/api/v1/people/681982",
-        "nameSlug": "grant-anderson-681982"
-      },
-      "fromTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "toTeam": {
-        "id": 556,
-        "name": "Nashville Sounds",
-        "link": "/api/v1/teams/556"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Milwaukee Brewers sent RHP Grant Anderson on a rehab assignment to Nashville Sounds."
-    },
-    {
-      "id": 942914,
-      "person": {
-        "id": 694192,
-        "fullName": "Jackson Chourio",
-        "link": "/api/v1/people/694192",
-        "nameSlug": "jackson-chourio-694192"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LF Jackson Chourio changed number to 11."
-    },
-    {
-      "id": 942913,
-      "person": {
-        "id": 686217,
-        "fullName": "Sal Frelick",
-        "link": "/api/v1/people/686217",
-        "nameSlug": "sal-frelick-686217"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RF Sal Frelick changed number to 10."
-    },
-    {
-      "id": 942993,
-      "person": {
-        "id": 669899,
-        "fullName": "Ryan Ward",
-        "link": "/api/v1/people/669899",
-        "nameSlug": "ryan-ward-669899"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Los Angeles Dodgers designated LF Ryan Ward for assignment."
+      "description": "Boston Red Sox activated LHP Raymond Burgos."
     },
     {
       "id": 942983,
@@ -328728,84 +329308,44 @@
       "description": "New York Mets placed RHP Daniel Duarte on the 15-day injured list. Left hamstring strain."
     },
     {
-      "id": 942932,
+      "id": 942999,
       "person": {
-        "id": 802139,
-        "fullName": "JJ Wetherholt",
-        "link": "/api/v1/people/802139",
-        "nameSlug": "jj-wetherholt-802139"
+        "id": 669194,
+        "fullName": "Ryne Nelson",
+        "link": "/api/v1/people/669194",
+        "nameSlug": "ryne-nelson-669194"
       },
       "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
       },
       "date": "2026-09-16",
       "effectiveDate": "2026-09-16",
       "resolutionDate": "2026-09-16",
       "typeCode": "SC",
       "typeDesc": "Status Change",
-      "description": "St. Louis Cardinals activated 2B JJ Wetherholt from the 10-day injured list."
+      "description": "Arizona Diamondbacks activated RHP Ryne Nelson from the 60-day injured list."
     },
     {
-      "id": 942959,
+      "id": 942919,
       "person": {
-        "id": 668885,
-        "fullName": "Austin Martin",
-        "link": "/api/v1/people/668885",
-        "nameSlug": "austin-martin-668885"
+        "id": 663558,
+        "fullName": "Jovani Morán",
+        "link": "/api/v1/people/663558",
+        "nameSlug": "jovani-moran-663558"
       },
       "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Minnesota Twins activated RF Austin Martin."
-    },
-    {
-      "id": 942891,
-      "person": {
-        "id": 687462,
-        "fullName": "Spencer Horwitz",
-        "link": "/api/v1/people/687462",
-        "nameSlug": "spencer-horwitz-687462"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
       },
       "date": "2026-09-16",
       "effectiveDate": "2026-09-16",
       "resolutionDate": "2026-09-16",
       "typeCode": "NUM",
       "typeDesc": "Number Change",
-      "description": "1B Spencer Horwitz changed number to 2."
-    },
-    {
-      "id": 942931,
-      "person": {
-        "id": 657265,
-        "fullName": "Peter Strzelecki",
-        "link": "/api/v1/people/657265",
-        "nameSlug": "peter-strzelecki-657265"
-      },
-      "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "St. Louis Cardinals activated RHP Peter Strzelecki from the 15-day injured list."
+      "description": "LHP Jovani Morán changed number to 47."
     },
     {
       "id": 942936,
@@ -328846,6 +329386,91 @@
       "typeCode": "NUM",
       "typeDesc": "Number Change",
       "description": "LHP Brent Suter changed number to 39."
+    },
+    {
+      "id": 942986,
+      "person": {
+        "id": 681982,
+        "fullName": "Grant Anderson",
+        "link": "/api/v1/people/681982",
+        "nameSlug": "grant-anderson-681982"
+      },
+      "fromTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "toTeam": {
+        "id": 556,
+        "name": "Nashville Sounds",
+        "link": "/api/v1/teams/556"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Milwaukee Brewers sent RHP Grant Anderson on a rehab assignment to Nashville Sounds."
+    },
+    {
+      "id": 942933,
+      "person": {
+        "id": 657265,
+        "fullName": "Peter Strzelecki",
+        "link": "/api/v1/people/657265",
+        "nameSlug": "peter-strzelecki-657265"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "St. Louis Cardinals designated RHP Peter Strzelecki for assignment."
+    },
+    {
+      "id": 942932,
+      "person": {
+        "id": 802139,
+        "fullName": "JJ Wetherholt",
+        "link": "/api/v1/people/802139",
+        "nameSlug": "jj-wetherholt-802139"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "St. Louis Cardinals activated 2B JJ Wetherholt from the 10-day injured list."
+    },
+    {
+      "id": 942982,
+      "person": {
+        "id": 476594,
+        "fullName": "Robert Stock",
+        "link": "/api/v1/people/476594",
+        "nameSlug": "robert-stock-476594"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-13",
+      "resolutionDate": "2026-09-13",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "New York Mets placed RHP Robert Stock on the 15-day injured list retroactive to September 13, 2026. Finger numbness."
     },
     {
       "id": 942861,
@@ -329308,31 +329933,6 @@
       "description": "RF Ryan O'Hearn changed number to 29."
     },
     {
-      "id": 942986,
-      "person": {
-        "id": 681982,
-        "fullName": "Grant Anderson",
-        "link": "/api/v1/people/681982",
-        "nameSlug": "grant-anderson-681982"
-      },
-      "fromTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "toTeam": {
-        "id": 556,
-        "name": "Nashville Sounds",
-        "link": "/api/v1/teams/556"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "ASG",
-      "typeDesc": "Assigned",
-      "description": "Milwaukee Brewers sent RHP Grant Anderson on a rehab assignment to Nashville Sounds."
-    },
-    {
       "id": 942884,
       "person": {
         "id": 682254,
@@ -329471,6 +330071,26 @@
       "typeCode": "NUM",
       "typeDesc": "Number Change",
       "description": "C Rafael Flores Jr. changed number to 43."
+    },
+    {
+      "id": 942891,
+      "person": {
+        "id": 687462,
+        "fullName": "Spencer Horwitz",
+        "link": "/api/v1/people/687462",
+        "nameSlug": "spencer-horwitz-687462"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "resolutionDate": "2026-09-16",
+      "typeCode": "NUM",
+      "typeDesc": "Number Change",
+      "description": "1B Spencer Horwitz changed number to 2."
     },
     {
       "id": 942892,
@@ -329633,770 +330253,6 @@
       "description": "RHP Carmen Mlodzinski changed number to 50."
     },
     {
-      "id": 942999,
-      "person": {
-        "id": 669194,
-        "fullName": "Ryne Nelson",
-        "link": "/api/v1/people/669194",
-        "nameSlug": "ryne-nelson-669194"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Arizona Diamondbacks activated RHP Ryne Nelson from the 60-day injured list."
-    },
-    {
-      "id": 943081,
-      "person": {
-        "id": 664353,
-        "fullName": "José Urquidy",
-        "link": "/api/v1/people/664353",
-        "nameSlug": "jose-urquidy-664353"
-      },
-      "toTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "RHP José Urquidy roster status changed by Chicago White Sox."
-    },
-    {
-      "id": 942900,
-      "person": {
-        "id": 669707,
-        "fullName": "Jared Triolo",
-        "link": "/api/v1/people/669707",
-        "nameSlug": "jared-triolo-669707"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "SS Jared Triolo changed number to 19."
-    },
-    {
-      "id": 942901,
-      "person": {
-        "id": 665833,
-        "fullName": "Oneil Cruz",
-        "link": "/api/v1/people/665833",
-        "nameSlug": "oneil-cruz-665833"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "CF Oneil Cruz changed number to 15."
-    },
-    {
-      "id": 942902,
-      "person": {
-        "id": 668804,
-        "fullName": "Bryan Reynolds",
-        "link": "/api/v1/people/668804",
-        "nameSlug": "bryan-reynolds-668804"
-      },
-      "toTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "link": "/api/v1/teams/134"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LF Bryan Reynolds changed number to 10."
-    },
-    {
-      "id": 942903,
-      "person": {
-        "id": 656941,
-        "fullName": "Kyle Schwarber",
-        "link": "/api/v1/people/656941",
-        "nameSlug": "kyle-schwarber-656941"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "DH Kyle Schwarber changed number to 12."
-    },
-    {
-      "id": 942904,
-      "person": {
-        "id": 605170,
-        "fullName": "Victor Caratini",
-        "link": "/api/v1/people/605170",
-        "nameSlug": "victor-caratini-605170"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "C Victor Caratini changed number to 37."
-    },
-    {
-      "id": 942905,
-      "person": {
-        "id": 668885,
-        "fullName": "Austin Martin",
-        "link": "/api/v1/people/668885",
-        "nameSlug": "austin-martin-668885"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RF Austin Martin changed number to 16."
-    },
-    {
-      "id": 942906,
-      "person": {
-        "id": 682985,
-        "fullName": "Riley Greene",
-        "link": "/api/v1/people/682985",
-        "nameSlug": "riley-greene-682985"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LF Riley Greene changed number to 31."
-    },
-    {
-      "id": 942907,
-      "person": {
-        "id": 571771,
-        "fullName": "Enrique Hernández",
-        "link": "/api/v1/people/571771",
-        "nameSlug": "enrique-hernandez-571771"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "3B Enrique Hernández changed number to 8."
-    },
-    {
-      "id": 942908,
-      "person": {
-        "id": 605141,
-        "fullName": "Mookie Betts",
-        "link": "/api/v1/people/605141",
-        "nameSlug": "mookie-betts-605141"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "SS Mookie Betts changed number to 50."
-    },
-    {
-      "id": 942997,
-      "person": {
-        "id": 571882,
-        "fullName": "Derek Law",
-        "link": "/api/v1/people/571882",
-        "nameSlug": "derek-law-571882"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Arizona Diamondbacks designated RHP Derek Law for assignment."
-    },
-    {
-      "id": 942948,
-      "person": {
-        "id": 701785,
-        "fullName": "Kaelen Culpepper",
-        "link": "/api/v1/people/701785",
-        "nameSlug": "kaelen-culpepper-701785"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Minnesota Twins placed SS Kaelen Culpepper on the 10-day injured list. Left hamstring strain."
-    },
-    {
-      "id": 943005,
-      "person": {
-        "id": 702616,
-        "fullName": "Jackson Holliday",
-        "link": "/api/v1/people/702616",
-        "nameSlug": "jackson-holliday-702616"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-15",
-      "resolutionDate": "2026-09-15",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Baltimore Orioles placed 2B Jackson Holliday on the 10-day injured list retroactive to September 15, 2026. Left wrist inflammation."
-    },
-    {
-      "id": 942944,
-      "person": {
-        "id": 657376,
-        "fullName": "Clarke Schmidt",
-        "link": "/api/v1/people/657376",
-        "nameSlug": "clarke-schmidt-657376"
-      },
-      "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "New York Yankees activated RHP Clarke Schmidt from the 60-day injured list."
-    },
-    {
-      "id": 942919,
-      "person": {
-        "id": 663558,
-        "fullName": "Jovani Morán",
-        "link": "/api/v1/people/663558",
-        "nameSlug": "jovani-moran-663558"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LHP Jovani Morán changed number to 47."
-    },
-    {
-      "id": 942988,
-      "person": {
-        "id": 543510,
-        "fullName": "James McCann",
-        "link": "/api/v1/people/543510",
-        "nameSlug": "james-mccann-543510"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "C James McCann changed number to 8."
-    },
-    {
-      "id": 942934,
-      "person": {
-        "id": 602104,
-        "fullName": "Ramón Urías",
-        "link": "/api/v1/people/602104",
-        "nameSlug": "ramon-urias-602104"
-      },
-      "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "St. Louis Cardinals designated 3B Ramón Urías for assignment."
-    },
-    {
-      "id": 942910,
-      "person": {
-        "id": 592885,
-        "fullName": "Christian Yelich",
-        "link": "/api/v1/people/592885",
-        "nameSlug": "christian-yelich-592885"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "DH Christian Yelich changed number to 22."
-    },
-    {
-      "id": 942991,
-      "person": {
-        "id": 663460,
-        "fullName": "Kris Bubic",
-        "link": "/api/v1/people/663460",
-        "nameSlug": "kris-bubic-663460"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Dodgers activated LHP Kris Bubic from the 60-day injured list."
-    },
-    {
-      "id": 942995,
-      "person": {
-        "id": 696147,
-        "fullName": "Sam Bachman",
-        "link": "/api/v1/people/696147",
-        "nameSlug": "sam-bachman-696147"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Angels activated RHP Sam Bachman from the 15-day injured list."
-    },
-    {
-      "id": 942996,
-      "person": {
-        "id": 696519,
-        "fullName": "Samy Natera Jr.",
-        "link": "/api/v1/people/696519",
-        "nameSlug": "samy-natera-jr-696519"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-13",
-      "resolutionDate": "2026-09-13",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Los Angeles Angels placed LHP Samy Natera Jr. on the 15-day injured list retroactive to September 13, 2026. Left forearm inflammation."
-    },
-    {
-      "id": 942917,
-      "person": {
-        "id": 800325,
-        "fullName": "Luis Lara",
-        "link": "/api/v1/people/800325",
-        "nameSlug": "luis-lara-800325"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RF Luis Lara changed number to 18."
-    },
-    {
-      "id": 942916,
-      "person": {
-        "id": 596142,
-        "fullName": "Gary Sánchez",
-        "link": "/api/v1/people/596142",
-        "nameSlug": "gary-sanchez-596142"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "C Gary Sánchez changed number to 99."
-    },
-    {
-      "id": 942915,
-      "person": {
-        "id": 683734,
-        "fullName": "Andrew Vaughn",
-        "link": "/api/v1/people/683734",
-        "nameSlug": "andrew-vaughn-683734"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "1B Andrew Vaughn changed number to 28."
-    },
-    {
-      "id": 942940,
-      "person": {
-        "id": 689672,
-        "fullName": "Drew Thorpe",
-        "link": "/api/v1/people/689672",
-        "nameSlug": "drew-thorpe-689672"
-      },
-      "toTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Chicago White Sox activated RHP Drew Thorpe from the 60-day injured list."
-    },
-    {
-      "id": 942918,
-      "person": {
-        "id": 643289,
-        "fullName": "Mauricio Dubón",
-        "link": "/api/v1/people/643289",
-        "nameSlug": "mauricio-dubon-643289"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LF Mauricio Dubón changed number to 14."
-    },
-    {
-      "id": 942933,
-      "person": {
-        "id": 657265,
-        "fullName": "Peter Strzelecki",
-        "link": "/api/v1/people/657265",
-        "nameSlug": "peter-strzelecki-657265"
-      },
-      "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "St. Louis Cardinals designated RHP Peter Strzelecki for assignment."
-    },
-    {
-      "id": 942912,
-      "person": {
-        "id": 661388,
-        "fullName": "William Contreras",
-        "link": "/api/v1/people/661388",
-        "nameSlug": "william-contreras-661388"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "C William Contreras changed number to 24."
-    },
-    {
-      "id": 942909,
-      "person": {
-        "id": 669373,
-        "fullName": "Tarik Skubal",
-        "link": "/api/v1/people/669373",
-        "nameSlug": "tarik-skubal-669373"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "LHP Tarik Skubal changed number to 29."
-    },
-    {
-      "id": 942911,
-      "person": {
-        "id": 682842,
-        "fullName": "Abner Uribe",
-        "link": "/api/v1/people/682842",
-        "nameSlug": "abner-uribe-682842"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "resolutionDate": "2026-09-16",
-      "typeCode": "NUM",
-      "typeDesc": "Number Change",
-      "description": "RHP Abner Uribe changed number to 45."
-    },
-    {
-      "id": 942984,
-      "person": {
-        "id": 675540,
-        "fullName": "Xzavion Curry",
-        "link": "/api/v1/people/675540",
-        "nameSlug": "xzavion-curry-675540"
-      },
-      "fromTeam": {
-        "id": 552,
-        "name": "Syracuse Mets",
-        "link": "/api/v1/teams/552"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "New York Mets recalled RHP Xzavion Curry from Syracuse Mets."
-    },
-    {
-      "id": 943001,
-      "person": {
-        "id": 807743,
-        "fullName": "Sean Sullivan",
-        "link": "/api/v1/people/807743",
-        "nameSlug": "sean-sullivan-807743"
-      },
-      "fromTeam": {
-        "id": 115,
-        "name": "Colorado Rockies",
-        "link": "/api/v1/teams/115"
-      },
-      "toTeam": {
-        "id": 342,
-        "name": "Albuquerque Isotopes",
-        "link": "/api/v1/teams/342"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Colorado Rockies optioned LHP Sean Sullivan to Albuquerque Isotopes."
-    },
-    {
-      "id": 942985,
-      "person": {
-        "id": 642376,
-        "fullName": "Jefry Yan",
-        "link": "/api/v1/people/642376",
-        "nameSlug": "jefry-yan-642376"
-      },
-      "fromTeam": {
-        "id": 552,
-        "name": "Syracuse Mets",
-        "link": "/api/v1/teams/552"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "New York Mets recalled LHP Jefry Yan from Syracuse Mets."
-    },
-    {
-      "id": 942920,
-      "person": {
-        "id": 690440,
-        "fullName": "Bradley Hanner",
-        "link": "/api/v1/people/690440",
-        "nameSlug": "bradley-hanner-690440"
-      },
-      "fromTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
-      },
-      "toTeam": {
-        "id": 531,
-        "name": "Scranton/Wilkes-Barre Highlanders",
-        "link": "/api/v1/teams/531"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "New York Yankees optioned RHP Bradley Hanner to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 942947,
-      "person": {
-        "id": 805346,
-        "fullName": "Ben Ross",
-        "link": "/api/v1/people/805346",
-        "nameSlug": "ben-ross-805346"
-      },
-      "fromTeam": {
-        "id": 1960,
-        "name": "St. Paul Saints",
-        "link": "/api/v1/teams/1960"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "CU",
-      "typeDesc": "Recalled",
-      "description": "Minnesota Twins recalled SS Ben Ross from St. Paul Saints."
-    },
-    {
-      "id": 943000,
-      "person": {
-        "id": 663559,
-        "fullName": "Bailey Falter",
-        "link": "/api/v1/people/663559",
-        "nameSlug": "bailey-falter-663559"
-      },
-      "fromTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "toTeam": {
-        "id": 431,
-        "name": "Gwinnett Stripers",
-        "link": "/api/v1/teams/431"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "OUT",
-      "typeDesc": "Outrighted",
-      "description": "Atlanta Braves sent LHP Bailey Falter outright to Gwinnett Stripers."
-    },
-    {
       "id": 942992,
       "person": {
         "id": 801434,
@@ -330419,30 +330275,6 @@
       "typeCode": "OPT",
       "typeDesc": "Optioned",
       "description": "Los Angeles Dodgers optioned RHP Paul Gervase to Oklahoma City Comets."
-    },
-    {
-      "id": 942935,
-      "person": {
-        "id": 700337,
-        "fullName": "Edgar Quero",
-        "link": "/api/v1/people/700337",
-        "nameSlug": "edgar-quero-700337"
-      },
-      "fromTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "toTeam": {
-        "id": 494,
-        "name": "Charlotte Knights",
-        "link": "/api/v1/teams/494"
-      },
-      "date": "2026-09-16",
-      "effectiveDate": "2026-09-16",
-      "typeCode": "OPT",
-      "typeDesc": "Optioned",
-      "description": "Chicago White Sox optioned C Edgar Quero to Charlotte Knights."
     },
     {
       "id": 943004,
@@ -330469,6 +330301,78 @@
       "description": "Baltimore Orioles selected the contract of SS José Barrero from Norfolk Tides."
     },
     {
+      "id": 942984,
+      "person": {
+        "id": 675540,
+        "fullName": "Xzavion Curry",
+        "link": "/api/v1/people/675540",
+        "nameSlug": "xzavion-curry-675540"
+      },
+      "fromTeam": {
+        "id": 552,
+        "name": "Syracuse Mets",
+        "link": "/api/v1/teams/552"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "New York Mets recalled RHP Xzavion Curry from Syracuse Mets."
+    },
+    {
+      "id": 943000,
+      "person": {
+        "id": 663559,
+        "fullName": "Bailey Falter",
+        "link": "/api/v1/people/663559",
+        "nameSlug": "bailey-falter-663559"
+      },
+      "fromTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "toTeam": {
+        "id": 431,
+        "name": "Gwinnett Stripers",
+        "link": "/api/v1/teams/431"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Atlanta Braves sent LHP Bailey Falter outright to Gwinnett Stripers."
+    },
+    {
+      "id": 943001,
+      "person": {
+        "id": 807743,
+        "fullName": "Sean Sullivan",
+        "link": "/api/v1/people/807743",
+        "nameSlug": "sean-sullivan-807743"
+      },
+      "fromTeam": {
+        "id": 115,
+        "name": "Colorado Rockies",
+        "link": "/api/v1/teams/115"
+      },
+      "toTeam": {
+        "id": 342,
+        "name": "Albuquerque Isotopes",
+        "link": "/api/v1/teams/342"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Colorado Rockies optioned LHP Sean Sullivan to Albuquerque Isotopes."
+    },
+    {
       "id": 942941,
       "person": {
         "id": 689672,
@@ -330491,6 +330395,102 @@
       "typeCode": "OPT",
       "typeDesc": "Optioned",
       "description": "Chicago White Sox optioned RHP Drew Thorpe to Charlotte Knights."
+    },
+    {
+      "id": 942920,
+      "person": {
+        "id": 690440,
+        "fullName": "Bradley Hanner",
+        "link": "/api/v1/people/690440",
+        "nameSlug": "bradley-hanner-690440"
+      },
+      "fromTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "toTeam": {
+        "id": 531,
+        "name": "Scranton/Wilkes-Barre Highlanders",
+        "link": "/api/v1/teams/531"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "New York Yankees optioned RHP Bradley Hanner to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 942935,
+      "person": {
+        "id": 700337,
+        "fullName": "Edgar Quero",
+        "link": "/api/v1/people/700337",
+        "nameSlug": "edgar-quero-700337"
+      },
+      "fromTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "toTeam": {
+        "id": 494,
+        "name": "Charlotte Knights",
+        "link": "/api/v1/teams/494"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "OPT",
+      "typeDesc": "Optioned",
+      "description": "Chicago White Sox optioned C Edgar Quero to Charlotte Knights."
+    },
+    {
+      "id": 942947,
+      "person": {
+        "id": 805346,
+        "fullName": "Ben Ross",
+        "link": "/api/v1/people/805346",
+        "nameSlug": "ben-ross-805346"
+      },
+      "fromTeam": {
+        "id": 1960,
+        "name": "St. Paul Saints",
+        "link": "/api/v1/teams/1960"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Minnesota Twins recalled SS Ben Ross from St. Paul Saints."
+    },
+    {
+      "id": 942985,
+      "person": {
+        "id": 642376,
+        "fullName": "Jefry Yan",
+        "link": "/api/v1/people/642376",
+        "nameSlug": "jefry-yan-642376"
+      },
+      "fromTeam": {
+        "id": 552,
+        "name": "Syracuse Mets",
+        "link": "/api/v1/teams/552"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-09-16",
+      "effectiveDate": "2026-09-16",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "New York Mets recalled LHP Jefry Yan from Syracuse Mets."
     },
     {
       "id": 943060,
@@ -352006,26 +352006,6 @@
       "description": "Chicago White Sox activated C Joey Bart."
     },
     {
-      "id": 945463,
-      "person": {
-        "id": 677944,
-        "fullName": "Slade Cecconi",
-        "link": "/api/v1/people/677944",
-        "nameSlug": "slade-cecconi-677944"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-10-12",
-      "effectiveDate": "2026-10-12",
-      "resolutionDate": "2026-10-12",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "Cleveland Guardians activated RHP Slade Cecconi."
-    },
-    {
       "id": 945462,
       "person": {
         "id": 682177,
@@ -352044,26 +352024,6 @@
       "typeCode": "SC",
       "typeDesc": "Status Change",
       "description": "CF Daniel Schneemann roster status changed by Cleveland Guardians."
-    },
-    {
-      "id": 945464,
-      "person": {
-        "id": 664076,
-        "fullName": "Garrett Cleavinger",
-        "link": "/api/v1/people/664076",
-        "nameSlug": "garrett-cleavinger-664076"
-      },
-      "toTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "link": "/api/v1/teams/139"
-      },
-      "date": "2026-10-12",
-      "effectiveDate": "2026-10-12",
-      "resolutionDate": "2026-10-12",
-      "typeCode": "SC",
-      "typeDesc": "Status Change",
-      "description": "LHP Garrett Cleavinger roster status changed by Tampa Bay Rays."
     },
     {
       "id": 947055,
@@ -352086,6 +352046,26 @@
       "description": "Arizona Diamondbacks signed free agent C Aramis Garcia to a minor league contract."
     },
     {
+      "id": 945464,
+      "person": {
+        "id": 664076,
+        "fullName": "Garrett Cleavinger",
+        "link": "/api/v1/people/664076",
+        "nameSlug": "garrett-cleavinger-664076"
+      },
+      "toTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "date": "2026-10-12",
+      "effectiveDate": "2026-10-12",
+      "resolutionDate": "2026-10-12",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "LHP Garrett Cleavinger roster status changed by Tampa Bay Rays."
+    },
+    {
       "id": 945465,
       "person": {
         "id": 811315,
@@ -352104,6 +352084,26 @@
       "typeCode": "SC",
       "typeDesc": "Status Change",
       "description": "Tampa Bay Rays activated RHP Brody Hopkins."
+    },
+    {
+      "id": 945463,
+      "person": {
+        "id": 677944,
+        "fullName": "Slade Cecconi",
+        "link": "/api/v1/people/677944",
+        "nameSlug": "slade-cecconi-677944"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-10-12",
+      "effectiveDate": "2026-10-12",
+      "resolutionDate": "2026-10-12",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP Slade Cecconi."
     },
     {
       "id": 946129,
@@ -362578,26 +362578,6 @@
       "description": "Boston Red Sox traded LHP Eduardo Rivera to St. Louis Cardinals for RHP Juan García."
     },
     {
-      "id": 948748,
-      "person": {
-        "id": 833136,
-        "fullName": "Many Ramirez",
-        "link": "/api/v1/people/833136",
-        "nameSlug": "many-ramirez-833136"
-      },
-      "toTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
-      },
-      "date": "2026-11-04",
-      "effectiveDate": "2026-11-04",
-      "resolutionDate": "2026-11-04",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Cincinnati Reds signed free agent RHP Many Ramirez to a minor league contract."
-    },
-    {
       "id": 949586,
       "person": {
         "id": 687849,
@@ -362616,6 +362596,26 @@
       "typeCode": "REL",
       "typeDesc": "Released",
       "description": "Washington Nationals released RHP Zak Kent."
+    },
+    {
+      "id": 948748,
+      "person": {
+        "id": 833136,
+        "fullName": "Many Ramirez",
+        "link": "/api/v1/people/833136",
+        "nameSlug": "many-ramirez-833136"
+      },
+      "toTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "date": "2026-11-04",
+      "effectiveDate": "2026-11-04",
+      "resolutionDate": "2026-11-04",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Cincinnati Reds signed free agent RHP Many Ramirez to a minor league contract."
     },
     {
       "id": 950114,
@@ -363222,26 +363222,6 @@
       "description": "Atlanta Braves signed free agent RHP Evan Phillips."
     },
     {
-      "id": 950206,
-      "person": {
-        "id": 808220,
-        "fullName": "Raimundo De Los Santos",
-        "link": "/api/v1/people/808220",
-        "nameSlug": "raimundo-de-los-santos-808220"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Diego Padres signed free agent SS Raimundo De Los Santos to a minor league contract."
-    },
-    {
       "id": 950204,
       "person": {
         "id": 805097,
@@ -363260,106 +363240,6 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "San Diego Padres signed free agent RHP Angel Hernandez to a minor league contract."
-    },
-    {
-      "id": 950195,
-      "person": {
-        "id": 664129,
-        "fullName": "Geoff Hartlieb",
-        "link": "/api/v1/people/664129",
-        "nameSlug": "geoff-hartlieb-664129"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent RHP Geoff Hartlieb to a minor league contract."
-    },
-    {
-      "id": 950193,
-      "person": {
-        "id": 672712,
-        "fullName": "Luis Palacios",
-        "link": "/api/v1/people/672712",
-        "nameSlug": "luis-palacios-672712"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Miami Marlins signed free agent LHP Luis Palacios to a minor league contract."
-    },
-    {
-      "id": 950208,
-      "person": {
-        "id": 800690,
-        "fullName": "John Armstrong",
-        "link": "/api/v1/people/800690",
-        "nameSlug": "john-armstrong-800690"
-      },
-      "toTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "link": "/api/v1/teams/140"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Texas Rangers signed free agent RHP John Armstrong to a minor league contract."
-    },
-    {
-      "id": 950191,
-      "person": {
-        "id": 671289,
-        "fullName": "Tyler Freeman",
-        "link": "/api/v1/people/671289",
-        "nameSlug": "tyler-freeman-671289"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Atlanta Braves signed free agent RF Tyler Freeman to a minor league contract."
-    },
-    {
-      "id": 950119,
-      "person": {
-        "id": 671111,
-        "fullName": "Sammy Peralta",
-        "link": "/api/v1/people/671111",
-        "nameSlug": "sammy-peralta-671111"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-11-13",
-      "effectiveDate": "2026-11-13",
-      "resolutionDate": "2026-11-13",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Los Angeles Angels signed free agent LHP Sammy Peralta to a minor league contract and invited him to spring training."
     },
     {
       "id": 950197,
@@ -363402,6 +363282,106 @@
       "description": "Athletics signed free agent LHP Ben Bowden to a minor league contract."
     },
     {
+      "id": 950193,
+      "person": {
+        "id": 672712,
+        "fullName": "Luis Palacios",
+        "link": "/api/v1/people/672712",
+        "nameSlug": "luis-palacios-672712"
+      },
+      "toTeam": {
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Miami Marlins signed free agent LHP Luis Palacios to a minor league contract."
+    },
+    {
+      "id": 950206,
+      "person": {
+        "id": 808220,
+        "fullName": "Raimundo De Los Santos",
+        "link": "/api/v1/people/808220",
+        "nameSlug": "raimundo-de-los-santos-808220"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Diego Padres signed free agent SS Raimundo De Los Santos to a minor league contract."
+    },
+    {
+      "id": 950208,
+      "person": {
+        "id": 800690,
+        "fullName": "John Armstrong",
+        "link": "/api/v1/people/800690",
+        "nameSlug": "john-armstrong-800690"
+      },
+      "toTeam": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "link": "/api/v1/teams/140"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Texas Rangers signed free agent RHP John Armstrong to a minor league contract."
+    },
+    {
+      "id": 950195,
+      "person": {
+        "id": 664129,
+        "fullName": "Geoff Hartlieb",
+        "link": "/api/v1/people/664129",
+        "nameSlug": "geoff-hartlieb-664129"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent RHP Geoff Hartlieb to a minor league contract."
+    },
+    {
+      "id": 950191,
+      "person": {
+        "id": 671289,
+        "fullName": "Tyler Freeman",
+        "link": "/api/v1/people/671289",
+        "nameSlug": "tyler-freeman-671289"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Atlanta Braves signed free agent RF Tyler Freeman to a minor league contract."
+    },
+    {
       "id": 950199,
       "person": {
         "id": 691263,
@@ -363420,6 +363400,46 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "San Francisco Giants signed free agent LHP Esmerlin Vinicio to a minor league contract."
+    },
+    {
+      "id": 950119,
+      "person": {
+        "id": 671111,
+        "fullName": "Sammy Peralta",
+        "link": "/api/v1/people/671111",
+        "nameSlug": "sammy-peralta-671111"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-11-13",
+      "effectiveDate": "2026-11-13",
+      "resolutionDate": "2026-11-13",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Los Angeles Angels signed free agent LHP Sammy Peralta to a minor league contract and invited him to spring training."
+    },
+    {
+      "id": 950300,
+      "person": {
+        "id": 691602,
+        "fullName": "Stiven Cruz",
+        "link": "/api/v1/people/691602",
+        "nameSlug": "stiven-cruz-691602"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-14",
+      "effectiveDate": "2026-11-14",
+      "resolutionDate": "2026-11-14",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Milwaukee Brewers signed free agent RHP Stiven Cruz to a minor league contract and invited him to spring training."
     },
     {
       "id": 950296,
@@ -363518,6 +363538,26 @@
       "description": "San Francisco Giants traded RHP Ryan Walker to Milwaukee Brewers for RHP Blake Holub and RHP Gavin Perry."
     },
     {
+      "id": 950333,
+      "person": {
+        "id": 687830,
+        "fullName": "Sawyer Gipson-Long",
+        "link": "/api/v1/people/687830",
+        "nameSlug": "sawyer-gipson-long-687830"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "resolutionDate": "2026-11-16",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Detroit Tigers signed free agent RHP Sawyer Gipson-Long to a minor league contract."
+    },
+    {
       "id": 950298,
       "person": {
         "id": 676480,
@@ -363536,6 +363576,106 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "Baltimore Orioles signed free agent SS José Barrero to a minor league contract."
+    },
+    {
+      "id": 950329,
+      "person": {
+        "id": 665998,
+        "fullName": "Ismael Munguia",
+        "link": "/api/v1/people/665998",
+        "nameSlug": "ismael-munguia-665998"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "resolutionDate": "2026-11-16",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Arizona Diamondbacks signed free agent OF Ismael Munguia to a minor league contract."
+    },
+    {
+      "id": 950335,
+      "person": {
+        "id": 690544,
+        "fullName": "Bailey Horn",
+        "link": "/api/v1/people/690544",
+        "nameSlug": "bailey-horn-690544"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "resolutionDate": "2026-11-16",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Detroit Tigers signed free agent LHP Bailey Horn to a minor league contract."
+    },
+    {
+      "id": 950340,
+      "person": {
+        "id": 675448,
+        "fullName": "Blake Hunt",
+        "link": "/api/v1/people/675448",
+        "nameSlug": "blake-hunt-675448"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "resolutionDate": "2026-11-16",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent C Blake Hunt to a minor league contract."
+    },
+    {
+      "id": 950338,
+      "person": {
+        "id": 683681,
+        "fullName": "Jose Gonzalez",
+        "link": "/api/v1/people/683681",
+        "nameSlug": "jose-gonzalez-683681"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "resolutionDate": "2026-11-16",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Houston Astros signed free agent RHP Jose Gonzalez to a minor league contract."
+    },
+    {
+      "id": 950321,
+      "person": {
+        "id": 677956,
+        "fullName": "Rece Hinds",
+        "link": "/api/v1/people/677956",
+        "nameSlug": "rece-hinds-677956"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "REL",
+      "typeDesc": "Released",
+      "description": "Baltimore Orioles released RF Rece Hinds."
     }
   ]
 }

@@ -770,10 +770,10 @@
       },
       "jerseyNumber": "13",
       "position": {
-        "code": "10",
-        "name": "Designated Hitter",
-        "type": "Hitter",
-        "abbreviation": "DH"
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
       },
       "status": {
         "code": "A",
