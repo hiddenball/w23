@@ -111,8 +111,8 @@
         "abbreviation": "P"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "FA",
+        "description": "Free Agent"
       }
     },
     {
@@ -825,7 +825,7 @@
         "link": "/api/v1/people/694397",
         "nameSlug": "marco-raya-694397"
       },
-      "jerseyNumber": "54",
+      "jerseyNumber": "",
       "position": {
         "code": "1",
         "name": "Pitcher",
