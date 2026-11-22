@@ -364478,24 +364478,104 @@
       "description": "Chicago Cubs signed free agent RHP Celso Lopez to a minor league contract."
     },
     {
-      "id": 950599,
+      "id": 950596,
       "person": {
-        "id": 676785,
-        "fullName": "Bryce Conley",
-        "link": "/api/v1/people/676785",
-        "nameSlug": "bryce-conley-676785"
+        "id": 670276,
+        "fullName": "Cal Stevenson",
+        "link": "/api/v1/people/670276",
+        "nameSlug": "cal-stevenson-670276"
       },
       "toTeam": {
-        "id": 136,
-        "name": "Seattle Mariners",
-        "link": "/api/v1/teams/136"
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
       "resolutionDate": "2026-11-17",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Seattle Mariners signed free agent RHP Bryce Conley to a minor league contract."
+      "description": "San Diego Padres signed free agent OF Cal Stevenson to a minor league contract."
+    },
+    {
+      "id": 950346,
+      "person": {
+        "id": 641343,
+        "fullName": "Jake Bauers",
+        "link": "/api/v1/people/641343",
+        "nameSlug": "jake-bauers-641343"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Boston Red Sox signed free agent 1B Jake Bauers."
+    },
+    {
+      "id": 950350,
+      "person": {
+        "id": 680686,
+        "fullName": "Josiah Gray",
+        "link": "/api/v1/people/680686",
+        "nameSlug": "josiah-gray-680686"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Washington Nationals designated RHP Josiah Gray for assignment."
+    },
+    {
+      "id": 950370,
+      "person": {
+        "id": 663698,
+        "fullName": "Joey Bart",
+        "link": "/api/v1/people/663698",
+        "nameSlug": "joey-bart-663698"
+      },
+      "toTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "Chicago White Sox designated C Joey Bart for assignment."
+    },
+    {
+      "id": 950508,
+      "person": {
+        "id": 592858,
+        "fullName": "Rowan Wick",
+        "link": "/api/v1/people/592858",
+        "nameSlug": "rowan-wick-592858"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "San Francisco Giants designated RHP Rowan Wick for assignment."
     },
     {
       "id": 950606,
@@ -364518,12 +364598,32 @@
       "description": "Tampa Bay Rays signed free agent RHP Eric Vasquez to a minor league contract."
     },
     {
-      "id": 950560,
+      "id": 950510,
       "person": {
-        "id": 678576,
-        "fullName": "Wilkin Ramos",
-        "link": "/api/v1/people/678576",
-        "nameSlug": "wilkin-ramos-678576"
+        "id": 691008,
+        "fullName": "Max Rajcic",
+        "link": "/api/v1/people/691008",
+        "nameSlug": "max-rajcic-691008"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "St. Louis Cardinals designated RHP Max Rajcic for assignment."
+    },
+    {
+      "id": 950554,
+      "person": {
+        "id": 681432,
+        "fullName": "Luke Little",
+        "link": "/api/v1/people/681432",
+        "nameSlug": "luke-little-681432"
       },
       "toTeam": {
         "id": 133,
@@ -364535,7 +364635,27 @@
       "resolutionDate": "2026-11-17",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Athletics signed free agent RHP Wilkin Ramos to a minor league contract."
+      "description": "Athletics signed free agent LHP Luke Little to a minor league contract."
+    },
+    {
+      "id": 950557,
+      "person": {
+        "id": 694885,
+        "fullName": "Ryan Murphy",
+        "link": "/api/v1/people/694885",
+        "nameSlug": "ryan-murphy-694885"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Athletics signed free agent RHP Ryan Murphy to a minor league contract."
     },
     {
       "id": 950589,
@@ -364598,26 +364718,6 @@
       "description": "Tampa Bay Rays signed free agent RHP Levi Stoudt to a minor league contract."
     },
     {
-      "id": 950657,
-      "person": {
-        "id": 666768,
-        "fullName": "Anderson Pilar",
-        "link": "/api/v1/people/666768",
-        "nameSlug": "anderson-pilar-666768"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Detroit Tigers signed free agent RHP Anderson Pilar to a minor league contract."
-    },
-    {
       "id": 950864,
       "person": {
         "id": 659381,
@@ -364638,24 +364738,24 @@
       "description": "New York Mets signed free agent LHP Justin King to a minor league contract."
     },
     {
-      "id": 950868,
+      "id": 950875,
       "person": {
-        "id": 682645,
-        "fullName": "Jerming Rosario",
-        "link": "/api/v1/people/682645",
-        "nameSlug": "jerming-rosario-682645"
+        "id": 678789,
+        "fullName": "Julio Robaina",
+        "link": "/api/v1/people/678789",
+        "nameSlug": "julio-robaina-678789"
       },
       "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
       "resolutionDate": "2026-11-17",
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent RHP Jerming Rosario to a minor league contract."
+      "description": "Tampa Bay Rays signed free agent LHP Julio Robaina to a minor league contract."
     },
     {
       "id": 950873,
@@ -364696,26 +364796,6 @@
       "typeCode": "SFA",
       "typeDesc": "Signed as Free Agent",
       "description": "Houston Astros signed free agent LHP Bryan Magdaleno to a minor league contract."
-    },
-    {
-      "id": 950400,
-      "person": {
-        "id": 697811,
-        "fullName": "Dylan Ross",
-        "link": "/api/v1/people/697811",
-        "nameSlug": "dylan-ross-697811"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "New York Mets designated RHP Dylan Ross for assignment."
     },
     {
       "id": 950408,
@@ -364898,24 +364978,24 @@
       "description": "Los Angeles Dodgers designated RHP Jake Cousins for assignment."
     },
     {
-      "id": 950351,
+      "id": 950321,
       "person": {
-        "id": 694820,
-        "fullName": "Braxton Roxby",
-        "link": "/api/v1/people/694820",
-        "nameSlug": "braxton-roxby-694820"
+        "id": 677956,
+        "fullName": "Rece Hinds",
+        "link": "/api/v1/people/677956",
+        "nameSlug": "rece-hinds-677956"
       },
       "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
       "resolutionDate": "2026-11-17",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Washington Nationals designated RHP Braxton Roxby for assignment."
+      "typeCode": "REL",
+      "typeDesc": "Released",
+      "description": "Baltimore Orioles released RF Rece Hinds."
     },
     {
       "id": 950352,
@@ -364978,12 +365058,32 @@
       "description": "Minnesota Twins signed free agent C Ryan Jeffers."
     },
     {
-      "id": 950350,
+      "id": 950400,
       "person": {
-        "id": 680686,
-        "fullName": "Josiah Gray",
-        "link": "/api/v1/people/680686",
-        "nameSlug": "josiah-gray-680686"
+        "id": 697811,
+        "fullName": "Dylan Ross",
+        "link": "/api/v1/people/697811",
+        "nameSlug": "dylan-ross-697811"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "DES",
+      "typeDesc": "Designated for Assignment",
+      "description": "New York Mets designated RHP Dylan Ross for assignment."
+    },
+    {
+      "id": 950351,
+      "person": {
+        "id": 694820,
+        "fullName": "Braxton Roxby",
+        "link": "/api/v1/people/694820",
+        "nameSlug": "braxton-roxby-694820"
       },
       "toTeam": {
         "id": 120,
@@ -364995,307 +365095,7 @@
       "resolutionDate": "2026-11-17",
       "typeCode": "DES",
       "typeDesc": "Designated for Assignment",
-      "description": "Washington Nationals designated RHP Josiah Gray for assignment."
-    },
-    {
-      "id": 950370,
-      "person": {
-        "id": 663698,
-        "fullName": "Joey Bart",
-        "link": "/api/v1/people/663698",
-        "nameSlug": "joey-bart-663698"
-      },
-      "toTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "Chicago White Sox designated C Joey Bart for assignment."
-    },
-    {
-      "id": 950596,
-      "person": {
-        "id": 670276,
-        "fullName": "Cal Stevenson",
-        "link": "/api/v1/people/670276",
-        "nameSlug": "cal-stevenson-670276"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "San Diego Padres signed free agent OF Cal Stevenson to a minor league contract."
-    },
-    {
-      "id": 950594,
-      "person": {
-        "id": 668820,
-        "fullName": "Max Kranick",
-        "link": "/api/v1/people/668820",
-        "nameSlug": "max-kranick-668820"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Philadelphia Phillies signed free agent RHP Max Kranick to a minor league contract."
-    },
-    {
-      "id": 950602,
-      "person": {
-        "id": 702300,
-        "fullName": "Johnathan Lavallee",
-        "link": "/api/v1/people/702300",
-        "nameSlug": "johnathan-lavallee-702300"
-      },
-      "toTeam": {
-        "id": 136,
-        "name": "Seattle Mariners",
-        "link": "/api/v1/teams/136"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Seattle Mariners signed free agent RHP Johnathan Lavallee to a minor league contract."
-    },
-    {
-      "id": 950509,
-      "person": {
-        "id": 683766,
-        "fullName": "Christian Koss",
-        "link": "/api/v1/people/683766",
-        "nameSlug": "christian-koss-683766"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "San Francisco Giants designated SS Christian Koss for assignment."
-    },
-    {
-      "id": 950510,
-      "person": {
-        "id": 691008,
-        "fullName": "Max Rajcic",
-        "link": "/api/v1/people/691008",
-        "nameSlug": "max-rajcic-691008"
-      },
-      "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "DES",
-      "typeDesc": "Designated for Assignment",
-      "description": "St. Louis Cardinals designated RHP Max Rajcic for assignment."
-    },
-    {
-      "id": 950554,
-      "person": {
-        "id": 681432,
-        "fullName": "Luke Little",
-        "link": "/api/v1/people/681432",
-        "nameSlug": "luke-little-681432"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Athletics signed free agent LHP Luke Little to a minor league contract."
-    },
-    {
-      "id": 950579,
-      "person": {
-        "id": 592826,
-        "fullName": "Vince Velasquez",
-        "link": "/api/v1/people/592826",
-        "nameSlug": "vince-velasquez-592826"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Kansas City Royals signed free agent RHP Vince Velasquez to a minor league contract."
-    },
-    {
-      "id": 950586,
-      "person": {
-        "id": 691621,
-        "fullName": "Jheremy Vargas",
-        "link": "/api/v1/people/691621",
-        "nameSlug": "jheremy-vargas-691621"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Milwaukee Brewers signed free agent 3B Jheremy Vargas to a minor league contract."
-    },
-    {
-      "id": 950557,
-      "person": {
-        "id": 694885,
-        "fullName": "Ryan Murphy",
-        "link": "/api/v1/people/694885",
-        "nameSlug": "ryan-murphy-694885"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Athletics signed free agent RHP Ryan Murphy to a minor league contract."
-    },
-    {
-      "id": 950598,
-      "person": {
-        "id": 676785,
-        "fullName": "Bryce Conley",
-        "link": "/api/v1/people/676785",
-        "nameSlug": "bryce-conley-676785"
-      },
-      "toTeam": {
-        "id": 136,
-        "name": "Seattle Mariners",
-        "link": "/api/v1/teams/136"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Seattle Mariners signed free agent RHP Bryce Conley to a minor league contract."
-    },
-    {
-      "id": 950875,
-      "person": {
-        "id": 678789,
-        "fullName": "Julio Robaina",
-        "link": "/api/v1/people/678789",
-        "nameSlug": "julio-robaina-678789"
-      },
-      "toTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "link": "/api/v1/teams/139"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Tampa Bay Rays signed free agent LHP Julio Robaina to a minor league contract."
-    },
-    {
-      "id": 950862,
-      "person": {
-        "id": 687190,
-        "fullName": "Adam Leverett",
-        "link": "/api/v1/people/687190",
-        "nameSlug": "adam-leverett-687190"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Miami Marlins signed free agent RHP Adam Leverett to a minor league contract."
-    },
-    {
-      "id": 950321,
-      "person": {
-        "id": 677956,
-        "fullName": "Rece Hinds",
-        "link": "/api/v1/people/677956",
-        "nameSlug": "rece-hinds-677956"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "REL",
-      "typeDesc": "Released",
-      "description": "Baltimore Orioles released RF Rece Hinds."
-    },
-    {
-      "id": 950346,
-      "person": {
-        "id": 641343,
-        "fullName": "Jake Bauers",
-        "link": "/api/v1/people/641343",
-        "nameSlug": "jake-bauers-641343"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "resolutionDate": "2026-11-17",
-      "typeCode": "SFA",
-      "typeDesc": "Signed as Free Agent",
-      "description": "Boston Red Sox signed free agent 1B Jake Bauers."
+      "description": "Washington Nationals designated RHP Braxton Roxby for assignment."
     },
     {
       "id": 950347,
@@ -365358,12 +365158,72 @@
       "description": "Detroit Tigers signed free agent RHP Emilio Pagán."
     },
     {
-      "id": 950508,
+      "id": 950594,
       "person": {
-        "id": 592858,
-        "fullName": "Rowan Wick",
-        "link": "/api/v1/people/592858",
-        "nameSlug": "rowan-wick-592858"
+        "id": 668820,
+        "fullName": "Max Kranick",
+        "link": "/api/v1/people/668820",
+        "nameSlug": "max-kranick-668820"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent RHP Max Kranick to a minor league contract."
+    },
+    {
+      "id": 950602,
+      "person": {
+        "id": 702300,
+        "fullName": "Johnathan Lavallee",
+        "link": "/api/v1/people/702300",
+        "nameSlug": "johnathan-lavallee-702300"
+      },
+      "toTeam": {
+        "id": 136,
+        "name": "Seattle Mariners",
+        "link": "/api/v1/teams/136"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Seattle Mariners signed free agent RHP Johnathan Lavallee to a minor league contract."
+    },
+    {
+      "id": 950599,
+      "person": {
+        "id": 676785,
+        "fullName": "Bryce Conley",
+        "link": "/api/v1/people/676785",
+        "nameSlug": "bryce-conley-676785"
+      },
+      "toTeam": {
+        "id": 136,
+        "name": "Seattle Mariners",
+        "link": "/api/v1/teams/136"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Seattle Mariners signed free agent RHP Bryce Conley to a minor league contract."
+    },
+    {
+      "id": 950509,
+      "person": {
+        "id": 683766,
+        "fullName": "Christian Koss",
+        "link": "/api/v1/people/683766",
+        "nameSlug": "christian-koss-683766"
       },
       "toTeam": {
         "id": 137,
@@ -365375,92 +365235,35 @@
       "resolutionDate": "2026-11-17",
       "typeCode": "DES",
       "typeDesc": "Designated for Assignment",
-      "description": "San Francisco Giants designated RHP Rowan Wick for assignment."
+      "description": "San Francisco Giants designated SS Christian Koss for assignment."
     },
     {
-      "id": 950356,
+      "id": 950560,
       "person": {
-        "id": 691730,
-        "fullName": "Alejandro Rosario",
-        "link": "/api/v1/people/691730",
-        "nameSlug": "alejandro-rosario-691730"
-      },
-      "fromTeam": {
-        "id": 547,
-        "name": "Harrisburg Senators",
-        "link": "/api/v1/teams/547"
+        "id": 678576,
+        "fullName": "Wilkin Ramos",
+        "link": "/api/v1/people/678576",
+        "nameSlug": "wilkin-ramos-678576"
       },
       "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Washington Nationals selected the contract of RHP Alejandro Rosario from Harrisburg Senators."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Athletics signed free agent RHP Wilkin Ramos to a minor league contract."
     },
     {
-      "id": 950409,
+      "id": 950579,
       "person": {
-        "id": 694805,
-        "fullName": "Kyle Carr",
-        "link": "/api/v1/people/694805",
-        "nameSlug": "kyle-carr-694805"
-      },
-      "fromTeam": {
-        "id": 531,
-        "name": "Scranton/Wilkes-Barre Highlanders",
-        "link": "/api/v1/teams/531"
-      },
-      "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "New York Yankees selected the contract of LHP Kyle Carr from Scranton/Wilkes-Barre Highlanders."
-    },
-    {
-      "id": 950357,
-      "person": {
-        "id": 801442,
-        "fullName": "Jack Pineda",
-        "link": "/api/v1/people/801442",
-        "nameSlug": "jack-pineda-801442"
-      },
-      "fromTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Boston Red Sox traded RHP Angel Bastardo to Kansas City Royals for SS Jack Pineda."
-    },
-    {
-      "id": 950357,
-      "person": {
-        "id": 682785,
-        "fullName": "Angel Bastardo",
-        "link": "/api/v1/people/682785",
-        "nameSlug": "angel-bastardo-682785"
-      },
-      "fromTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
+        "id": 592826,
+        "fullName": "Vince Velasquez",
+        "link": "/api/v1/people/592826",
+        "nameSlug": "vince-velasquez-592826"
       },
       "toTeam": {
         "id": 118,
@@ -365469,142 +365272,78 @@
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Boston Red Sox traded RHP Angel Bastardo to Kansas City Royals for SS Jack Pineda."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Kansas City Royals signed free agent RHP Vince Velasquez to a minor league contract."
     },
     {
-      "id": 950410,
+      "id": 950586,
       "person": {
-        "id": 801739,
-        "fullName": "Carlos Lagrange",
-        "link": "/api/v1/people/801739",
-        "nameSlug": "carlos-lagrange-801739"
-      },
-      "fromTeam": {
-        "id": 531,
-        "name": "Scranton/Wilkes-Barre Highlanders",
-        "link": "/api/v1/teams/531"
+        "id": 691621,
+        "fullName": "Jheremy Vargas",
+        "link": "/api/v1/people/691621",
+        "nameSlug": "jheremy-vargas-691621"
       },
       "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "New York Yankees selected the contract of RHP Carlos Lagrange from Scranton/Wilkes-Barre Highlanders."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Milwaukee Brewers signed free agent 3B Jheremy Vargas to a minor league contract."
     },
     {
-      "id": 950411,
+      "id": 950598,
       "person": {
-        "id": 682003,
-        "fullName": "Garrett Martin",
-        "link": "/api/v1/people/682003",
-        "nameSlug": "garrett-martin-682003"
-      },
-      "fromTeam": {
-        "id": 531,
-        "name": "Scranton/Wilkes-Barre Highlanders",
-        "link": "/api/v1/teams/531"
+        "id": 676785,
+        "fullName": "Bryce Conley",
+        "link": "/api/v1/people/676785",
+        "nameSlug": "bryce-conley-676785"
       },
       "toTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "link": "/api/v1/teams/147"
+        "id": 136,
+        "name": "Seattle Mariners",
+        "link": "/api/v1/teams/136"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "New York Yankees selected the contract of RF Garrett Martin from Scranton/Wilkes-Barre Highlanders."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Seattle Mariners signed free agent RHP Bryce Conley to a minor league contract."
     },
     {
-      "id": 950412,
+      "id": 950657,
       "person": {
-        "id": 806413,
-        "fullName": "Daniel Guerra",
-        "link": "/api/v1/people/806413",
-        "nameSlug": "daniel-guerra-806413"
-      },
-      "fromTeam": {
-        "id": 422,
-        "name": "Buffalo Bisons",
-        "link": "/api/v1/teams/422"
+        "id": 666768,
+        "fullName": "Anderson Pilar",
+        "link": "/api/v1/people/666768",
+        "nameSlug": "anderson-pilar-666768"
       },
       "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Toronto Blue Jays selected the contract of RHP Daniel Guerra from Buffalo Bisons."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Detroit Tigers signed free agent RHP Anderson Pilar to a minor league contract."
     },
     {
-      "id": 950368,
+      "id": 950868,
       "person": {
-        "id": 681439,
-        "fullName": "Zach Morgan",
-        "link": "/api/v1/people/681439",
-        "nameSlug": "zach-morgan-681439"
-      },
-      "fromTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "toTeam": {
-        "id": 568,
-        "name": "Norfolk Tides",
-        "link": "/api/v1/teams/568"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "OUT",
-      "typeDesc": "Outrighted",
-      "description": "Baltimore Orioles sent C Zach Morgan outright to Norfolk Tides."
-    },
-    {
-      "id": 950372,
-      "person": {
-        "id": 692243,
-        "fullName": "Jaden Woods",
-        "link": "/api/v1/people/692243",
-        "nameSlug": "jaden-woods-692243"
-      },
-      "fromTeam": {
-        "id": 494,
-        "name": "Charlotte Knights",
-        "link": "/api/v1/teams/494"
-      },
-      "toTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Chicago White Sox selected the contract of LHP Jaden Woods from Charlotte Knights."
-    },
-    {
-      "id": 950373,
-      "person": {
-        "id": 804858,
-        "fullName": "Bryan Rincon",
-        "link": "/api/v1/people/804858",
-        "nameSlug": "bryan-rincon-804858"
-      },
-      "fromTeam": {
-        "id": 522,
-        "name": "Reading Fightin Phils",
-        "link": "/api/v1/teams/522"
+        "id": 682645,
+        "fullName": "Jerming Rosario",
+        "link": "/api/v1/people/682645",
+        "nameSlug": "jerming-rosario-682645"
       },
       "toTeam": {
         "id": 143,
@@ -365613,129 +365352,30 @@
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Philadelphia Phillies selected the contract of SS Bryan Rincon from Reading Fightin Phils."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Philadelphia Phillies signed free agent RHP Jerming Rosario to a minor league contract."
     },
     {
-      "id": 950413,
+      "id": 950862,
       "person": {
-        "id": 804526,
-        "fullName": "Nolan Perry",
-        "link": "/api/v1/people/804526",
-        "nameSlug": "nolan-perry-804526"
-      },
-      "fromTeam": {
-        "id": 463,
-        "name": "New Hampshire Fisher Cats",
-        "link": "/api/v1/teams/463"
+        "id": 687190,
+        "fullName": "Adam Leverett",
+        "link": "/api/v1/people/687190",
+        "nameSlug": "adam-leverett-687190"
       },
       "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Toronto Blue Jays selected the contract of RHP Nolan Perry from New Hampshire Fisher Cats."
-    },
-    {
-      "id": 950414,
-      "person": {
-        "id": 702302,
-        "fullName": "RJ Schreck",
-        "link": "/api/v1/people/702302",
-        "nameSlug": "rj-schreck-702302"
-      },
-      "fromTeam": {
-        "id": 422,
-        "name": "Buffalo Bisons",
-        "link": "/api/v1/teams/422"
-      },
-      "toTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "link": "/api/v1/teams/141"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Toronto Blue Jays selected the contract of LF RJ Schreck from Buffalo Bisons."
-    },
-    {
-      "id": 950378,
-      "person": {
-        "id": 811287,
-        "fullName": "Carson Roccaforte",
-        "link": "/api/v1/people/811287",
-        "nameSlug": "carson-roccaforte-811287"
-      },
-      "fromTeam": {
-        "id": 541,
-        "name": "Omaha Storm Chasers",
-        "link": "/api/v1/teams/541"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Kansas City Royals selected the contract of CF Carson Roccaforte from Omaha Storm Chasers."
-    },
-    {
-      "id": 950379,
-      "person": {
-        "id": 814351,
-        "fullName": "Lucas Braun",
-        "link": "/api/v1/people/814351",
-        "nameSlug": "lucas-braun-814351"
-      },
-      "fromTeam": {
-        "id": 541,
-        "name": "Omaha Storm Chasers",
-        "link": "/api/v1/teams/541"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Kansas City Royals selected the contract of RHP Lucas Braun from Omaha Storm Chasers."
-    },
-    {
-      "id": 950415,
-      "person": {
-        "id": 702693,
-        "fullName": "Jaison Chourio",
-        "link": "/api/v1/people/702693",
-        "nameSlug": "jaison-chourio-702693"
-      },
-      "fromTeam": {
-        "id": 402,
-        "name": "Akron RubberDucks",
-        "link": "/api/v1/teams/402"
-      },
-      "toTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "link": "/api/v1/teams/114"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Cleveland Guardians selected the contract of CF Jaison Chourio from Akron RubberDucks."
+      "resolutionDate": "2026-11-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Miami Marlins signed free agent RHP Adam Leverett to a minor league contract."
     },
     {
       "id": 950365,
@@ -365786,12 +365426,180 @@
       "description": "New York Yankees claimed RHP Chase Hampton off waivers from Baltimore Orioles."
     },
     {
-      "id": 950371,
+      "id": 950502,
       "person": {
-        "id": 703151,
-        "fullName": "William Bergolla Jr.",
-        "link": "/api/v1/people/703151",
-        "nameSlug": "william-bergolla-jr-703151"
+        "id": 804249,
+        "fullName": "Tate Kuehner",
+        "link": "/api/v1/people/804249",
+        "nameSlug": "tate-kuehner-804249"
+      },
+      "fromTeam": {
+        "id": 556,
+        "name": "Nashville Sounds",
+        "link": "/api/v1/teams/556"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Milwaukee Brewers selected the contract of LHP Tate Kuehner from Nashville Sounds."
+    },
+    {
+      "id": 950357,
+      "person": {
+        "id": 801442,
+        "fullName": "Jack Pineda",
+        "link": "/api/v1/people/801442",
+        "nameSlug": "jack-pineda-801442"
+      },
+      "fromTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Boston Red Sox traded RHP Angel Bastardo to Kansas City Royals for SS Jack Pineda."
+    },
+    {
+      "id": 950357,
+      "person": {
+        "id": 682785,
+        "fullName": "Angel Bastardo",
+        "link": "/api/v1/people/682785",
+        "nameSlug": "angel-bastardo-682785"
+      },
+      "fromTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Boston Red Sox traded RHP Angel Bastardo to Kansas City Royals for SS Jack Pineda."
+    },
+    {
+      "id": 950506,
+      "person": {
+        "id": 700248,
+        "fullName": "Marty Gair",
+        "link": "/api/v1/people/700248",
+        "nameSlug": "marty-gair-700248"
+      },
+      "fromTeam": {
+        "id": 3410,
+        "name": "Richmond Flying Squirrels",
+        "link": "/api/v1/teams/3410"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "San Francisco Giants selected the contract of RHP Marty Gair from Richmond Flying Squirrels."
+    },
+    {
+      "id": 950413,
+      "person": {
+        "id": 804526,
+        "fullName": "Nolan Perry",
+        "link": "/api/v1/people/804526",
+        "nameSlug": "nolan-perry-804526"
+      },
+      "fromTeam": {
+        "id": 463,
+        "name": "New Hampshire Fisher Cats",
+        "link": "/api/v1/teams/463"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Toronto Blue Jays selected the contract of RHP Nolan Perry from New Hampshire Fisher Cats."
+    },
+    {
+      "id": 950414,
+      "person": {
+        "id": 702302,
+        "fullName": "RJ Schreck",
+        "link": "/api/v1/people/702302",
+        "nameSlug": "rj-schreck-702302"
+      },
+      "fromTeam": {
+        "id": 422,
+        "name": "Buffalo Bisons",
+        "link": "/api/v1/teams/422"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Toronto Blue Jays selected the contract of LF RJ Schreck from Buffalo Bisons."
+    },
+    {
+      "id": 950415,
+      "person": {
+        "id": 702693,
+        "fullName": "Jaison Chourio",
+        "link": "/api/v1/people/702693",
+        "nameSlug": "jaison-chourio-702693"
+      },
+      "fromTeam": {
+        "id": 402,
+        "name": "Akron RubberDucks",
+        "link": "/api/v1/teams/402"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Cleveland Guardians selected the contract of CF Jaison Chourio from Akron RubberDucks."
+    },
+    {
+      "id": 950372,
+      "person": {
+        "id": 692243,
+        "fullName": "Jaden Woods",
+        "link": "/api/v1/people/692243",
+        "nameSlug": "jaden-woods-692243"
       },
       "fromTeam": {
         "id": 494,
@@ -365807,7 +365615,31 @@
       "effectiveDate": "2026-11-17",
       "typeCode": "SE",
       "typeDesc": "Selected",
-      "description": "Chicago White Sox selected the contract of 2B William Bergolla Jr. from Charlotte Knights."
+      "description": "Chicago White Sox selected the contract of LHP Jaden Woods from Charlotte Knights."
+    },
+    {
+      "id": 950373,
+      "person": {
+        "id": 804858,
+        "fullName": "Bryan Rincon",
+        "link": "/api/v1/people/804858",
+        "nameSlug": "bryan-rincon-804858"
+      },
+      "fromTeam": {
+        "id": 522,
+        "name": "Reading Fightin Phils",
+        "link": "/api/v1/teams/522"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Philadelphia Phillies selected the contract of SS Bryan Rincon from Reading Fightin Phils."
     },
     {
       "id": 950416,
@@ -365856,6 +365688,54 @@
       "typeCode": "SE",
       "typeDesc": "Selected",
       "description": "Cleveland Guardians selected the contract of C Kody Huff from Columbus Clippers."
+    },
+    {
+      "id": 950378,
+      "person": {
+        "id": 811287,
+        "fullName": "Carson Roccaforte",
+        "link": "/api/v1/people/811287",
+        "nameSlug": "carson-roccaforte-811287"
+      },
+      "fromTeam": {
+        "id": 541,
+        "name": "Omaha Storm Chasers",
+        "link": "/api/v1/teams/541"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Kansas City Royals selected the contract of CF Carson Roccaforte from Omaha Storm Chasers."
+    },
+    {
+      "id": 950379,
+      "person": {
+        "id": 814351,
+        "fullName": "Lucas Braun",
+        "link": "/api/v1/people/814351",
+        "nameSlug": "lucas-braun-814351"
+      },
+      "fromTeam": {
+        "id": 541,
+        "name": "Omaha Storm Chasers",
+        "link": "/api/v1/teams/541"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Kansas City Royals selected the contract of RHP Lucas Braun from Omaha Storm Chasers."
     },
     {
       "id": 950420,
@@ -365930,6 +365810,438 @@
       "description": "Colorado Rockies selected the contract of RHP Jack Mahoney from Albuquerque Isotopes."
     },
     {
+      "id": 950423,
+      "person": {
+        "id": 702484,
+        "fullName": "Jackson Cox",
+        "link": "/api/v1/people/702484",
+        "nameSlug": "jackson-cox-702484"
+      },
+      "fromTeam": {
+        "id": 538,
+        "name": "Hartford Yard Goats",
+        "link": "/api/v1/teams/538"
+      },
+      "toTeam": {
+        "id": 115,
+        "name": "Colorado Rockies",
+        "link": "/api/v1/teams/115"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Colorado Rockies selected the contract of RHP Jackson Cox from Hartford Yard Goats."
+    },
+    {
+      "id": 950471,
+      "person": {
+        "id": 703445,
+        "fullName": "Adam Serwinowski",
+        "link": "/api/v1/people/703445",
+        "nameSlug": "adam-serwinowski-703445"
+      },
+      "fromTeam": {
+        "id": 260,
+        "name": "Tulsa Drillers",
+        "link": "/api/v1/teams/260"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Los Angeles Dodgers selected the contract of LHP Adam Serwinowski from Tulsa Drillers."
+    },
+    {
+      "id": 950472,
+      "person": {
+        "id": 803183,
+        "fullName": "Luke Fox",
+        "link": "/api/v1/people/803183",
+        "nameSlug": "luke-fox-803183"
+      },
+      "fromTeam": {
+        "id": 260,
+        "name": "Tulsa Drillers",
+        "link": "/api/v1/teams/260"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Los Angeles Dodgers selected the contract of LHP Luke Fox from Tulsa Drillers."
+    },
+    {
+      "id": 950473,
+      "person": {
+        "id": 800406,
+        "fullName": "Aron Estrada",
+        "link": "/api/v1/people/800406",
+        "nameSlug": "aron-estrada-800406"
+      },
+      "fromTeam": {
+        "id": 568,
+        "name": "Norfolk Tides",
+        "link": "/api/v1/teams/568"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Baltimore Orioles selected the contract of 2B Aron Estrada from Norfolk Tides."
+    },
+    {
+      "id": 950553,
+      "person": {
+        "id": 802506,
+        "fullName": "Dylan O'Rae",
+        "link": "/api/v1/people/802506",
+        "nameSlug": "dylan-o-rae-802506"
+      },
+      "fromTeam": {
+        "id": 5015,
+        "name": "Biloxi Shuckers",
+        "link": "/api/v1/teams/5015"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Milwaukee Brewers selected the contract of 2B Dylan O'Rae from Biloxi Shuckers."
+    },
+    {
+      "id": 950474,
+      "person": {
+        "id": 702650,
+        "fullName": "Michael Forret",
+        "link": "/api/v1/people/702650",
+        "nameSlug": "michael-forret-702650"
+      },
+      "fromTeam": {
+        "id": 568,
+        "name": "Norfolk Tides",
+        "link": "/api/v1/teams/568"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Baltimore Orioles selected the contract of RHP Michael Forret from Norfolk Tides."
+    },
+    {
+      "id": 950428,
+      "person": {
+        "id": 689931,
+        "fullName": "Peyton Graham",
+        "link": "/api/v1/people/689931",
+        "nameSlug": "peyton-graham-689931"
+      },
+      "fromTeam": {
+        "id": 106,
+        "name": "Erie SeaWolves",
+        "link": "/api/v1/teams/106"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Detroit Tigers selected the contract of SS Peyton Graham from Erie SeaWolves."
+    },
+    {
+      "id": 950429,
+      "person": {
+        "id": 801194,
+        "fullName": "Max Anderson",
+        "link": "/api/v1/people/801194",
+        "nameSlug": "max-anderson-801194"
+      },
+      "fromTeam": {
+        "id": 512,
+        "name": "Toledo Mud Hens",
+        "link": "/api/v1/teams/512"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Detroit Tigers selected the contract of 2B Max Anderson from Toledo Mud Hens."
+    },
+    {
+      "id": 950430,
+      "person": {
+        "id": 800522,
+        "fullName": "Josue Briceño",
+        "link": "/api/v1/people/800522",
+        "nameSlug": "josue-briceno-800522"
+      },
+      "fromTeam": {
+        "id": 512,
+        "name": "Toledo Mud Hens",
+        "link": "/api/v1/teams/512"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Detroit Tigers selected the contract of C Josue Briceño from Toledo Mud Hens."
+    },
+    {
+      "id": 950459,
+      "person": {
+        "id": 813833,
+        "fullName": "Cole Conn",
+        "link": "/api/v1/people/813833",
+        "nameSlug": "cole-conn-813833"
+      },
+      "fromTeam": {
+        "id": 400,
+        "name": "Las Vegas Aviators",
+        "link": "/api/v1/teams/400"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Athletics selected the contract of C Cole Conn from Las Vegas Aviators."
+    },
+    {
+      "id": 950475,
+      "person": {
+        "id": 815148,
+        "fullName": "Nestor German",
+        "link": "/api/v1/people/815148",
+        "nameSlug": "nestor-german-815148"
+      },
+      "fromTeam": {
+        "id": 568,
+        "name": "Norfolk Tides",
+        "link": "/api/v1/teams/568"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Baltimore Orioles selected the contract of RHP Nestor German from Norfolk Tides."
+    },
+    {
+      "id": 950476,
+      "person": {
+        "id": 694370,
+        "fullName": "Levi Wells",
+        "link": "/api/v1/people/694370",
+        "nameSlug": "levi-wells-694370"
+      },
+      "fromTeam": {
+        "id": 568,
+        "name": "Norfolk Tides",
+        "link": "/api/v1/teams/568"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Baltimore Orioles selected the contract of RHP Levi Wells from Norfolk Tides."
+    },
+    {
+      "id": 950401,
+      "person": {
+        "id": 800473,
+        "fullName": "Jefferson Rojas",
+        "link": "/api/v1/people/800473",
+        "nameSlug": "jefferson-rojas-800473"
+      },
+      "fromTeam": {
+        "id": 552,
+        "name": "Syracuse Mets",
+        "link": "/api/v1/teams/552"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "New York Mets selected the contract of SS Jefferson Rojas from Syracuse Mets."
+    },
+    {
+      "id": 950463,
+      "person": {
+        "id": 700072,
+        "fullName": "Yaqui Rivera",
+        "link": "/api/v1/people/700072",
+        "nameSlug": "yaqui-rivera-700072"
+      },
+      "fromTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Baltimore Orioles traded RHP Yaqui Rivera to Athletics for RHP Josiah Romeo."
+    },
+    {
+      "id": 950356,
+      "person": {
+        "id": 691730,
+        "fullName": "Alejandro Rosario",
+        "link": "/api/v1/people/691730",
+        "nameSlug": "alejandro-rosario-691730"
+      },
+      "fromTeam": {
+        "id": 547,
+        "name": "Harrisburg Senators",
+        "link": "/api/v1/teams/547"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Washington Nationals selected the contract of RHP Alejandro Rosario from Harrisburg Senators."
+    },
+    {
+      "id": 950371,
+      "person": {
+        "id": 703151,
+        "fullName": "William Bergolla Jr.",
+        "link": "/api/v1/people/703151",
+        "nameSlug": "william-bergolla-jr-703151"
+      },
+      "fromTeam": {
+        "id": 494,
+        "name": "Charlotte Knights",
+        "link": "/api/v1/teams/494"
+      },
+      "toTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Chicago White Sox selected the contract of 2B William Bergolla Jr. from Charlotte Knights."
+    },
+    {
+      "id": 950463,
+      "person": {
+        "id": 812559,
+        "fullName": "Josiah Romeo",
+        "link": "/api/v1/people/812559",
+        "nameSlug": "josiah-romeo-812559"
+      },
+      "fromTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Baltimore Orioles traded RHP Yaqui Rivera to Athletics for RHP Josiah Romeo."
+    },
+    {
+      "id": 950368,
+      "person": {
+        "id": 681439,
+        "fullName": "Zach Morgan",
+        "link": "/api/v1/people/681439",
+        "nameSlug": "zach-morgan-681439"
+      },
+      "fromTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "toTeam": {
+        "id": 568,
+        "name": "Norfolk Tides",
+        "link": "/api/v1/teams/568"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Baltimore Orioles sent C Zach Morgan outright to Norfolk Tides."
+    },
+    {
       "id": 950344,
       "person": {
         "id": 691769,
@@ -366002,54 +366314,6 @@
       "description": "Boston Red Sox traded LHP Raymond Burgos to Athletics for RHP Kenya Huggins."
     },
     {
-      "id": 950423,
-      "person": {
-        "id": 702484,
-        "fullName": "Jackson Cox",
-        "link": "/api/v1/people/702484",
-        "nameSlug": "jackson-cox-702484"
-      },
-      "fromTeam": {
-        "id": 538,
-        "name": "Hartford Yard Goats",
-        "link": "/api/v1/teams/538"
-      },
-      "toTeam": {
-        "id": 115,
-        "name": "Colorado Rockies",
-        "link": "/api/v1/teams/115"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Colorado Rockies selected the contract of RHP Jackson Cox from Hartford Yard Goats."
-    },
-    {
-      "id": 950471,
-      "person": {
-        "id": 703445,
-        "fullName": "Adam Serwinowski",
-        "link": "/api/v1/people/703445",
-        "nameSlug": "adam-serwinowski-703445"
-      },
-      "fromTeam": {
-        "id": 260,
-        "name": "Tulsa Drillers",
-        "link": "/api/v1/teams/260"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Los Angeles Dodgers selected the contract of LHP Adam Serwinowski from Tulsa Drillers."
-    },
-    {
       "id": 950367,
       "person": {
         "id": 687985,
@@ -366072,966 +366336,6 @@
       "typeCode": "CLW",
       "typeDesc": "Claimed Off Waivers",
       "description": "Texas Rangers claimed RHP Josh White off waivers from Baltimore Orioles."
-    },
-    {
-      "id": 950354,
-      "person": {
-        "id": 703186,
-        "fullName": "Jarlin Susana",
-        "link": "/api/v1/people/703186",
-        "nameSlug": "jarlin-susana-703186"
-      },
-      "fromTeam": {
-        "id": 534,
-        "name": "Rochester Red Wings",
-        "link": "/api/v1/teams/534"
-      },
-      "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Washington Nationals selected the contract of RHP Jarlin Susana from Rochester Red Wings."
-    },
-    {
-      "id": 950355,
-      "person": {
-        "id": 805809,
-        "fullName": "Travis Sykora",
-        "link": "/api/v1/people/805809",
-        "nameSlug": "travis-sykora-805809"
-      },
-      "fromTeam": {
-        "id": 547,
-        "name": "Harrisburg Senators",
-        "link": "/api/v1/teams/547"
-      },
-      "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Washington Nationals selected the contract of RHP Travis Sykora from Harrisburg Senators."
-    },
-    {
-      "id": 950472,
-      "person": {
-        "id": 803183,
-        "fullName": "Luke Fox",
-        "link": "/api/v1/people/803183",
-        "nameSlug": "luke-fox-803183"
-      },
-      "fromTeam": {
-        "id": 260,
-        "name": "Tulsa Drillers",
-        "link": "/api/v1/teams/260"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Los Angeles Dodgers selected the contract of LHP Luke Fox from Tulsa Drillers."
-    },
-    {
-      "id": 950473,
-      "person": {
-        "id": 800406,
-        "fullName": "Aron Estrada",
-        "link": "/api/v1/people/800406",
-        "nameSlug": "aron-estrada-800406"
-      },
-      "fromTeam": {
-        "id": 568,
-        "name": "Norfolk Tides",
-        "link": "/api/v1/teams/568"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Baltimore Orioles selected the contract of 2B Aron Estrada from Norfolk Tides."
-    },
-    {
-      "id": 950479,
-      "person": {
-        "id": 703185,
-        "fullName": "Nelson Rada",
-        "link": "/api/v1/people/703185",
-        "nameSlug": "nelson-rada-703185"
-      },
-      "fromTeam": {
-        "id": 561,
-        "name": "Salt Lake Bees",
-        "link": "/api/v1/teams/561"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Los Angeles Angels selected the contract of CF Nelson Rada from Salt Lake Bees."
-    },
-    {
-      "id": 950478,
-      "person": {
-        "id": 688867,
-        "fullName": "Braxton Bragg",
-        "link": "/api/v1/people/688867",
-        "nameSlug": "braxton-bragg-688867"
-      },
-      "fromTeam": {
-        "id": 418,
-        "name": "Chesapeake Baysox",
-        "link": "/api/v1/teams/418"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Baltimore Orioles selected the contract of RHP Braxton Bragg from Chesapeake Baysox."
-    },
-    {
-      "id": 950481,
-      "person": {
-        "id": 800060,
-        "fullName": "Xavier Isaac",
-        "link": "/api/v1/people/800060",
-        "nameSlug": "xavier-isaac-800060"
-      },
-      "fromTeam": {
-        "id": 234,
-        "name": "Durham Bulls",
-        "link": "/api/v1/teams/234"
-      },
-      "toTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "link": "/api/v1/teams/139"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Tampa Bay Rays selected the contract of 1B Xavier Isaac from Durham Bulls."
-    },
-    {
-      "id": 950480,
-      "person": {
-        "id": 804558,
-        "fullName": "Raudi Rodriguez",
-        "link": "/api/v1/people/804558",
-        "nameSlug": "raudi-rodriguez-804558"
-      },
-      "fromTeam": {
-        "id": 561,
-        "name": "Salt Lake Bees",
-        "link": "/api/v1/teams/561"
-      },
-      "toTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "link": "/api/v1/teams/108"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Los Angeles Angels selected the contract of CF Raudi Rodriguez from Salt Lake Bees."
-    },
-    {
-      "id": 950487,
-      "person": {
-        "id": 702679,
-        "fullName": "Demetrio Crisantes",
-        "link": "/api/v1/people/702679",
-        "nameSlug": "demetrio-crisantes-702679"
-      },
-      "fromTeam": {
-        "id": 2310,
-        "name": "Reno Aces",
-        "link": "/api/v1/teams/2310"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Arizona Diamondbacks selected the contract of SS Demetrio Crisantes from Reno Aces."
-    },
-    {
-      "id": 950488,
-      "person": {
-        "id": 805175,
-        "fullName": "Davis Polo",
-        "link": "/api/v1/people/805175",
-        "nameSlug": "davis-polo-805175"
-      },
-      "fromTeam": {
-        "id": 431,
-        "name": "Gwinnett Stripers",
-        "link": "/api/v1/teams/431"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Atlanta Braves selected the contract of RHP Davis Polo from Gwinnett Stripers."
-    },
-    {
-      "id": 950489,
-      "person": {
-        "id": 678142,
-        "fullName": "Cedric De Grandpre",
-        "link": "/api/v1/people/678142",
-        "nameSlug": "cedric-de-grandpre-678142"
-      },
-      "fromTeam": {
-        "id": 431,
-        "name": "Gwinnett Stripers",
-        "link": "/api/v1/teams/431"
-      },
-      "toTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "link": "/api/v1/teams/144"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Atlanta Braves selected the contract of RHP Cedric De Grandpre from Gwinnett Stripers."
-    },
-    {
-      "id": 950493,
-      "person": {
-        "id": 801276,
-        "fullName": "Juan Matheus",
-        "link": "/api/v1/people/801276",
-        "nameSlug": "juan-matheus-801276"
-      },
-      "fromTeam": {
-        "id": 564,
-        "name": "Jacksonville Jumbo Shrimp",
-        "link": "/api/v1/teams/564"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Miami Marlins selected the contract of SS Juan Matheus from Jacksonville Jumbo Shrimp."
-    },
-    {
-      "id": 950490,
-      "person": {
-        "id": 805664,
-        "fullName": "Brody McCullough",
-        "link": "/api/v1/people/805664",
-        "nameSlug": "brody-mccullough-805664"
-      },
-      "fromTeam": {
-        "id": 553,
-        "name": "Knoxville Smokies",
-        "link": "/api/v1/teams/553"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Chicago Cubs selected the contract of RHP Brody McCullough from Knoxville Smokies."
-    },
-    {
-      "id": 950492,
-      "person": {
-        "id": 803244,
-        "fullName": "Eliazar Dishmey",
-        "link": "/api/v1/people/803244",
-        "nameSlug": "eliazar-dishmey-803244"
-      },
-      "fromTeam": {
-        "id": 4124,
-        "name": "Pensacola Blue Wahoos",
-        "link": "/api/v1/teams/4124"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Miami Marlins selected the contract of RHP Eliazar Dishmey from Pensacola Blue Wahoos."
-    },
-    {
-      "id": 950482,
-      "person": {
-        "id": 801517,
-        "fullName": "Spencer Giesting",
-        "link": "/api/v1/people/801517",
-        "nameSlug": "spencer-giesting-801517"
-      },
-      "fromTeam": {
-        "id": 2310,
-        "name": "Reno Aces",
-        "link": "/api/v1/teams/2310"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Arizona Diamondbacks selected the contract of LHP Spencer Giesting from Reno Aces."
-    },
-    {
-      "id": 950483,
-      "person": {
-        "id": 802416,
-        "fullName": "Ashton Izzi",
-        "link": "/api/v1/people/802416",
-        "nameSlug": "ashton-izzi-802416"
-      },
-      "fromTeam": {
-        "id": 2310,
-        "name": "Reno Aces",
-        "link": "/api/v1/teams/2310"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Arizona Diamondbacks selected the contract of RHP Ashton Izzi from Reno Aces."
-    },
-    {
-      "id": 950484,
-      "person": {
-        "id": 702258,
-        "fullName": "Druw Jones",
-        "link": "/api/v1/people/702258",
-        "nameSlug": "druw-jones-702258"
-      },
-      "fromTeam": {
-        "id": 5368,
-        "name": "Amarillo Sod Poodles",
-        "link": "/api/v1/teams/5368"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Arizona Diamondbacks selected the contract of CF Druw Jones from Amarillo Sod Poodles."
-    },
-    {
-      "id": 950494,
-      "person": {
-        "id": 689476,
-        "fullName": "Jace Beck",
-        "link": "/api/v1/people/689476",
-        "nameSlug": "jace-beck-689476"
-      },
-      "fromTeam": {
-        "id": 564,
-        "name": "Jacksonville Jumbo Shrimp",
-        "link": "/api/v1/teams/564"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Miami Marlins selected the contract of RHP Jace Beck from Jacksonville Jumbo Shrimp."
-    },
-    {
-      "id": 950498,
-      "person": {
-        "id": 702518,
-        "fullName": "Jett Williams",
-        "link": "/api/v1/people/702518",
-        "nameSlug": "jett-williams-702518"
-      },
-      "fromTeam": {
-        "id": 556,
-        "name": "Nashville Sounds",
-        "link": "/api/v1/teams/556"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Milwaukee Brewers selected the contract of SS Jett Williams from Nashville Sounds."
-    },
-    {
-      "id": 950499,
-      "person": {
-        "id": 702726,
-        "fullName": "Luke Adams",
-        "link": "/api/v1/people/702726",
-        "nameSlug": "luke-adams-702726"
-      },
-      "fromTeam": {
-        "id": 556,
-        "name": "Nashville Sounds",
-        "link": "/api/v1/teams/556"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Milwaukee Brewers selected the contract of 3B Luke Adams from Nashville Sounds."
-    },
-    {
-      "id": 950511,
-      "person": {
-        "id": 800305,
-        "fullName": "Jesús  Báez",
-        "link": "/api/v1/people/800305",
-        "nameSlug": "jesus-baez-800305"
-      },
-      "fromTeam": {
-        "id": 440,
-        "name": "Ozarks Springbirds",
-        "link": "/api/v1/teams/440"
-      },
-      "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "St. Louis Cardinals selected the contract of SS Jesús  Báez from Ozarks Springbirds."
-    },
-    {
-      "id": 950485,
-      "person": {
-        "id": 800198,
-        "fullName": "Cristofer Torin",
-        "link": "/api/v1/people/800198",
-        "nameSlug": "cristofer-torin-800198"
-      },
-      "fromTeam": {
-        "id": 5368,
-        "name": "Amarillo Sod Poodles",
-        "link": "/api/v1/teams/5368"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Arizona Diamondbacks selected the contract of 2B Cristofer Torin from Amarillo Sod Poodles."
-    },
-    {
-      "id": 950474,
-      "person": {
-        "id": 702650,
-        "fullName": "Michael Forret",
-        "link": "/api/v1/people/702650",
-        "nameSlug": "michael-forret-702650"
-      },
-      "fromTeam": {
-        "id": 568,
-        "name": "Norfolk Tides",
-        "link": "/api/v1/teams/568"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Baltimore Orioles selected the contract of RHP Michael Forret from Norfolk Tides."
-    },
-    {
-      "id": 950502,
-      "person": {
-        "id": 804249,
-        "fullName": "Tate Kuehner",
-        "link": "/api/v1/people/804249",
-        "nameSlug": "tate-kuehner-804249"
-      },
-      "fromTeam": {
-        "id": 556,
-        "name": "Nashville Sounds",
-        "link": "/api/v1/teams/556"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Milwaukee Brewers selected the contract of LHP Tate Kuehner from Nashville Sounds."
-    },
-    {
-      "id": 950506,
-      "person": {
-        "id": 700248,
-        "fullName": "Marty Gair",
-        "link": "/api/v1/people/700248",
-        "nameSlug": "marty-gair-700248"
-      },
-      "fromTeam": {
-        "id": 3410,
-        "name": "Richmond Flying Squirrels",
-        "link": "/api/v1/teams/3410"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "San Francisco Giants selected the contract of RHP Marty Gair from Richmond Flying Squirrels."
-    },
-    {
-      "id": 950428,
-      "person": {
-        "id": 689931,
-        "fullName": "Peyton Graham",
-        "link": "/api/v1/people/689931",
-        "nameSlug": "peyton-graham-689931"
-      },
-      "fromTeam": {
-        "id": 106,
-        "name": "Erie SeaWolves",
-        "link": "/api/v1/teams/106"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Detroit Tigers selected the contract of SS Peyton Graham from Erie SeaWolves."
-    },
-    {
-      "id": 950507,
-      "person": {
-        "id": 701241,
-        "fullName": "Josh Bostick",
-        "link": "/api/v1/people/701241",
-        "nameSlug": "josh-bostick-701241"
-      },
-      "fromTeam": {
-        "id": 461,
-        "name": "Eugene Emeralds",
-        "link": "/api/v1/teams/461"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "San Francisco Giants selected the contract of RHP Josh Bostick from Eugene Emeralds."
-    },
-    {
-      "id": 950429,
-      "person": {
-        "id": 801194,
-        "fullName": "Max Anderson",
-        "link": "/api/v1/people/801194",
-        "nameSlug": "max-anderson-801194"
-      },
-      "fromTeam": {
-        "id": 512,
-        "name": "Toledo Mud Hens",
-        "link": "/api/v1/teams/512"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Detroit Tigers selected the contract of 2B Max Anderson from Toledo Mud Hens."
-    },
-    {
-      "id": 950430,
-      "person": {
-        "id": 800522,
-        "fullName": "Josue Briceño",
-        "link": "/api/v1/people/800522",
-        "nameSlug": "josue-briceno-800522"
-      },
-      "fromTeam": {
-        "id": 512,
-        "name": "Toledo Mud Hens",
-        "link": "/api/v1/teams/512"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Detroit Tigers selected the contract of C Josue Briceño from Toledo Mud Hens."
-    },
-    {
-      "id": 950486,
-      "person": {
-        "id": 800286,
-        "fullName": "Wellington Aracena",
-        "link": "/api/v1/people/800286",
-        "nameSlug": "wellington-aracena-800286"
-      },
-      "fromTeam": {
-        "id": 5368,
-        "name": "Amarillo Sod Poodles",
-        "link": "/api/v1/teams/5368"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Arizona Diamondbacks selected the contract of RHP Wellington Aracena from Amarillo Sod Poodles."
-    },
-    {
-      "id": 950505,
-      "person": {
-        "id": 700649,
-        "fullName": "Henry Lalane",
-        "link": "/api/v1/people/700649",
-        "nameSlug": "henry-lalane-700649"
-      },
-      "fromTeam": {
-        "id": 3410,
-        "name": "Richmond Flying Squirrels",
-        "link": "/api/v1/teams/3410"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "San Francisco Giants selected the contract of LHP Henry Lalane from Richmond Flying Squirrels."
-    },
-    {
-      "id": 950495,
-      "person": {
-        "id": 681449,
-        "fullName": "Brandon White",
-        "link": "/api/v1/people/681449",
-        "nameSlug": "brandon-white-681449"
-      },
-      "fromTeam": {
-        "id": 564,
-        "name": "Jacksonville Jumbo Shrimp",
-        "link": "/api/v1/teams/564"
-      },
-      "toTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "link": "/api/v1/teams/146"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Miami Marlins selected the contract of RHP Brandon White from Jacksonville Jumbo Shrimp."
-    },
-    {
-      "id": 950496,
-      "person": {
-        "id": 687783,
-        "fullName": "Matthew Wood",
-        "link": "/api/v1/people/687783",
-        "nameSlug": "matthew-wood-687783"
-      },
-      "fromTeam": {
-        "id": 5015,
-        "name": "Biloxi Shuckers",
-        "link": "/api/v1/teams/5015"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Milwaukee Brewers selected the contract of C Matthew Wood from Biloxi Shuckers."
-    },
-    {
-      "id": 950504,
-      "person": {
-        "id": 814491,
-        "fullName": "Tucker Musgrove",
-        "link": "/api/v1/people/814491",
-        "nameSlug": "tucker-musgrove-814491"
-      },
-      "fromTeam": {
-        "id": 510,
-        "name": "San Antonio Missions",
-        "link": "/api/v1/teams/510"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "San Diego Padres selected the contract of RHP Tucker Musgrove from San Antonio Missions."
-    },
-    {
-      "id": 950459,
-      "person": {
-        "id": 813833,
-        "fullName": "Cole Conn",
-        "link": "/api/v1/people/813833",
-        "nameSlug": "cole-conn-813833"
-      },
-      "fromTeam": {
-        "id": 400,
-        "name": "Las Vegas Aviators",
-        "link": "/api/v1/teams/400"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Athletics selected the contract of C Cole Conn from Las Vegas Aviators."
-    },
-    {
-      "id": 950475,
-      "person": {
-        "id": 815148,
-        "fullName": "Nestor German",
-        "link": "/api/v1/people/815148",
-        "nameSlug": "nestor-german-815148"
-      },
-      "fromTeam": {
-        "id": 568,
-        "name": "Norfolk Tides",
-        "link": "/api/v1/teams/568"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Baltimore Orioles selected the contract of RHP Nestor German from Norfolk Tides."
-    },
-    {
-      "id": 950500,
-      "person": {
-        "id": 687726,
-        "fullName": "Cameron Wagoner",
-        "link": "/api/v1/people/687726",
-        "nameSlug": "cameron-wagoner-687726"
-      },
-      "fromTeam": {
-        "id": 556,
-        "name": "Nashville Sounds",
-        "link": "/api/v1/teams/556"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Milwaukee Brewers selected the contract of RHP Cameron Wagoner from Nashville Sounds."
-    },
-    {
-      "id": 950476,
-      "person": {
-        "id": 694370,
-        "fullName": "Levi Wells",
-        "link": "/api/v1/people/694370",
-        "nameSlug": "levi-wells-694370"
-      },
-      "fromTeam": {
-        "id": 568,
-        "name": "Norfolk Tides",
-        "link": "/api/v1/teams/568"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Baltimore Orioles selected the contract of RHP Levi Wells from Norfolk Tides."
-    },
-    {
-      "id": 950463,
-      "person": {
-        "id": 700072,
-        "fullName": "Yaqui Rivera",
-        "link": "/api/v1/people/700072",
-        "nameSlug": "yaqui-rivera-700072"
-      },
-      "fromTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "toTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Baltimore Orioles traded RHP Yaqui Rivera to Athletics for RHP Josiah Romeo."
-    },
-    {
-      "id": 950463,
-      "person": {
-        "id": 812559,
-        "fullName": "Josiah Romeo",
-        "link": "/api/v1/people/812559",
-        "nameSlug": "josiah-romeo-812559"
-      },
-      "fromTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "link": "/api/v1/teams/133"
-      },
-      "toTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "link": "/api/v1/teams/110"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Baltimore Orioles traded RHP Yaqui Rivera to Athletics for RHP Josiah Romeo."
     },
     {
       "id": 950466,
@@ -367082,124 +366386,28 @@
       "description": "Baltimore Orioles selected the contract of RHP Patrick Reilly from Chesapeake Baysox."
     },
     {
-      "id": 950503,
+      "id": 950478,
       "person": {
-        "id": 701617,
-        "fullName": "Ian Koenig",
-        "link": "/api/v1/people/701617",
-        "nameSlug": "ian-koenig-701617"
+        "id": 688867,
+        "fullName": "Braxton Bragg",
+        "link": "/api/v1/people/688867",
+        "nameSlug": "braxton-bragg-688867"
       },
       "fromTeam": {
-        "id": 4904,
-        "name": "El Paso Chihuahuas",
-        "link": "/api/v1/teams/4904"
+        "id": 418,
+        "name": "Chesapeake Baysox",
+        "link": "/api/v1/teams/418"
       },
       "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
       },
       "date": "2026-11-17",
       "effectiveDate": "2026-11-17",
       "typeCode": "SE",
       "typeDesc": "Selected",
-      "description": "San Diego Padres selected the contract of RHP Ian Koenig from El Paso Chihuahuas."
-    },
-    {
-      "id": 950491,
-      "person": {
-        "id": 694393,
-        "fullName": "Jaxon Wiggins",
-        "link": "/api/v1/people/694393",
-        "nameSlug": "jaxon-wiggins-694393"
-      },
-      "fromTeam": {
-        "id": 451,
-        "name": "Iowa Cubs",
-        "link": "/api/v1/teams/451"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Chicago Cubs selected the contract of RHP Jaxon Wiggins from Iowa Cubs."
-    },
-    {
-      "id": 950512,
-      "person": {
-        "id": 813838,
-        "fullName": "Jacob Odle",
-        "link": "/api/v1/people/813838",
-        "nameSlug": "jacob-odle-813838"
-      },
-      "fromTeam": {
-        "id": 443,
-        "name": "Peoria Chiefs",
-        "link": "/api/v1/teams/443"
-      },
-      "toTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "link": "/api/v1/teams/138"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "St. Louis Cardinals selected the contract of RHP Jacob Odle from Peoria Chiefs."
-    },
-    {
-      "id": 950553,
-      "person": {
-        "id": 802506,
-        "fullName": "Dylan O'Rae",
-        "link": "/api/v1/people/802506",
-        "nameSlug": "dylan-o-rae-802506"
-      },
-      "fromTeam": {
-        "id": 5015,
-        "name": "Biloxi Shuckers",
-        "link": "/api/v1/teams/5015"
-      },
-      "toTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "link": "/api/v1/teams/158"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "Milwaukee Brewers selected the contract of 2B Dylan O'Rae from Biloxi Shuckers."
-    },
-    {
-      "id": 950401,
-      "person": {
-        "id": 800473,
-        "fullName": "Jefferson Rojas",
-        "link": "/api/v1/people/800473",
-        "nameSlug": "jefferson-rojas-800473"
-      },
-      "fromTeam": {
-        "id": 552,
-        "name": "Syracuse Mets",
-        "link": "/api/v1/teams/552"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-11-17",
-      "effectiveDate": "2026-11-17",
-      "typeCode": "SE",
-      "typeDesc": "Selected",
-      "description": "New York Mets selected the contract of SS Jefferson Rojas from Syracuse Mets."
+      "description": "Baltimore Orioles selected the contract of RHP Braxton Bragg from Chesapeake Baysox."
     },
     {
       "id": 950402,
@@ -367226,6 +366434,54 @@
       "description": "Houston Astros sent LF Joey Loperfido outright to Sugar Land Space Cowboys."
     },
     {
+      "id": 950354,
+      "person": {
+        "id": 703186,
+        "fullName": "Jarlin Susana",
+        "link": "/api/v1/people/703186",
+        "nameSlug": "jarlin-susana-703186"
+      },
+      "fromTeam": {
+        "id": 534,
+        "name": "Rochester Red Wings",
+        "link": "/api/v1/teams/534"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Washington Nationals selected the contract of RHP Jarlin Susana from Rochester Red Wings."
+    },
+    {
+      "id": 950355,
+      "person": {
+        "id": 805809,
+        "fullName": "Travis Sykora",
+        "link": "/api/v1/people/805809",
+        "nameSlug": "travis-sykora-805809"
+      },
+      "fromTeam": {
+        "id": 547,
+        "name": "Harrisburg Senators",
+        "link": "/api/v1/teams/547"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Washington Nationals selected the contract of RHP Travis Sykora from Harrisburg Senators."
+    },
+    {
       "id": 950403,
       "person": {
         "id": 694545,
@@ -367248,6 +366504,390 @@
       "typeCode": "SE",
       "typeDesc": "Selected",
       "description": "Houston Astros selected the contract of RHP Jackson Nezuh from Sugar Land Space Cowboys."
+    },
+    {
+      "id": 950479,
+      "person": {
+        "id": 703185,
+        "fullName": "Nelson Rada",
+        "link": "/api/v1/people/703185",
+        "nameSlug": "nelson-rada-703185"
+      },
+      "fromTeam": {
+        "id": 561,
+        "name": "Salt Lake Bees",
+        "link": "/api/v1/teams/561"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Los Angeles Angels selected the contract of CF Nelson Rada from Salt Lake Bees."
+    },
+    {
+      "id": 950480,
+      "person": {
+        "id": 804558,
+        "fullName": "Raudi Rodriguez",
+        "link": "/api/v1/people/804558",
+        "nameSlug": "raudi-rodriguez-804558"
+      },
+      "fromTeam": {
+        "id": 561,
+        "name": "Salt Lake Bees",
+        "link": "/api/v1/teams/561"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Los Angeles Angels selected the contract of CF Raudi Rodriguez from Salt Lake Bees."
+    },
+    {
+      "id": 950486,
+      "person": {
+        "id": 800286,
+        "fullName": "Wellington Aracena",
+        "link": "/api/v1/people/800286",
+        "nameSlug": "wellington-aracena-800286"
+      },
+      "fromTeam": {
+        "id": 5368,
+        "name": "Amarillo Sod Poodles",
+        "link": "/api/v1/teams/5368"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Arizona Diamondbacks selected the contract of RHP Wellington Aracena from Amarillo Sod Poodles."
+    },
+    {
+      "id": 950505,
+      "person": {
+        "id": 700649,
+        "fullName": "Henry Lalane",
+        "link": "/api/v1/people/700649",
+        "nameSlug": "henry-lalane-700649"
+      },
+      "fromTeam": {
+        "id": 3410,
+        "name": "Richmond Flying Squirrels",
+        "link": "/api/v1/teams/3410"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "San Francisco Giants selected the contract of LHP Henry Lalane from Richmond Flying Squirrels."
+    },
+    {
+      "id": 950487,
+      "person": {
+        "id": 702679,
+        "fullName": "Demetrio Crisantes",
+        "link": "/api/v1/people/702679",
+        "nameSlug": "demetrio-crisantes-702679"
+      },
+      "fromTeam": {
+        "id": 2310,
+        "name": "Reno Aces",
+        "link": "/api/v1/teams/2310"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Arizona Diamondbacks selected the contract of SS Demetrio Crisantes from Reno Aces."
+    },
+    {
+      "id": 950490,
+      "person": {
+        "id": 805664,
+        "fullName": "Brody McCullough",
+        "link": "/api/v1/people/805664",
+        "nameSlug": "brody-mccullough-805664"
+      },
+      "fromTeam": {
+        "id": 553,
+        "name": "Knoxville Smokies",
+        "link": "/api/v1/teams/553"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Chicago Cubs selected the contract of RHP Brody McCullough from Knoxville Smokies."
+    },
+    {
+      "id": 950491,
+      "person": {
+        "id": 694393,
+        "fullName": "Jaxon Wiggins",
+        "link": "/api/v1/people/694393",
+        "nameSlug": "jaxon-wiggins-694393"
+      },
+      "fromTeam": {
+        "id": 451,
+        "name": "Iowa Cubs",
+        "link": "/api/v1/teams/451"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Chicago Cubs selected the contract of RHP Jaxon Wiggins from Iowa Cubs."
+    },
+    {
+      "id": 950481,
+      "person": {
+        "id": 800060,
+        "fullName": "Xavier Isaac",
+        "link": "/api/v1/people/800060",
+        "nameSlug": "xavier-isaac-800060"
+      },
+      "fromTeam": {
+        "id": 234,
+        "name": "Durham Bulls",
+        "link": "/api/v1/teams/234"
+      },
+      "toTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Tampa Bay Rays selected the contract of 1B Xavier Isaac from Durham Bulls."
+    },
+    {
+      "id": 950482,
+      "person": {
+        "id": 801517,
+        "fullName": "Spencer Giesting",
+        "link": "/api/v1/people/801517",
+        "nameSlug": "spencer-giesting-801517"
+      },
+      "fromTeam": {
+        "id": 2310,
+        "name": "Reno Aces",
+        "link": "/api/v1/teams/2310"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Arizona Diamondbacks selected the contract of LHP Spencer Giesting from Reno Aces."
+    },
+    {
+      "id": 950492,
+      "person": {
+        "id": 803244,
+        "fullName": "Eliazar Dishmey",
+        "link": "/api/v1/people/803244",
+        "nameSlug": "eliazar-dishmey-803244"
+      },
+      "fromTeam": {
+        "id": 4124,
+        "name": "Pensacola Blue Wahoos",
+        "link": "/api/v1/teams/4124"
+      },
+      "toTeam": {
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Miami Marlins selected the contract of RHP Eliazar Dishmey from Pensacola Blue Wahoos."
+    },
+    {
+      "id": 950483,
+      "person": {
+        "id": 802416,
+        "fullName": "Ashton Izzi",
+        "link": "/api/v1/people/802416",
+        "nameSlug": "ashton-izzi-802416"
+      },
+      "fromTeam": {
+        "id": 2310,
+        "name": "Reno Aces",
+        "link": "/api/v1/teams/2310"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Arizona Diamondbacks selected the contract of RHP Ashton Izzi from Reno Aces."
+    },
+    {
+      "id": 950484,
+      "person": {
+        "id": 702258,
+        "fullName": "Druw Jones",
+        "link": "/api/v1/people/702258",
+        "nameSlug": "druw-jones-702258"
+      },
+      "fromTeam": {
+        "id": 5368,
+        "name": "Amarillo Sod Poodles",
+        "link": "/api/v1/teams/5368"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Arizona Diamondbacks selected the contract of CF Druw Jones from Amarillo Sod Poodles."
+    },
+    {
+      "id": 950485,
+      "person": {
+        "id": 800198,
+        "fullName": "Cristofer Torin",
+        "link": "/api/v1/people/800198",
+        "nameSlug": "cristofer-torin-800198"
+      },
+      "fromTeam": {
+        "id": 5368,
+        "name": "Amarillo Sod Poodles",
+        "link": "/api/v1/teams/5368"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Arizona Diamondbacks selected the contract of 2B Cristofer Torin from Amarillo Sod Poodles."
+    },
+    {
+      "id": 950494,
+      "person": {
+        "id": 689476,
+        "fullName": "Jace Beck",
+        "link": "/api/v1/people/689476",
+        "nameSlug": "jace-beck-689476"
+      },
+      "fromTeam": {
+        "id": 564,
+        "name": "Jacksonville Jumbo Shrimp",
+        "link": "/api/v1/teams/564"
+      },
+      "toTeam": {
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Miami Marlins selected the contract of RHP Jace Beck from Jacksonville Jumbo Shrimp."
+    },
+    {
+      "id": 950496,
+      "person": {
+        "id": 687783,
+        "fullName": "Matthew Wood",
+        "link": "/api/v1/people/687783",
+        "nameSlug": "matthew-wood-687783"
+      },
+      "fromTeam": {
+        "id": 5015,
+        "name": "Biloxi Shuckers",
+        "link": "/api/v1/teams/5015"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Milwaukee Brewers selected the contract of C Matthew Wood from Biloxi Shuckers."
+    },
+    {
+      "id": 950504,
+      "person": {
+        "id": 814491,
+        "fullName": "Tucker Musgrove",
+        "link": "/api/v1/people/814491",
+        "nameSlug": "tucker-musgrove-814491"
+      },
+      "fromTeam": {
+        "id": 510,
+        "name": "San Antonio Missions",
+        "link": "/api/v1/teams/510"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "San Diego Padres selected the contract of RHP Tucker Musgrove from San Antonio Missions."
     },
     {
       "id": 950469,
@@ -367298,6 +366938,54 @@
       "description": "Pittsburgh Pirates selected the contract of LF Mitch Jebb from Indianapolis Indians."
     },
     {
+      "id": 950499,
+      "person": {
+        "id": 702726,
+        "fullName": "Luke Adams",
+        "link": "/api/v1/people/702726",
+        "nameSlug": "luke-adams-702726"
+      },
+      "fromTeam": {
+        "id": 556,
+        "name": "Nashville Sounds",
+        "link": "/api/v1/teams/556"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Milwaukee Brewers selected the contract of 3B Luke Adams from Nashville Sounds."
+    },
+    {
+      "id": 950511,
+      "person": {
+        "id": 800305,
+        "fullName": "Jesús  Báez",
+        "link": "/api/v1/people/800305",
+        "nameSlug": "jesus-baez-800305"
+      },
+      "fromTeam": {
+        "id": 440,
+        "name": "Ozarks Springbirds",
+        "link": "/api/v1/teams/440"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "St. Louis Cardinals selected the contract of SS Jesús  Báez from Ozarks Springbirds."
+    },
+    {
       "id": 950407,
       "person": {
         "id": 800208,
@@ -367322,6 +367010,222 @@
       "description": "Pittsburgh Pirates selected the contract of C Axiel Plaz from Greensboro Grasshoppers."
     },
     {
+      "id": 950503,
+      "person": {
+        "id": 701617,
+        "fullName": "Ian Koenig",
+        "link": "/api/v1/people/701617",
+        "nameSlug": "ian-koenig-701617"
+      },
+      "fromTeam": {
+        "id": 4904,
+        "name": "El Paso Chihuahuas",
+        "link": "/api/v1/teams/4904"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "San Diego Padres selected the contract of RHP Ian Koenig from El Paso Chihuahuas."
+    },
+    {
+      "id": 950488,
+      "person": {
+        "id": 805175,
+        "fullName": "Davis Polo",
+        "link": "/api/v1/people/805175",
+        "nameSlug": "davis-polo-805175"
+      },
+      "fromTeam": {
+        "id": 431,
+        "name": "Gwinnett Stripers",
+        "link": "/api/v1/teams/431"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Atlanta Braves selected the contract of RHP Davis Polo from Gwinnett Stripers."
+    },
+    {
+      "id": 950507,
+      "person": {
+        "id": 701241,
+        "fullName": "Josh Bostick",
+        "link": "/api/v1/people/701241",
+        "nameSlug": "josh-bostick-701241"
+      },
+      "fromTeam": {
+        "id": 461,
+        "name": "Eugene Emeralds",
+        "link": "/api/v1/teams/461"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "San Francisco Giants selected the contract of RHP Josh Bostick from Eugene Emeralds."
+    },
+    {
+      "id": 950489,
+      "person": {
+        "id": 678142,
+        "fullName": "Cedric De Grandpre",
+        "link": "/api/v1/people/678142",
+        "nameSlug": "cedric-de-grandpre-678142"
+      },
+      "fromTeam": {
+        "id": 431,
+        "name": "Gwinnett Stripers",
+        "link": "/api/v1/teams/431"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Atlanta Braves selected the contract of RHP Cedric De Grandpre from Gwinnett Stripers."
+    },
+    {
+      "id": 950493,
+      "person": {
+        "id": 801276,
+        "fullName": "Juan Matheus",
+        "link": "/api/v1/people/801276",
+        "nameSlug": "juan-matheus-801276"
+      },
+      "fromTeam": {
+        "id": 564,
+        "name": "Jacksonville Jumbo Shrimp",
+        "link": "/api/v1/teams/564"
+      },
+      "toTeam": {
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Miami Marlins selected the contract of SS Juan Matheus from Jacksonville Jumbo Shrimp."
+    },
+    {
+      "id": 950495,
+      "person": {
+        "id": 681449,
+        "fullName": "Brandon White",
+        "link": "/api/v1/people/681449",
+        "nameSlug": "brandon-white-681449"
+      },
+      "fromTeam": {
+        "id": 564,
+        "name": "Jacksonville Jumbo Shrimp",
+        "link": "/api/v1/teams/564"
+      },
+      "toTeam": {
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Miami Marlins selected the contract of RHP Brandon White from Jacksonville Jumbo Shrimp."
+    },
+    {
+      "id": 950512,
+      "person": {
+        "id": 813838,
+        "fullName": "Jacob Odle",
+        "link": "/api/v1/people/813838",
+        "nameSlug": "jacob-odle-813838"
+      },
+      "fromTeam": {
+        "id": 443,
+        "name": "Peoria Chiefs",
+        "link": "/api/v1/teams/443"
+      },
+      "toTeam": {
+        "id": 138,
+        "name": "St. Louis Cardinals",
+        "link": "/api/v1/teams/138"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "St. Louis Cardinals selected the contract of RHP Jacob Odle from Peoria Chiefs."
+    },
+    {
+      "id": 950498,
+      "person": {
+        "id": 702518,
+        "fullName": "Jett Williams",
+        "link": "/api/v1/people/702518",
+        "nameSlug": "jett-williams-702518"
+      },
+      "fromTeam": {
+        "id": 556,
+        "name": "Nashville Sounds",
+        "link": "/api/v1/teams/556"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Milwaukee Brewers selected the contract of SS Jett Williams from Nashville Sounds."
+    },
+    {
+      "id": 950500,
+      "person": {
+        "id": 687726,
+        "fullName": "Cameron Wagoner",
+        "link": "/api/v1/people/687726",
+        "nameSlug": "cameron-wagoner-687726"
+      },
+      "fromTeam": {
+        "id": 556,
+        "name": "Nashville Sounds",
+        "link": "/api/v1/teams/556"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Milwaukee Brewers selected the contract of RHP Cameron Wagoner from Nashville Sounds."
+    },
+    {
       "id": 950470,
       "person": {
         "id": 701328,
@@ -367344,6 +367248,102 @@
       "typeCode": "SE",
       "typeDesc": "Selected",
       "description": "Los Angeles Dodgers selected the contract of LHP Jackson Ferris from Oklahoma City Comets."
+    },
+    {
+      "id": 950409,
+      "person": {
+        "id": 694805,
+        "fullName": "Kyle Carr",
+        "link": "/api/v1/people/694805",
+        "nameSlug": "kyle-carr-694805"
+      },
+      "fromTeam": {
+        "id": 531,
+        "name": "Scranton/Wilkes-Barre Highlanders",
+        "link": "/api/v1/teams/531"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "New York Yankees selected the contract of LHP Kyle Carr from Scranton/Wilkes-Barre Highlanders."
+    },
+    {
+      "id": 950410,
+      "person": {
+        "id": 801739,
+        "fullName": "Carlos Lagrange",
+        "link": "/api/v1/people/801739",
+        "nameSlug": "carlos-lagrange-801739"
+      },
+      "fromTeam": {
+        "id": 531,
+        "name": "Scranton/Wilkes-Barre Highlanders",
+        "link": "/api/v1/teams/531"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "New York Yankees selected the contract of RHP Carlos Lagrange from Scranton/Wilkes-Barre Highlanders."
+    },
+    {
+      "id": 950411,
+      "person": {
+        "id": 682003,
+        "fullName": "Garrett Martin",
+        "link": "/api/v1/people/682003",
+        "nameSlug": "garrett-martin-682003"
+      },
+      "fromTeam": {
+        "id": 531,
+        "name": "Scranton/Wilkes-Barre Highlanders",
+        "link": "/api/v1/teams/531"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "New York Yankees selected the contract of RF Garrett Martin from Scranton/Wilkes-Barre Highlanders."
+    },
+    {
+      "id": 950412,
+      "person": {
+        "id": 806413,
+        "fullName": "Daniel Guerra",
+        "link": "/api/v1/people/806413",
+        "nameSlug": "daniel-guerra-806413"
+      },
+      "fromTeam": {
+        "id": 422,
+        "name": "Buffalo Bisons",
+        "link": "/api/v1/teams/422"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2026-11-17",
+      "effectiveDate": "2026-11-17",
+      "typeCode": "SE",
+      "typeDesc": "Selected",
+      "description": "Toronto Blue Jays selected the contract of RHP Daniel Guerra from Buffalo Bisons."
     },
     {
       "id": 950611,
@@ -368210,6 +368210,26 @@
       "description": "Colorado Rockies designated RHP Jimmy Herget for assignment."
     },
     {
+      "id": 950793,
+      "person": {
+        "id": 685314,
+        "fullName": "Andrew Saalfrank",
+        "link": "/api/v1/people/685314",
+        "nameSlug": "andrew-saalfrank-685314"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "LHP Andrew Saalfrank elected free agency."
+    },
+    {
       "id": 950849,
       "person": {
         "id": 678184,
@@ -368230,32 +368250,12 @@
       "description": "RHP Garrett Hawkins elected free agency."
     },
     {
-      "id": 950845,
+      "id": 950853,
       "person": {
-        "id": 699114,
-        "fullName": "Leo Balcazar",
-        "link": "/api/v1/people/699114",
-        "nameSlug": "leo-balcazar-699114"
-      },
-      "toTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "link": "/api/v1/teams/113"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "SS Leo Balcazar elected free agency."
-    },
-    {
-      "id": 950852,
-      "person": {
-        "id": 687223,
-        "fullName": "Carson Palmquist",
-        "link": "/api/v1/people/687223",
-        "nameSlug": "carson-palmquist-687223"
+        "id": 688692,
+        "fullName": "Jared Simpson",
+        "link": "/api/v1/people/688692",
+        "nameSlug": "jared-simpson-688692"
       },
       "toTeam": {
         "id": 120,
@@ -368267,35 +368267,15 @@
       "resolutionDate": "2026-11-20",
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
-      "description": "LHP Carson Palmquist elected free agency."
+      "description": "LHP Jared Simpson elected free agency."
     },
     {
-      "id": 950819,
+      "id": 950837,
       "person": {
-        "id": 681799,
-        "fullName": "Ethan Roberts",
-        "link": "/api/v1/people/681799",
-        "nameSlug": "ethan-roberts-681799"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "RHP Ethan Roberts elected free agency."
-    },
-    {
-      "id": 950839,
-      "person": {
-        "id": 641927,
-        "fullName": "Bailey Ober",
-        "link": "/api/v1/people/641927",
-        "nameSlug": "bailey-ober-641927"
+        "id": 663616,
+        "fullName": "Trevor Larnach",
+        "link": "/api/v1/people/663616",
+        "nameSlug": "trevor-larnach-663616"
       },
       "toTeam": {
         "id": 142,
@@ -368307,7 +368287,7 @@
       "resolutionDate": "2026-11-20",
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
-      "description": "RHP Bailey Ober elected free agency."
+      "description": "LF Trevor Larnach elected free agency."
     },
     {
       "id": 950842,
@@ -368368,26 +368348,6 @@
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
       "description": "RHP James Karinchak elected free agency."
-    },
-    {
-      "id": 950851,
-      "person": {
-        "id": 680686,
-        "fullName": "Josiah Gray",
-        "link": "/api/v1/people/680686",
-        "nameSlug": "josiah-gray-680686"
-      },
-      "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "RHP Josiah Gray elected free agency."
     },
     {
       "id": 950771,
@@ -368550,24 +368510,64 @@
       "description": "RHP Luis Gil elected free agency."
     },
     {
-      "id": 950837,
+      "id": 950845,
       "person": {
-        "id": 663616,
-        "fullName": "Trevor Larnach",
-        "link": "/api/v1/people/663616",
-        "nameSlug": "trevor-larnach-663616"
+        "id": 699114,
+        "fullName": "Leo Balcazar",
+        "link": "/api/v1/people/699114",
+        "nameSlug": "leo-balcazar-699114"
       },
       "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
       },
       "date": "2026-11-20",
       "effectiveDate": "2026-11-20",
       "resolutionDate": "2026-11-20",
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
-      "description": "LF Trevor Larnach elected free agency."
+      "description": "SS Leo Balcazar elected free agency."
+    },
+    {
+      "id": 950852,
+      "person": {
+        "id": 687223,
+        "fullName": "Carson Palmquist",
+        "link": "/api/v1/people/687223",
+        "nameSlug": "carson-palmquist-687223"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "LHP Carson Palmquist elected free agency."
+    },
+    {
+      "id": 950833,
+      "person": {
+        "id": 657136,
+        "fullName": "Connor Wong",
+        "link": "/api/v1/people/657136",
+        "nameSlug": "connor-wong-657136"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "C Connor Wong elected free agency."
     },
     {
       "id": 950835,
@@ -368648,326 +368648,6 @@
       "typeCode": "DFA",
       "typeDesc": "Declared Free Agency",
       "description": "RHP Jimmy Herget elected free agency."
-    },
-    {
-      "id": 950785,
-      "person": {
-        "id": 666624,
-        "fullName": "Christopher Morel",
-        "link": "/api/v1/people/666624",
-        "nameSlug": "christopher-morel-666624"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "1B Christopher Morel elected free agency."
-    },
-    {
-      "id": 950787,
-      "person": {
-        "id": 697811,
-        "fullName": "Dylan Ross",
-        "link": "/api/v1/people/697811",
-        "nameSlug": "dylan-ross-697811"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "RHP Dylan Ross elected free agency."
-    },
-    {
-      "id": 950836,
-      "person": {
-        "id": 664728,
-        "fullName": "Kyle Isbel",
-        "link": "/api/v1/people/664728",
-        "nameSlug": "kyle-isbel-664728"
-      },
-      "toTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "link": "/api/v1/teams/118"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "CF Kyle Isbel elected free agency."
-    },
-    {
-      "id": 950841,
-      "person": {
-        "id": 682674,
-        "fullName": "Victor Bericoto",
-        "link": "/api/v1/people/682674",
-        "nameSlug": "victor-bericoto-682674"
-      },
-      "toTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "link": "/api/v1/teams/137"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "LF Victor Bericoto elected free agency."
-    },
-    {
-      "id": 950793,
-      "person": {
-        "id": 685314,
-        "fullName": "Andrew Saalfrank",
-        "link": "/api/v1/people/685314",
-        "nameSlug": "andrew-saalfrank-685314"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "LHP Andrew Saalfrank elected free agency."
-    },
-    {
-      "id": 950796,
-      "person": {
-        "id": 700242,
-        "fullName": "Trey Sweeney",
-        "link": "/api/v1/people/700242",
-        "nameSlug": "trey-sweeney-700242"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "SS Trey Sweeney elected free agency."
-    },
-    {
-      "id": 950797,
-      "person": {
-        "id": 663837,
-        "fullName": "Matt Vierling",
-        "link": "/api/v1/people/663837",
-        "nameSlug": "matt-vierling-663837"
-      },
-      "toTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "link": "/api/v1/teams/116"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "CF Matt Vierling elected free agency."
-    },
-    {
-      "id": 950818,
-      "person": {
-        "id": 672356,
-        "fullName": "Gabriel Arias",
-        "link": "/api/v1/people/672356",
-        "nameSlug": "gabriel-arias-672356"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "3B Gabriel Arias elected free agency."
-    },
-    {
-      "id": 950853,
-      "person": {
-        "id": 688692,
-        "fullName": "Jared Simpson",
-        "link": "/api/v1/people/688692",
-        "nameSlug": "jared-simpson-688692"
-      },
-      "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "LHP Jared Simpson elected free agency."
-    },
-    {
-      "id": 950833,
-      "person": {
-        "id": 657136,
-        "fullName": "Connor Wong",
-        "link": "/api/v1/people/657136",
-        "nameSlug": "connor-wong-657136"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "C Connor Wong elected free agency."
-    },
-    {
-      "id": 950838,
-      "person": {
-        "id": 670242,
-        "fullName": "Matt Wallner",
-        "link": "/api/v1/people/670242",
-        "nameSlug": "matt-wallner-670242"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "RF Matt Wallner elected free agency."
-    },
-    {
-      "id": 950850,
-      "person": {
-        "id": 676664,
-        "fullName": "JP Sears",
-        "link": "/api/v1/people/676664",
-        "nameSlug": "jp-sears-676664"
-      },
-      "toTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "link": "/api/v1/teams/135"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "LHP JP Sears elected free agency."
-    },
-    {
-      "id": 950781,
-      "person": {
-        "id": 695391,
-        "fullName": "Brett Harris",
-        "link": "/api/v1/people/695391",
-        "nameSlug": "brett-harris-695391"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "3B Brett Harris elected free agency."
-    },
-    {
-      "id": 950786,
-      "person": {
-        "id": 663584,
-        "fullName": "Hayden Senger",
-        "link": "/api/v1/people/663584",
-        "nameSlug": "hayden-senger-663584"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "C Hayden Senger elected free agency."
-    },
-    {
-      "id": 950782,
-      "person": {
-        "id": 650559,
-        "fullName": "Bryan De La Cruz",
-        "link": "/api/v1/people/650559",
-        "nameSlug": "bryan-de-la-cruz-650559"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "RF Bryan De La Cruz elected free agency."
-    },
-    {
-      "id": 950784,
-      "person": {
-        "id": 694851,
-        "fullName": "Andrew Hoffmann",
-        "link": "/api/v1/people/694851",
-        "nameSlug": "andrew-hoffmann-694851"
-      },
-      "toTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "link": "/api/v1/teams/143"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "resolutionDate": "2026-11-20",
-      "typeCode": "DFA",
-      "typeDesc": "Declared Free Agency",
-      "description": "RHP Andrew Hoffmann elected free agency."
     },
     {
       "id": 950790,
@@ -369070,6 +368750,326 @@
       "description": "LHP Jake Miller elected free agency."
     },
     {
+      "id": 950796,
+      "person": {
+        "id": 700242,
+        "fullName": "Trey Sweeney",
+        "link": "/api/v1/people/700242",
+        "nameSlug": "trey-sweeney-700242"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "SS Trey Sweeney elected free agency."
+    },
+    {
+      "id": 950797,
+      "person": {
+        "id": 663837,
+        "fullName": "Matt Vierling",
+        "link": "/api/v1/people/663837",
+        "nameSlug": "matt-vierling-663837"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "CF Matt Vierling elected free agency."
+    },
+    {
+      "id": 950818,
+      "person": {
+        "id": 672356,
+        "fullName": "Gabriel Arias",
+        "link": "/api/v1/people/672356",
+        "nameSlug": "gabriel-arias-672356"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "3B Gabriel Arias elected free agency."
+    },
+    {
+      "id": 950819,
+      "person": {
+        "id": 681799,
+        "fullName": "Ethan Roberts",
+        "link": "/api/v1/people/681799",
+        "nameSlug": "ethan-roberts-681799"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Ethan Roberts elected free agency."
+    },
+    {
+      "id": 950838,
+      "person": {
+        "id": 670242,
+        "fullName": "Matt Wallner",
+        "link": "/api/v1/people/670242",
+        "nameSlug": "matt-wallner-670242"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RF Matt Wallner elected free agency."
+    },
+    {
+      "id": 950839,
+      "person": {
+        "id": 641927,
+        "fullName": "Bailey Ober",
+        "link": "/api/v1/people/641927",
+        "nameSlug": "bailey-ober-641927"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Bailey Ober elected free agency."
+    },
+    {
+      "id": 950850,
+      "person": {
+        "id": 676664,
+        "fullName": "JP Sears",
+        "link": "/api/v1/people/676664",
+        "nameSlug": "jp-sears-676664"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "LHP JP Sears elected free agency."
+    },
+    {
+      "id": 950851,
+      "person": {
+        "id": 680686,
+        "fullName": "Josiah Gray",
+        "link": "/api/v1/people/680686",
+        "nameSlug": "josiah-gray-680686"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Josiah Gray elected free agency."
+    },
+    {
+      "id": 950781,
+      "person": {
+        "id": 695391,
+        "fullName": "Brett Harris",
+        "link": "/api/v1/people/695391",
+        "nameSlug": "brett-harris-695391"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "3B Brett Harris elected free agency."
+    },
+    {
+      "id": 950786,
+      "person": {
+        "id": 663584,
+        "fullName": "Hayden Senger",
+        "link": "/api/v1/people/663584",
+        "nameSlug": "hayden-senger-663584"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "C Hayden Senger elected free agency."
+    },
+    {
+      "id": 950782,
+      "person": {
+        "id": 650559,
+        "fullName": "Bryan De La Cruz",
+        "link": "/api/v1/people/650559",
+        "nameSlug": "bryan-de-la-cruz-650559"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RF Bryan De La Cruz elected free agency."
+    },
+    {
+      "id": 950784,
+      "person": {
+        "id": 694851,
+        "fullName": "Andrew Hoffmann",
+        "link": "/api/v1/people/694851",
+        "nameSlug": "andrew-hoffmann-694851"
+      },
+      "toTeam": {
+        "id": 143,
+        "name": "Philadelphia Phillies",
+        "link": "/api/v1/teams/143"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Andrew Hoffmann elected free agency."
+    },
+    {
+      "id": 950785,
+      "person": {
+        "id": 666624,
+        "fullName": "Christopher Morel",
+        "link": "/api/v1/people/666624",
+        "nameSlug": "christopher-morel-666624"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "1B Christopher Morel elected free agency."
+    },
+    {
+      "id": 950787,
+      "person": {
+        "id": 697811,
+        "fullName": "Dylan Ross",
+        "link": "/api/v1/people/697811",
+        "nameSlug": "dylan-ross-697811"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Dylan Ross elected free agency."
+    },
+    {
+      "id": 950836,
+      "person": {
+        "id": 664728,
+        "fullName": "Kyle Isbel",
+        "link": "/api/v1/people/664728",
+        "nameSlug": "kyle-isbel-664728"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "CF Kyle Isbel elected free agency."
+    },
+    {
+      "id": 950841,
+      "person": {
+        "id": 682674,
+        "fullName": "Victor Bericoto",
+        "link": "/api/v1/people/682674",
+        "nameSlug": "victor-bericoto-682674"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "resolutionDate": "2026-11-20",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "LF Victor Bericoto elected free agency."
+    },
+    {
       "id": 950770,
       "person": {
         "id": 695445,
@@ -369110,162 +369110,6 @@
       "typeCode": "TR",
       "typeDesc": "Trade",
       "description": "Toronto Blue Jays traded RHP Chase Lee to Colorado Rockies for cash."
-    },
-    {
-      "id": 950804,
-      "person": {
-        "id": 670912,
-        "fullName": "Johan Oviedo",
-        "link": "/api/v1/people/670912",
-        "nameSlug": "johan-oviedo-670912"
-      },
-      "fromTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "toTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Arizona Diamondbacks traded LHP Luke Dotson and Future Considerations to Boston Red Sox for RHP Johan Oviedo."
-    },
-    {
-      "id": 950804,
-      "fromTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Arizona Diamondbacks traded LHP Luke Dotson and Future Considerations to Boston Red Sox for RHP Johan Oviedo."
-    },
-    {
-      "id": 950817,
-      "person": {
-        "id": 694820,
-        "fullName": "Braxton Roxby",
-        "link": "/api/v1/people/694820",
-        "nameSlug": "braxton-roxby-694820"
-      },
-      "fromTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Washington Nationals traded RHP Braxton Roxby to Chicago Cubs for cash."
-    },
-    {
-      "id": 950817,
-      "fromTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "toTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Washington Nationals traded RHP Braxton Roxby to Chicago Cubs for cash."
-    },
-    {
-      "id": 950804,
-      "person": {
-        "id": 806060,
-        "fullName": "Luke Dotson",
-        "link": "/api/v1/people/806060",
-        "nameSlug": "luke-dotson-806060"
-      },
-      "fromTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "link": "/api/v1/teams/109"
-      },
-      "toTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "link": "/api/v1/teams/111"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Arizona Diamondbacks traded LHP Luke Dotson and Future Considerations to Boston Red Sox for RHP Johan Oviedo."
-    },
-    {
-      "id": 950798,
-      "person": {
-        "id": 821689,
-        "fullName": "Francisco Espinoza",
-        "link": "/api/v1/people/821689",
-        "nameSlug": "francisco-espinoza-821689"
-      },
-      "fromTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "toTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Minnesota Twins traded 1B Royce Lewis to Los Angeles Dodgers for RHP Bobby Miller and C Francisco Espinoza."
-    },
-    {
-      "id": 950798,
-      "person": {
-        "id": 668904,
-        "fullName": "Royce Lewis",
-        "link": "/api/v1/people/668904",
-        "nameSlug": "royce-lewis-668904"
-      },
-      "fromTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "link": "/api/v1/teams/142"
-      },
-      "toTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "link": "/api/v1/teams/119"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "TR",
-      "typeDesc": "Trade",
-      "description": "Minnesota Twins traded 1B Royce Lewis to Los Angeles Dodgers for RHP Bobby Miller and C Francisco Espinoza."
     },
     {
       "id": 950789,
@@ -369340,6 +369184,138 @@
       "description": "San Francisco Giants traded SS Christian Koss to Tampa Bay Rays for RHP Cole Stokes."
     },
     {
+      "id": 950817,
+      "person": {
+        "id": 694820,
+        "fullName": "Braxton Roxby",
+        "link": "/api/v1/people/694820",
+        "nameSlug": "braxton-roxby-694820"
+      },
+      "fromTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Washington Nationals traded RHP Braxton Roxby to Chicago Cubs for cash."
+    },
+    {
+      "id": 950817,
+      "fromTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Washington Nationals traded RHP Braxton Roxby to Chicago Cubs for cash."
+    },
+    {
+      "id": 950788,
+      "person": {
+        "id": 681402,
+        "fullName": "Gus Varland",
+        "link": "/api/v1/people/681402",
+        "nameSlug": "gus-varland-681402"
+      },
+      "fromTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "toTeam": {
+        "id": 121,
+        "name": "New York Mets",
+        "link": "/api/v1/teams/121"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "CLW",
+      "typeDesc": "Claimed Off Waivers",
+      "description": "New York Mets claimed RHP Gus Varland off waivers from Washington Nationals."
+    },
+    {
+      "id": 950804,
+      "person": {
+        "id": 670912,
+        "fullName": "Johan Oviedo",
+        "link": "/api/v1/people/670912",
+        "nameSlug": "johan-oviedo-670912"
+      },
+      "fromTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Arizona Diamondbacks traded LHP Luke Dotson and Future Considerations to Boston Red Sox for RHP Johan Oviedo."
+    },
+    {
+      "id": 950804,
+      "fromTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Arizona Diamondbacks traded LHP Luke Dotson and Future Considerations to Boston Red Sox for RHP Johan Oviedo."
+    },
+    {
+      "id": 950804,
+      "person": {
+        "id": 806060,
+        "fullName": "Luke Dotson",
+        "link": "/api/v1/people/806060",
+        "nameSlug": "luke-dotson-806060"
+      },
+      "fromTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Arizona Diamondbacks traded LHP Luke Dotson and Future Considerations to Boston Red Sox for RHP Johan Oviedo."
+    },
+    {
       "id": 950791,
       "person": {
         "id": 814006,
@@ -369388,6 +369364,78 @@
       "description": "Athletics sent RHP Hayden Juenger outright to Las Vegas Aviators."
     },
     {
+      "id": 950798,
+      "person": {
+        "id": 821689,
+        "fullName": "Francisco Espinoza",
+        "link": "/api/v1/people/821689",
+        "nameSlug": "francisco-espinoza-821689"
+      },
+      "fromTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Minnesota Twins traded 1B Royce Lewis to Los Angeles Dodgers for RHP Bobby Miller and C Francisco Espinoza."
+    },
+    {
+      "id": 950798,
+      "person": {
+        "id": 668904,
+        "fullName": "Royce Lewis",
+        "link": "/api/v1/people/668904",
+        "nameSlug": "royce-lewis-668904"
+      },
+      "fromTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "TR",
+      "typeDesc": "Trade",
+      "description": "Minnesota Twins traded 1B Royce Lewis to Los Angeles Dodgers for RHP Bobby Miller and C Francisco Espinoza."
+    },
+    {
+      "id": 950816,
+      "person": {
+        "id": 663698,
+        "fullName": "Joey Bart",
+        "link": "/api/v1/people/663698",
+        "nameSlug": "joey-bart-663698"
+      },
+      "fromTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "toTeam": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "link": "/api/v1/teams/112"
+      },
+      "date": "2026-11-20",
+      "effectiveDate": "2026-11-20",
+      "typeCode": "CLW",
+      "typeDesc": "Claimed Off Waivers",
+      "description": "Chicago Cubs claimed C Joey Bart off waivers from Chicago White Sox."
+    },
+    {
       "id": 950779,
       "person": {
         "id": 673929,
@@ -369434,54 +369482,6 @@
       "typeCode": "TR",
       "typeDesc": "Trade",
       "description": "Chicago White Sox traded RHP Jordan Leasure to Philadelphia Phillies for RHP Christian Coppola."
-    },
-    {
-      "id": 950788,
-      "person": {
-        "id": 681402,
-        "fullName": "Gus Varland",
-        "link": "/api/v1/people/681402",
-        "nameSlug": "gus-varland-681402"
-      },
-      "fromTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "link": "/api/v1/teams/120"
-      },
-      "toTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "link": "/api/v1/teams/121"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "CLW",
-      "typeDesc": "Claimed Off Waivers",
-      "description": "New York Mets claimed RHP Gus Varland off waivers from Washington Nationals."
-    },
-    {
-      "id": 950816,
-      "person": {
-        "id": 663698,
-        "fullName": "Joey Bart",
-        "link": "/api/v1/people/663698",
-        "nameSlug": "joey-bart-663698"
-      },
-      "fromTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "link": "/api/v1/teams/145"
-      },
-      "toTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "link": "/api/v1/teams/112"
-      },
-      "date": "2026-11-20",
-      "effectiveDate": "2026-11-20",
-      "typeCode": "CLW",
-      "typeDesc": "Claimed Off Waivers",
-      "description": "Chicago Cubs claimed C Joey Bart off waivers from Chicago White Sox."
     }
   ]
 }
